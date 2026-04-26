@@ -1,0 +1,149 @@
+import { useState } from "react";
+import { AUDIO_OUT_URL, PERSONAS } from "./config";
+import { presign, uploadAudio, sendFeedback, submitText } from "./api";
+import { useSession } from "./useSession";
+import { Recorder } from "./components/Recorder";
+import { PersonaCard } from "./components/PersonaCard";
+import { StatusBar } from "./components/StatusBar";
+import { Transcript } from "./components/Transcript";
+
+export default function App() {
+  const [sessionId, setSessionId] = useState<string | null>(null);
+  const [voteSent, setVoteSent] = useState(false);
+  const [inputMode, setInputMode] = useState<"text" | "audio">("text");
+  const [textInput, setTextInput] = useState("");
+  const [submitting, setSubmitting] = useState(false);
+  const { state, connect, reset } = useSession(AUDIO_OUT_URL);
+
+  const onRecorded = async (blob: Blob) => {
+    try {
+      const { session_id, put_url, content_type } = await presign("webm");
+      setSessionId(session_id);
+      setVoteSent(false);
+      reset();
+      connect(session_id);
+      await uploadAudio(put_url, blob, content_type);
+    } catch (e) {
+      console.error(e);
+    }
+  };
+
+  const onTextSubmit = async () => {
+    const text = textInput.trim();
+    if (!text || submitting) return;
+    try {
+      setSubmitting(true);
+      setVoteSent(false);
+      reset();
+      const { session_id } = await submitText(text);
+      setSessionId(session_id);
+      connect(session_id);
+      setTextInput("");
+    } catch (e) {
+      console.error(e);
+    } finally {
+      setSubmitting(false);
+    }
+  };
+
+  const vote = async (r: "up" | "down") => {
+    if (!sessionId || voteSent) return;
+    await sendFeedback(sessionId, r);
+    setVoteSent(true);
+  };
+
+  const done = state.status === "done";
+
+  return (
+    <div className="app">
+      <header>
+        <h1>El Consejo</h1>
+        <p className="subtitle">Cuéntale un problema a la familia.</p>
+      </header>
+
+      <section className="family">
+        {PERSONAS.map((p) => (
+          <PersonaCard
+            key={p.key}
+            personaKey={p.key}
+            name={p.name}
+            active={state.activeRole === p.key}
+          />
+        ))}
+      </section>
+
+      <section className="controls">
+        <div className="input-tabs">
+          <button
+            className={inputMode === "text" ? "tab active" : "tab"}
+            onClick={() => setInputMode("text")}
+          >
+            ✍️ Escribir
+          </button>
+          <button
+            className={inputMode === "audio" ? "tab active" : "tab"}
+            onClick={() => setInputMode("audio")}
+          >
+            🎙️ Grabar
+          </button>
+        </div>
+
+        {inputMode === "text" ? (
+          <div className="text-input">
+            <textarea
+              placeholder="Cuéntame tu problema… (español o inglés)"
+              value={textInput}
+              onChange={(e) => setTextInput(e.target.value)}
+              rows={3}
+              disabled={submitting || state.status === "running"}
+            />
+            <button
+              onClick={onTextSubmit}
+              disabled={!textInput.trim() || submitting || state.status === "running"}
+            >
+              {submitting ? "Enviando…" : "Consultar al Consejo"}
+            </button>
+          </div>
+        ) : (
+          <Recorder onRecorded={onRecorded} disabled={state.status === "running"} />
+        )}
+
+        <StatusBar status={state.status} />
+      </section>
+
+      {state.dilemma && (
+        <section className="dilemma">
+          <span className="dilemma-label">Tu problema:</span> {state.dilemma}
+        </section>
+      )}
+
+      <section className="conversation">
+        <Transcript lines={state.lines} />
+      </section>
+
+      {state.verdict && (
+        <section className="verdict">
+          <h2>Veredicto de la familia</h2>
+          <p>{state.verdict.text}</p>
+          {state.verdict.audio_url && (
+            <audio controls preload="none" src={state.verdict.audio_url} />
+          )}
+          {done && (
+            <div className="feedback">
+              {voteSent ? (
+                <span>¡Gracias por el feedback!</span>
+              ) : (
+                <>
+                  <button onClick={() => vote("up")}>👍 Me sirvió</button>
+                  <button onClick={() => vote("down")}>👎 No me sirvió</button>
+                </>
+              )}
+            </div>
+          )}
+        </section>
+      )}
+
+      {state.error && <div className="error">⚠️ {state.error}</div>}
+    </div>
+  );
+}

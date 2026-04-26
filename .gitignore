@@ -1,0 +1,25 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.env.*
+*.egg-info/
+.DS_Store
+out/
+
+# Frontend
+node_modules/
+
+# CDK
+infra/cdk.out/
+
+# Build artifacts
+build/
+
+# Claude Code
+.claude/
+
+# OS
+*.json.local
+Thumbs.db
