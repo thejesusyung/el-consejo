@@ -1,0 +1,90 @@
+{
+  "id": 2,
+  "lang": "es",
+  "category": "money",
+  "dilemma": "Mi hermano me pide prestados $5,000 dólares pero nunca me ha pagado lo que le presté antes.",
+  "lines": [
+    {
+      "role": "moderator_open",
+      "text": "Mi hermano vuelve a pedirnos $5,000 dólares aunque aún no nos ha pagado lo anterior. ¿Cómo ven ustedes esta situación?"
+    },
+    {
+      "role": "abuela",
+      "text": "Ay, mijo, pero qué es eso de prestar cuando todavía debe lo anterior. En mis tiempos eso se llamaba \"dar la mano al que te va a pegar\". Ayúdalo con una platica pequeña si quieres, pero cinco mil dólares no, porque si no te paga vas a terminar pelando con los vecinos y diciendo \"es que mi hermano...\". Que Dios te bendiga, pero primero que te pague lo que debe."
+    },
+    {
+      "role": "mama",
+      "text": "Ay pero pobrecito, ¿ya comiste? Porque ahorita con el estrés de esto ni comer debes haber podido. No me gusta que pelemos entre familia, pero es que cinco mil dólares es mucho, mijo, de verdad mucho. ¿Por qué no le dices que te pague primero lo que debe y ya luego vemos algo más pequeño? No es negarle, es nada más ser razonable, ¿no?"
+    },
+    {
+      "role": "tio",
+      "text": "Mira, te lo digo yo: ese cuento de \"hermano es sangre\" se traduce en este país a \"hermano te va a dejar pelado y te va a invitar un café para que no lo odies\". Que te pague lo que debe primero, y si no tiene, que se busque un segundo empleo como todo el mundo, no un hermano con billetera. En fin, la familia es la familia, pero cinco mil dólares es suficiente para romperla."
+    },
+    {
+      "role": "prima",
+      "text": "O sea, esto es literalmente una red flag clásica de dinámica familiar tóxica, ¿no? Si no pone límites ahora, esto se va a repetir toda la vida y va a generar más resentimiento, que es exactamente el trauma generacional que tenemos que romper. Ayúdalo si quieres, pero con condiciones claras, porque enablear este patrón no es sano para ninguno de los dos, en serio."
+    },
+    {
+      "role": "primo",
+      "text": "Oye, pero qué pasa, ¿este es el mismo brother que me debe desde el 2019? Jaja, bro, hasta el Banco de Guatemala tiene más paciencia que tú. Mira, yo te digo: págale lo que te debe primero y luego le das los cinco lucas, así no te чувствуás como el banco de tu propia familia, primo. Ah, y que no sea en efectivo, que te haga transferencia para que haya prueba, porque después dice \"es que te di efectivo\" y tú como que... ¿cuándo? En fin, yo propongo que pidamos pizza mientras resolvemos este drama."
+    },
+    {
+      "role": "primo",
+      "text": "Jaja, es que ya hasta el Covid tiene menos tiempo que esa deuda, bro. Mira, en serio: ayúdalo si tu corazón te lo pide, pero que sea con contrato de por medio, porque la familia y el dinero no se mezclan bien, mi gente... igual que la pizza con ketchup, simplemente no funciona. ¿Pedimos dominó o qué?"
+    },
+    {
+      "role": "primo",
+      "text": "Jaja, pero qué clase de banco es este, ¿ BBVA o familia? Bro, yo lo que digo es: ayúdalo con algo chiquito si quieres, pero los cinco mil ni pensarlo, y ya si te paga entonces le prestás de nuevo, así no te convertís en el caja de la familia. Mientras tanto, ¿alguien quiere alitas? Porque con este debate vamos a necesitar energía extra, mi gente."
+    },
+    {
+      "role": "abuela",
+      "text": "Ay, mijo, pero qué es con tanta pizza y alitas cuando estamos hablando de cinco mil dólares. Dios mío, en mis tiempos resolvíamos las cosas sentados, no con comida. Que te pague lo que debe primero, y luego le das lo que tu corazón quiera, pero con papel y todo bien hecho, porque la palabra se la lleva el viento y el dinero se lo lleva el hermano."
+    },
+    {
+      "role": "mama",
+      "text": "Ay mi amor, es que todos tienen razón pero es que también pensemos en él, ¿no? A lo mejor sí está en apuros de verdad... pero sí, sí, tiene que pagarte primero lo que te debe, eso no se discute. ¿Sabes qué? Voy a preparar un café para todos porque tanto discutir con el estómago vacío no es sano, y además así мы мы calmamos los nervios, porque esto de la familia a veces me tiene con el corazón así... ay, mejor no pienso. ¿Quién quiere café?"
+    },
+    {
+      "role": "primo",
+      "text": "Jaja, abuela tiene razón, pero es que la pizza es mi terapia familiar, mi gente. Yo acepto el café de la mamá porque hay que calmar los nervios, pero mientras esperamos las bebidas... ¿alguien ordenó wings? 🐔"
+    },
+    {
+      "role": "tio",
+      "text": "Mira, ya todos dijeron lo mismo y tienen razón, pero nadie le va a hacer caso al otro porque aquí todos somos más tercos que mula cargada. Te lo digo yo: ni un centavo hasta que te pague lo que debe, y si no tiene, que se busque la vida como nos tocó a todos en este país. Y tú, Primo, deja de ofrecer pizza que parece que estás vendiendo en lugar de resolver, jaja."
+    },
+    {
+      "role": "prima",
+      "text": "Oigan, pero tampoco hay que ser tan extremos, o sea, el tío dice \"ni un centavo\" y pues eso tampoco es sano, ¿no? Como que hay un término medio: le decís con amor que te pague lo que debe primero, ponés límites claros, pero sin cerrar la puerta completamente porque eso genera más resentimiento. Ayudenlo si pueden y quieren, pero con un plan de pago escrito, porque literalmente estamos hablando de romper un ciclo aquí, no de hacer drama."
+    },
+    {
+      "role": "moderator_close",
+      "text": "Entendemos que tu hermano atraviesa un apuro, pero también vemos que la deuda pendiente ya marca un precedente que no podemos ignorar. Coincidimos en que no es momento de entregar cinco mil dólares hasta que se salde lo anterior y se demuestre voluntad responsable. Recomendamos abrir una charla franca, proponer un plan de pagos por escrito y, si acaso, apoyar con una cantidad menor y acotada, para cuidar el patrimonio y, sobre todo, la relación."
+    }
+  ],
+  "eval": {
+    "coverage_pct": 87.5,
+    "baseline_considerations": [
+      "Revisar historial de impagos y causas reales del atraso previo.",
+      "Evaluar mi liquidez, presupuesto y riesgo de necesitar el dinero pronto.",
+      "Definir términos claros: monto, plazo, intereses (si aplica) y garantías por escrito.",
+      "Considerar un plan de pagos escalonados y consecuencias por incumplimiento.",
+      "Explorar alternativas: préstamo parcial, apoyo no financiero o mediación familiar.",
+      "Proteger la relación: comunicar límites con respeto y evitar expectativas irreales.",
+      "Documentar acuerdos y registrar abonos para transparencia y evidencia.",
+      "Preparar escenarios: qué hacer si no paga, incluyendo límites de pérdida asumible."
+    ],
+    "voice_scores": {
+      "abuela": 5,
+      "mama": 5,
+      "tio": 4,
+      "prima": 5,
+      "primo": 4
+    },
+    "diversity_score": -1.0,
+    "judge_reasoning": "1. SÍ se aborda: hay referencias constantes a la deuda pendiente ('desde el 2019') y se enfatiza que no se debe prestar más hasta que se revise y resuelva esa deuda previa.\n\n2. NO se aborda: nadie pregunta sobre la liquidez, presupuesto o necesidades financieras del propio moderador. El enfoque está en el hermano deudor, no en la situación financiera de quien presta.\n\n3. SÍ se aborda: múltiples participantes mentionan 'con papel y todo bien hecho', 'contrato de por medio', 'plan de pago escrito', y transferencias como evidencia.\n\n4. SÍ se aborda: se propone 'un plan de pagos por escrito' y 'algo más pequeño' primero, estableciendo etapas.\n\n5. SÍ se aborda: se menciona ayudar con 'una platica pequeña' o 'algo chiquito', y el tío sugiere que el hermano 'se busque un segundo empleo'.\n\n6. SÍ se aborda: la Prima enfatiza 'poner límites claros' pero 'sin cerrar la puerta completamente' y evitar 'más resentimiento'. Se habla de comunicar con amor y respeto.\n\n7. SÍ se aborda: el Primo dice 'que no sea en efectivo, que te haga transferencia para que haya prueba' y la Abuela menciona 'con papel y todo bien hecho'.\n\n8. SÍ se aborda: el Tío dice 'que se busque la vida como nos tocó a todos' y se establece que no se debe prestar hasta que demuestre voluntad de pago, estableciendo un límite claro."
+  },
+  "timing": {
+    "panel_seconds": 232.0,
+    "eval_seconds": 120.0
+  }
+}

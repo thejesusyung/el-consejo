@@ -1,0 +1,90 @@
+{
+  "id": 3,
+  "lang": "es",
+  "category": "career",
+  "dilemma": "Me ofrecieron un trabajo con el doble de sueldo pero tendría que mudarme a otro país y dejar a mi familia.",
+  "lines": [
+    {
+      "role": "moderator_open",
+      "text": "La vida nos pone delante una puerta que promete crecer el futuro pero también pide alejarnos de casa. ¿Qué sentimos al ver que el trabajo y el corazón piden caminos distintos?"
+    },
+    {
+      "role": "abuela",
+      "text": "Ay, mijo, eso es durísimo. En mis tiempos el dinero no lo era todo, pero tampoco te voy a decir que te mueras de hambre por estar cerca. Ora mucho antes de decidir, porque la familia es el mejor tesoro y una vez que te vas, las distancias pesan más que el dinero. Que Dios te bendiga y te dé sabiduría."
+    },
+    {
+      "role": "mama",
+      "text": "Ay mi amor, pero ¿ya comiste? Porque con la preocupación que traes no has de haber probado bocado... Por Dios, dime que estás durmiendo bien porque esto es muy fuerte. No me hagas esto de irte tan lejos, ¿quién va a verme los domingos? Pero entiendo que tienes que crecer... Ay, es que me da mucha tristeza, pero tampoco quiero ser yo la que te detenga. Que Dios te ayude, mijo."
+    },
+    {
+      "role": "tio",
+      "text": "Mira, te lo digo yo: el dinero no compra la felicidad pero sí compra tranquilidad, y en este país la tranquilidad vale oro. No seas pendejo, aquí la oportunidad no toca dos veces. Tu familia va a estar ahí cuando vuelvas, y con doble sueldo los domingos van a ser más largos porque vas a poder visitarlos bien equipado. La vida es así, mijo, o te quedas cerca y sufferís la necesidad, o te vas y sufferís la distancia. Elige el sufrimiento que te permita dormir tranquilo."
+    },
+    {
+      "role": "prima",
+      "text": "Oye, entiendo que es una decisión super difícil, pero literalmente tienes que preguntarte qué te va a hacer feliz a ti, no a los demás. No es sano que asumas toda la culpa por elegir tu crecimiento, porque eso es una forma de trauma generacional también. Y ya sea que te vayas o te quedes, ponte límites claros con tu familia para que no termines sintiendo que los traicionaste por cuidarte a ti mismo."
+    },
+    {
+      "role": "primo",
+      "text": "Oye tranqui, breathe un poco primo, que parece que ya te estás mudando ahorita mismo jaja. Pero ya en serio, nobody said es para siempre ¿no? Puedes irte, probar, y si no te funciona, regresas con las maletas y las tablas. La familia no se va a ningún lado y tú tampoco dejas de ser hijo por buscar tu propio camino. O sea, no es blanco y negro, hay gris, hay color, hay reggaetón en el medio."
+    },
+    {
+      "role": "mama",
+      "text": "Ay, pero escucha a tu primo, tiene razón en que no es para siempre, mijo... Puedes irte, probar y si no te sientes bien, regresas a casa, que aquí siempre hay un lugar para ti. Pero no te voy a mentir, me da mucho miedo que te vayas y te olvides de nosotros, ¿eh? Por favor no me hagas eso, mándame mensaje todos los días aunque sea un \"hola, mamita\" para saber que sigues vivo."
+    },
+    {
+      "role": "tio",
+      "text": "Mira, tu primo tiene razón en que no es para siempre, pero tampoco le vas a decir a tu mamá \"no me escribas que estoy ocupado\" porque puro cuento, las familias de lejos se deshilachan rápido. Mándale el mensaje diario aunque sea un emoji, no te cuesta nada y la tranquilizas. Y tú, no te hagas el héroe, ve a probar, y si no te funciona, regresas con el rabo entre las piernas pero con experiencia. En este país el que no se arriesga no cruza la calle, mijo."
+    },
+    {
+      "role": "mama",
+      "text": "Ay pero es que tiene razón tu tío, mijo, no te hagas el fuerte porque luego te rompes por dentro. Pero ya怀, lo que te voy a decir es que wherever vayas, acuérdate que aquí tienes a alguien que va a estar esperándote con la comida caliente y el cuarto listo por si decides volver. Eso sí, no me ignores ¿eh? Que me da mucho miedo que te vayas y el mundo te absorba... Por Dios, ojalá y wherever estés te traten bien y comas bien porque tú siempre andas tan ocupado que se te olvida hasta respirar."
+    },
+    {
+      "role": "prima",
+      "text": "Oye, y entiendo que te dé miedo mamá, pero literally no es tu responsabilidad calmar la ansiedad de todos los demás, eso te va a cargar emocionalmente y no es sano. Lo que sí puedes hacer es establecer una rutina de comunicación que funcione para los dos, sin que te sientas culpable por vivir tu vida. Y tú, no te cases con la culpa, porque ese es como el patrón más común del trauma generacional en estas familias, creer que happiness siempre implica traicionar a alguien."
+    },
+    {
+      "role": "tio",
+      "text": "Mira, la prima tiene razón en eso de la culpa, pero tampoco te vas a vivir con miedo de decepcionar a todos porque entonces te mueres sin haber vivido nada. O sea, te vas, mandas el mensaje, comes bien, y si la cosa no funciona, regresas. La familia es como el ron: mientras más tiempo pasa, mejor se pone si lo sabes tratar. No seas pendejo, ve y punto."
+    },
+    {
+      "role": "abuela",
+      "text": "Ay, mijo, ya bastante hablaron aquí, pero te digo una cosa: el que se va no abandona a su familia, el que se va es para darle de comer a esa familia también. En mis tiempos nos íbamos al norte y mandábamos dinero porque aquí no había trabajo, y no por eso dejábamos de ser familia. Ora, ve con Dios, llévate tu rosario y tu teléfono para mandarle mensaje a tu madre todos los días, que la pobre ya está sofrida. Y si te va mal, aquí te esperamos con un caldo de pollo bien caliente porque para eso es la familia, mijo, para recibirte siempre. Que Dios te bendiga."
+    },
+    {
+      "role": "abuela",
+      "text": "Ay, ya todos hablaron muy bien pero acuérdense que el que se va no se lleva la familia en el corazón, la lleva siempre consigo. Mijo, tú ve con la frente en alto, que Dios no abandona a los que trabajan honradamente, y cuando vuelvas vas a ver que aquí nada ha cambiado porque la familia es como el agua del río: aunque se aleje un poco, siempre vuelve a su causa. Que te vaya muy bien y no se te olvide que eres amado, ¿eh?"
+    },
+    {
+      "role": "moderator_close",
+      "text": "Entendemos que esta decisión duele porque pone en la balanza el crecimiento personal y el bienestar de quienes más amas; todos vemos que el cambio tiene un costo real, pero también un valor que no podemos ignorar. Coincidimos en que la familia no se rompe por buscar nuevos horizontes, siempre y cuando mantengamos puentes claros y constantes de cariño y comunicación. Recomendamos tomar la oportunidad con humildad y sin culpa, fijando desde hoy una rutina de contacto que tranquilice a casa, sabiendo que aquí siempre habrá un lugar, un plato caliente y un abrazo dispuesto a recibirte, sea cual sea el resultado."
+    }
+  ],
+  "eval": {
+    "coverage_pct": 50.0,
+    "baseline_considerations": [
+      "Impacto a largo plazo en relaciones familiares y redes de apoyo.",
+      "Costos de vida, impuestos y poder adquisitivo real en el nuevo país.",
+      "Estabilidad laboral, visa, carrera y trayectoria profesional futura.",
+      "Alternativas de visitas, teletrabajo y reubicación parcial o temporal.",
+      "Salud mental, redes sociales y sentido de pertenencia en destino.",
+      "Plan financiero familiar, ahorro, deudas y seguridad ante imprevistos.",
+      "Legalidad, derechos laborales y cobertura de salud/seguridad en el extranjero.",
+      "Escenarios de reversibilidad, costos de retorno y plan B si la oferta falla."
+    ],
+    "voice_scores": {
+      "abuela": 5,
+      "mama": 5,
+      "tio": 4,
+      "prima": 4,
+      "primo": 4
+    },
+    "diversity_score": -1.0,
+    "judge_reasoning": "1. LARGO PLAZO FAMILIA: Abundante - Abuela, Mamá, Tío, Prima, Primo discuten impacto en relaciones, mantener comunicación, miedo al olvido, familia esperando. 2. COSTOS/IMPUESTOS: No abordado - solo se menciona 'dinero' y 'tranquilidad' genéricamente, sin discutir costos de vida, impuestos o poder adquisitivo real. 3. ESTABILIDAD LABORAL/VISA: No abordado - no hay mención de visa, estabilidad laboral o trayectoria profesional. 4. ALTERNATIVAS VISITAS/TELETRABAJO: Parcialmente - se habla de regresar si no funciona y de mensajes, pero no hay discusión de telecommuting o reubicación parcial. 5. SALUD MENTAL/PERTENENCIA: Parcialmente - Prima menciona culpa, ansiedad, salud emocional; no se aborda sentido de pertenencia en destino. 6. PLAN FINANCIERO: No abordado - sin discusión de ahorro, deudas o seguridad financiera familiar. 7. LEGALIDAD/DERECHOS: No abordado - ninguna mención de derechos laborales, salud o seguridad en el extranjero. 8. REVERSIBILIDAD/PLAN B: Parcialmente - se discute mucho la opción de regresar ('regresas con las maletas', 'si no te funciona regresas'), pero no se mencionan costos de retorno ni plan B específico."
+  },
+  "timing": {
+    "panel_seconds": 416.4,
+    "eval_seconds": 168.1
+  }
+}

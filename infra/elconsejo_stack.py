@@ -114,6 +114,9 @@ class ElConsejoStack(Stack):
         )
 
         # --- Lambda common env ------------------------------------------
+        llm_backend = self.node.try_get_context("llm_backend") or "bedrock"
+        openrouter_api_key = self.node.try_get_context("openrouter_api_key") or ""
+
         env = {
             "ELCONSEJO_TABLE": table.table_name,
             "ELCONSEJO_BUCKET_ASSETS": assets_bucket.bucket_name,
@@ -122,6 +125,8 @@ class ElConsejoStack(Stack):
             "ELCONSEJO_BUCKET_TRANSCRIPTS": transcripts_bucket.bucket_name,
             "ELCONSEJO_SQS_CONDUCTOR_URL": conductor_queue.queue_url,
             "ELCONSEJO_SQS_EVAL_URL": eval_queue.queue_url,
+            "LLM_BACKEND": llm_backend,
+            "OPENROUTER_API_KEY": openrouter_api_key,
         }
 
         def py_fn(name: str, handler: str, timeout_min: int = 1, memory: int = 256,

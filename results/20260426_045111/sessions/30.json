@@ -1,0 +1,90 @@
+{
+  "id": 30,
+  "lang": "en",
+  "category": "money",
+  "dilemma": "My adult daughter keeps asking for money for rent and groceries but I see her posting vacation photos on social media.",
+  "lines": [
+    {
+      "role": "moderator_open",
+      "text": "Requests for rent and groceries arrive while vacation photos appear on her feed, and we are gathered to hear how this gap between need and display sits with each of us."
+    },
+    {
+      "role": "abuela",
+      "text": "Ay, mijo, this is exactly what I was afraid of. In my day we didn't have social media showing everybody your business while you're asking your mother for money - thatsecrets don't make friends, you know? Tell her she needs to put her priorities in order first, and then maybe we'll talk about helping, because you can't have both vacation and asking for rent money from your mother."
+    },
+    {
+      "role": "mama",
+      "text": "Ay por Dios, look I understand what you're saying Mamá, but you know how it is - maybe she's trying to keep up appearances for work or maybe she saved up for months for that trip and still needs help with bills? Have you actually sat down with her and talked about what's really going on? Because sometimes we judge what we see on the outside without knowing the whole picture, and I'd hate for us to push her away when maybe she just needs her family to understand."
+    },
+    {
+      "role": "tio",
+      "text": "Look, I'm gonna be honest with you - in this country we call that having your cake and eating it too. But here's the thing, your wife is right too, you gotta talk to her first because social media is basically lying with pictures, you know? Sit down, ask to see her bank account like an adult, and then decide if she's really struggling or just bad at budgeting - trust me on this one, I've seen this movie before."
+    },
+    {
+      "role": "prima",
+      "text": "Okay but can we talk about how social media literally creates this pressure to perform a certain lifestyle though? That said, I think the real issue here is that you're not setting clear boundaries - you need to have an honest conversation without judgment, ask her what's actually going on, and then decide what you're comfortable helping with. And honestly? Asking to see her bank account is a red flag for the relationship, so maybe instead focus on what YOUR boundaries are and what you can realistically give without resentment, because that's how you maintain a healthy relationship AND teach her accountability."
+    },
+    {
+      "role": "primo",
+      "text": "Ay what's good fam, I'm not gonna lie the bank account thing had me死 but also maybe we just ask her what's actually going on before we start doing financial forensics ya know? Like just sit down, eat something, and be like \" prima what's the real deal\" - sometimes people just need to feel heard not interrogated 😂"
+    },
+    {
+      "role": "tio",
+      "text": "Look, my niece is calling asking to see the bank account a \"red flag\" and I'm sorry but that's pure nonsense - when someone asks YOU for money, you absolutely have the right to know where that money's going. That's not a red flag, that's called being a responsible adult. And in this country we love enabling our kids to stay irresponsible forever because \"ay pero es mi hijito\" - then we wonder why they're 35 and still can't balance a checkbook. You wanna help? Fine, help. But help with a clear head and open eyes, not with your heart bleeding all over the place. And yes, I'm drinking rum, thank you very much."
+    },
+    {
+      "role": "mama",
+      "text": "Ay por Dios, everyone please - we're all getting so heated over this and we're family. Tío, I hear you, I do, but don't make it sound like I'm trying to enable her to be irresponsible, okay? That's not fair. I'm just saying let's not rush to judgment before we know what's really happening in her life. Have you even talked to her yourself? Because maybe if we all sat down together like adults instead of talking about her like she's not our blood... *wipes eyes* I'm sorry, it's just - I hate when the family fights like this. Let's just all take a breath, maybe eat something, and maybe... maybe I can talk to her? I'm her mother, after all. That's what we do. We figure it out."
+    },
+    {
+      "role": "abuela",
+      "text": "Ay, mija, don't cry - Dios mío, we're a family, we shouldn't be fighting amongst ourselves. You're right, you're her mother, and you should be the one to talk to her - but mija, you tell her that Abuela loves her but you can't be posting pictures of margaritas on the beach while asking for rent money, that's not right, that's not how we raised anyone to behave. Tell her to come sit at this table, we'll make her some food, and we'll figure this out like civilized people - but no more vacation photos until her bills are paid, that's just common sense."
+    },
+    {
+      "role": "prima",
+      "text": "Okay I hear you Tío, but I think there's a difference between having healthy financial transparency and weaponizing it, you know? Like yes, you can absolutely ask questions, but there's a way to do that without making her feel interrogated or like she's not trusted - that's literally just creating more distance. Mamá's right that we need to talk to her with love, but I also think Abuela's point about the vacation photos isn't wrong either. Maybe the real conversation is: \"We love you, we want to help, but we need to understand what's going on so we can actually support you in a way that's sustainable for everyone\" - because helping from a place of resentment literally helps nobody. Can we all just agree that the family meeting with food is a good idea though? Because that's literally what we needed from the start."
+    },
+    {
+      "role": "abuela",
+      "text": "Ay, mija tienes razón, that's exactly what we've needed desde el principio - everyone sitting together at the table, eating, and talking like family. You bring her here, I'll make her sancocho, and we'll get to the bottom of this con calma. But I'm telling you right now, once we know what's really going on, if she's been spending money on vacations while asking for rent, that's going to stop - porque eso no se hace, no importa qué digan las redes sociales. We help family, but we don't enable lies."
+    },
+    {
+      "role": "mama",
+      "text": "Ay, thank God we're all finally on the same page *wipes eyes* - this is all I wanted from the beginning, you know? Let's just all sit together, eat, and figure this out like family should. I'll help you with the sancocho, Mamá - you know I make the best arepas to go with it. And maybe... maybe once we're all eating together and she's not feeling attacked, she'll actually open up about what's really going on. Because at the end of the day she's still our girl, and we love her. Have you eaten today, by the way? You all look tired, this conversation has been exhausting - let's make sure we take care of ourselves too, okay?"
+    },
+    {
+      "role": "tio",
+      "text": "*takes a sip of rum*\n\nAlright, finally we're doing something useful instead of just talking in circles for an hour. But let me tell you something - when she gets here and you're all eating sancocho, somebody needs to actually bring up the vacation photos, because Abuela's right and we're all just dancing around it. I'll be the bad guy if nobody else wants to, I've been worse things than that in this family. *shrugs* But yeah, the food's a good idea - you catch more flies with sancocho than with accusations, I suppose."
+    },
+    {
+      "role": "moderator_close",
+      "text": "We all feel torn between love and responsibility, seeing her ask for help while sharing vacation photos stirs worry about priorities and fairness. We agree she deserves a calm, face-to-face family talk over food, where we listen first and lead with care rather than judgment, and that honesty about money must be part of the conversation. We recommend Mom reach out gently, set clear boundaries around what help looks like, and ask her to pause big expenses until basics are steady, so support builds trust instead of resentment."
+    }
+  ],
+  "eval": {
+    "coverage_pct": 87.5,
+    "baseline_considerations": [
+      "Verify actual financial need versus discretionary spending.",
+      "Clarify expectations and boundaries for future support.",
+      "Assess impact on her autonomy and long-term budgeting skills.",
+      "Evaluate effects on trust and family relationships.",
+      "Consider whether support should be tied to accountability measures.",
+      "Explore alternative help (budget coaching, shared expenses) vs cash.",
+      "Check consistency with support given to other family members.",
+      "Plan communication approach to address concerns without shame."
+    ],
+    "voice_scores": {
+      "abuela": 3,
+      "mama": 5,
+      "tio": 4,
+      "prima": 5,
+      "primo": 4
+    },
+    "diversity_score": -1.0,
+    "judge_reasoning": "1. VERIFY FINANCIAL NEED: Heavily addressed - multiple personas discuss the gap between vacation photos and money requests, want to see bank accounts, discuss 'priorities and fairness'. 2. EXPECTATIONS/BOUNDARIES: Addressed - Prima discusses 'boundaries' and 'what you can realistically give', Abuela says 'no vacation photos until bills paid', moderator recommends setting clear boundaries. 3. AUTONOMY/Long-term SKILLS: Indirectly addressed - Tío mentions enabling irresponsibility, Prima mentions 'teach her accountability', discussion of learning budgeting. 4. TRUST/FAMILY RELATIONSHIPS: Addressed - Mamá fears pushing her away, Prima discusses maintaining healthy relationships, family fights and reconciles, moderator mentions building trust. 5. ACCOUNTABILITY MEASURES: Addressed - Tío wants to know where money goes, Abuela says behavior must stop, moderator recommends pausing big expenses. 6. ALTERNATIVE HELP: Partially addressed - discussion focuses on conversation/meals vs cash, but no mention of budget coaching or shared expenses as alternatives. 7. CONSISTENCY WITH OTHER FAMILY MEMBERS: NOT addressed - no discussion of whether similar support has been given to other family members. 8. COMMUNICATION WITHOUT SHAME: Addressed - multiple personas emphasize 'without judgment', 'not feeling attacked', 'lead with care rather than judgment', family meeting with food to create safe space."
+  },
+  "timing": {
+    "panel_seconds": 419.2,
+    "eval_seconds": 278.5
+  }
+}

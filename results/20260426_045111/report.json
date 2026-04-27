@@ -1,0 +1,27 @@
+{
+  "n_sessions": 37,
+  "coverage_mean": 61.8,
+  "coverage_min": 25.0,
+  "coverage_max": 100.0,
+  "coverage_above_75_pct": 35.1,
+  "voice_consistency_mean": {
+    "abuela": 4.0,
+    "mama": 4.95,
+    "tio": 3.46,
+    "prima": 4.62,
+    "primo": 3.81
+  },
+  "voice_consistency_overall": 4.17,
+  "coverage_by_category": {
+    "money": 58.9,
+    "career": 55.0,
+    "cultural": 72.5,
+    "relationship": 69.6,
+    "parenting": 58.3,
+    "family": 57.1
+  },
+  "coverage_by_language": {
+    "es": 66.2,
+    "en": 56.6
+  }
+}

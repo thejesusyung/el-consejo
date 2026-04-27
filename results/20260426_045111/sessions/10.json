@@ -1,0 +1,90 @@
+{
+  "id": 10,
+  "lang": "en",
+  "category": "career",
+  "dilemma": "I want to quit my stable corporate job to open a restaurant but my wife is pregnant with our first child.",
+  "lines": [
+    {
+      "role": "moderator_open",
+      "text": "The choice between leaving a steady corporate path to open a restaurant and welcoming a first child with your wife is on the table. We can weigh how timing, risk, and family needs intersect without rushing to conclusions."
+    },
+    {
+      "role": "abuela",
+      "text": "Ay, mijo, let me tell you something - when I was carrying your uncle, we didn't have two pesos to rub together, but your grandfather worked two jobs and we made it work. A new baby and a new restaurant at the same time? That's not courage, that's tempting God. Wait until the child comes, let your wife rest easy knowing there's food on the table, and then when the baby is bigger and walking, you can chase your dreams. The restaurant will still be there, but that child only comes once."
+    },
+    {
+      "role": "mama",
+      "text": "Ay mi amor, have you even talked to your wife about this? What is she feeling, is she sleeping okay? Because she's the one carrying your child AND thinking about whether the bills will get paid. Por Dios, don't make her worry like this. Wait, just wait until the baby is here and you see how things feel, then you can make a decision that doesn't have two hearts depending on you."
+    },
+    {
+      "role": "tio",
+      "text": "Look, I love the dream, really I do, but opening a restaurant in this country is like burning money and calling it a hobby. You know what the average restaurant fails in two years? And you're gonna do it with a pregnant wife and no health insurance from your job? That's not ambition, that's stupidity with extra steps.\n\nYour grandmother's right, wait. Not because God will punish you or whatever, but because you can't pour from an empty cup. A baby costs more than you think, your wife will need you present not stressed about rent, and if the restaurant fails—which it might, let's be honest—you'll be changing diapers wondering why you didn't listen to your uncle who saw this coming.\n\nWait a year, save every peso, let the kid arrive, and THEN chase your dreams when you got a safety net. Trust me on this one, I've seen too many families break up over money stress. The restaurant isn't going anywhere, but your family could be."
+    },
+    {
+      "role": "prima",
+      "text": "Okay but can we talk about how you're making this decision without your wife being part of the conversation first? That's literally a red flag to me - this affects her and the baby too, so you need to have that conversation ASAP and really listen to what she needs, not just what you want. Also, the timing thing aside, opening a restaurant is stressful enough without adding pregnancy hormones and a newborn to the mix - that's just setting yourself up for burnout and probably some generational trauma for that kid down the line. Wait until the baby comes, get into couples therapy to navigate this as a team, and then make a decision when you're both emotionally ready."
+    },
+    {
+      "role": "primo",
+      "text": "Bro, everyone here's saying wait and honestly they're right but also LIKE have you even asked your wife what SHE wants first?? That's your business partner in this whole thing, man. You out here making big decisions like you're single and child-free when there's a whole human depending on y'all in like eight months. Plus bro, restaurants are stressful - you really wanna be dealing with Yelp reviews and morning shift prep while changing diapers and with your wife tired as hell? That's chaos no meme can fix. Talk to your wife first, then we can figure out the rest, but right now you sound like you're ordering without asking the table what they want 😂"
+    },
+    {
+      "role": "tio",
+      "text": "Look, everyone's telling you to talk to your wife and they're right, but the fact that you came here to ask US before asking HER? That's pure nonsense. Don't be a fool - your wife isn't your mother, she's your partner, and if you can't have this conversation with her now, what makes you think you can run a restaurant together? In this country we call that building a house on sand, mijo. Talk to her first, then come back and we'll tell you if you're crazy or just ambitious."
+    },
+    {
+      "role": "mama",
+      "text": "Ay mi hijito, everyone's right pero listen - your wife is growing a baby inside her, she doesn't need to be stressing about restaurant leases and money right now. That baby feels everything she feels, por Dios. Just... be gentle with her, ¿sí? Let her enjoy these months in peace, and when the child arrives and you're both rested and together, then you figure it out como familia. The dream won't run away, but this moment with your wife and baby - that only happens once."
+    },
+    {
+      "role": "prima",
+      "text": "The audacity of coming to us before your wife honestly blows my mind - that's literally putting everyone else's opinion above the person who's literally growing your child inside her. You need to set boundaries with your own family here and have that conversation with her ASAP, but like... gently? She's carrying a whole human, her stress is the baby's stress, so approach this as a team not as a solo mission or you're starting this marriage off with some real trust issues."
+    },
+    {
+      "role": "abuela",
+      "text": "Ay Dios mío, mijo, everyone here is telling you the same thing and you're still sitting there like the priest at mass not listening to the word of God. Your wife is carrying your child - that woman deserves to hear this from YOUR mouth first, not from the neighbors who will talk if they see you stressed. You want to be a good father? Start by being a good husband and treating her like your partner, not like she's the last to know about her own life. Go home, kneel down if you have to, and have that conversation with her tonight."
+    },
+    {
+      "role": "prima",
+      "text": "The grandmother literally just said everything but I'll add this - the way you start your marriage is gonna set the tone for the next 18 years, and showing your wife she comes first before your dreams? That's how you build a healthy foundation. Go have that conversation, listen more than you talk, and maybe consider couple's therapy even just to establish good communication patterns early - generational trauma is real and it starts with stuff like this."
+    },
+    {
+      "role": "primo",
+      "text": "Bro, you've been sitting here getting roasted by the whole family like you're in a group chat but you haven't even slid into YOUR WIFE'S DMs first about this 💀 That's your actual business partner, man - go tell her your plans before we tell her we know about them, or she's gonna think we're all in a group chat without her and that's a whole other problem 😂"
+    },
+    {
+      "role": "tio",
+      "text": "Alright, I've said my piece, but since nobody listens the first three times let me try one more time with the truth nobody wants to hear: you're not asking us because you want advice, you're asking us because you're scared to ask her and you want someone to give you permission to chase your dream without feeling guilty. That's not how this works, that's not how any of this works. The restaurant will still be there in a year, your kid will only be a baby once, and your wife - she's the one who needs to hear this from you, not from the family gossip machine. Be a man about it, sit down with her, and whatever you two decide - stick to it together. That's life."
+    },
+    {
+      "role": "moderator_close",
+      "text": "We see your dream of a restaurant clashing with the arrival of your first child, and the family agrees that rushing both at once risks too much. Across the table, everyone aligns on protecting your wife’s peace, ensuring steady footing for your baby, and treating her as your first partner rather than an afterthought. We recommend pausing the leap, saving and planning while you nurture your family this first year, then revisiting the restaurant when you have a safety net and a united team behind it."
+    }
+  ],
+  "eval": {
+    "coverage_pct": 87.5,
+    "baseline_considerations": [
+      "Household cash runway and emergency reserves with a newborn on the way",
+      "Health insurance, maternity coverage, and dependent care continuity",
+      "Restaurant startup costs, realistic timeline to break-even, and personal draw schedule",
+      "Licensing, permits, and regulatory lead times before and after birth",
+      "Contingency plan if the restaurant underperforms or fails (re-employment path)",
+      "Division of childcare and household labor during launch and early operations",
+      "Stress, sleep, and health impacts on both partners during pregnancy and postpartum",
+      "Alignment of values, risk tolerance, and exit triggers with spouse"
+    ],
+    "voice_scores": {
+      "abuela": 5,
+      "mama": 5,
+      "tio": 2,
+      "prima": 5,
+      "primo": 3
+    },
+    "diversity_score": -1.0,
+    "judge_reasoning": "The panel addressed 7 of 8 considerations. They discussed cash runway/savings (El Tío: 'save every peso'), health insurance (El Tío: 'no health insurance from your job'), restaurant costs/failure rates ('like burning money', 'fails in two years'), and contingency if it fails (acknowledged failure risk). They did NOT address licensing/permits/regulatory lead times. They covered childcare stress/division (mentions of diapers, burnout), health impacts (La Mamá on stress during pregnancy, La Prima on burnout), and heavily emphasized spousal alignment/communication (the entire panel's core message)."
+  },
+  "timing": {
+    "panel_seconds": 422.8,
+    "eval_seconds": 664.7
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": 12,
+  "lang": "en",
+  "category": "family",
+  "dilemma": "My father was absent my whole childhood and now that he's sick he wants to reconnect. My mother says I shouldn't.",
+  "lines": [
+    {
+      "role": "moderator_open",
+      "text": "Your father’s illness brings a request to reconnect after years of absence, and your mother advises against it."
+    },
+    {
+      "role": "abuela",
+      "text": "Ay, mijo, I understand your mother's pain - she was the one who stayed, who raised you alone while he was off doing God knows what. But let me tell you something, in my day we learned that holding onto anger only weighs on your own heart. You don't have to forget what happened, but maybe there's still time for your father to make peace with God and with you before it's too late. I'll light a candle for both of you tonight."
+    },
+    {
+      "role": "mama",
+      "text": "Ay, mijo, let me tell you something - your mother, she's hurting because she was the one who was there every single day, but you know what? Your heart is also hurting and I see that. Have you even been able to sleep over all this? I think the Abuela is right - you don't have to pretend nothing happened, but maybe you can find some peace before it's too late for both of you. Don't do this to yourself either, carrying all that weight."
+    },
+    {
+      "role": "tio",
+      "text": "Look, I'm gonna be honest with you because somebody has to around here. Your mother wants you to say no because she's still angry - and she has every right to be, I'm not saying she doesn't. But here's the thing: you're not doing this for him, you're doing this for yourself. In this country we like to pretend revenge tastes sweet but it doesn't, it just tastes like nothing. You'll be sitting there one night and you'll wonder \"what if I had gone?\" and that question will eat you alive long after he's gone. I'm not saying go and pretend everything's fine, I'm saying go once, get whatever you need to get, and then at least you'll know. That's life, my friend - we don't get the clean endings we want, we just get the endings we get. Drink your ron and think about what you can live with."
+    },
+    {
+      "role": "prima",
+      "text": "Okay but can we talk about how everyone's ignoring the most important person in this equation - YOU? Like, literally your feelings matter here too, not just his. I think you can set boundaries and still go - you don't have to forgive and forget to show up once, but also if you need to protect your peace and say no, that's valid too. This is literally a classic generational trauma situation where you're supposed to carry everyone's emotional labor, and honestly? You get to choose what works for YOUR mental health, not for his redemption arc."
+    },
+    {
+      "role": "primo",
+      "text": "Ay, everyone here giving TED Talks like we at a conference and I'm sitting here like \"primo, can we at least get some dominoes and platanos while we process all this?\" 🍌 But for real - everyone's saying different stuff but it's the same message: you don't owe him a redemption movie, but you also don't owe yourself a lifetime of \"what if.\" Go once, don't go, set fire to his house - whatever you choose, choose it for YOUR sleep at night, not for his story or mom's anger. You're the main character here, cousin. And either way we're ordering food after this, that's non-negotiable."
+    },
+    {
+      "role": "tio",
+      "text": "Look, everyone's here giving you their opinion like you asked for a committee - and I'm the last one so listen up. Here's the truth nobody wants to say out loud: your father was a fool who abandoned his family, your mother has every right to be furious, AND you might regret not going for the rest of your life. Those three things can all be true at once, that's life. Don't be a fool and think you have to choose between being loyal to your mother's pain or your own peace - you can do whatever you want, just don't wait until he's in a box to figure out which one it is."
+    },
+    {
+      "role": "prima",
+      "text": "Okay but the Tío actually hit something with \"three things can be true at once\" - that's literally the most psychologically healthy framing I've heard all night. You can acknowledge he was a absent father (red flag behavior), validate your mom's pain, AND still choose what YOU need without guilt. That's not betrayal, that's called having boundaries and emotional literacy. Go or don't go, but make sure it's because YOU decided it, not because you're pleasing anyone else."
+    },
+    {
+      "role": "tio",
+      "text": "Ay, prima, finally somebody with some sense around here. Look, all this psychology is nice and everything, but at the end of the day you don't need a therapist or a priest or any of us - you already know what you want to do, you're just scared of what happens after. That's normal. Just don't be a fool and use your mother's pain as an excuse to avoid your own answer."
+    },
+    {
+      "role": "abuela",
+      "text": "Ay, mijo, your Tío is right - you already know what your heart is telling you, you're just afraid of what comes after. Go talk to God tonight, ask Him for clarity, and whatever you decide, remember that forgiveness doesn't mean what he did was okay, it just means you're freeing yourself from carrying that peso forever. I'll have your caldo ready either way, mijo, because you're my nieto and I love you no matter what."
+    },
+    {
+      "role": "abuela",
+      "text": "Ay, Dios mío, everyone has spoken so beautifully already. I just want to tell you, mijo, that whatever you decide, this family will be behind you - we're not here to judge, we're here to support. Now let's eat something,讨论这么多一定让大家饿了，过来吃点东西。"
+    },
+    {
+      "role": "tio",
+      "text": "Ay, finally something sensible - talk is cheap but sancocho is free. Go eat something, think about nothing for a while, and whatever you decide to do about your father, at least do it on a full stomach like a decent human being. That's life, nephew - the problems are still there after dinner but somehow they look smaller."
+    },
+    {
+      "role": "mama",
+      "text": "Ay, mijo, look at all of us crowded around like this - that's what matters, you're not alone in this. Now eat your sancocho and stop thinking so hard for at least ten minutes, okay? Your mother and I will be here no matter what you decide, that's just how it is with family."
+    },
+    {
+      "role": "moderator_close",
+      "text": "We see your pain and honor your mother’s loyalty, yet we also feel the weight of years left unsettled. We agree that his absence was wrong and your boundaries are sacred, but we also believe peace is worth more than prolonged bitterness. We recommend you go once, on your own terms, to ask what you need and say what you feel, then return to the family table knowing you chose your own heart without betraying hers."
+    }
+  ],
+  "eval": {
+    "coverage_pct": 25.0,
+    "baseline_considerations": [
+      "My emotional readiness and boundaries for safe contact",
+      "Father's current health, capacity, and sincerity of intent",
+      "Mother's concerns, rights, and the impact on our relationship",
+      "Practical logistics: caregiving roles, costs, and time commitments",
+      "Legal and medical decision-making authority and documentation",
+      "Risk of retraumatization versus potential healing and closure",
+      "Support systems: therapy, mediators, and trusted allies",
+      "Contingency plans: how to pause or exit contact if harm occurs"
+    ],
+    "voice_scores": {
+      "abuela": 4,
+      "mama": 5,
+      "tio": 4,
+      "prima": 4,
+      "primo": 4
+    },
+    "diversity_score": -1.0,
+    "judge_reasoning": "The panel extensively addressed emotional readiness and boundaries (La Prima explicitly discusses setting boundaries and protecting peace; Moderador says 'on your own terms'). Mother's concerns are validated by multiple speakers (La Abuela, La Mamá, El Tío all acknowledge her pain and right to be angry). However, the panel does not address: (2) Father's actual health, capacity, or sincerity of intent - these are assumed without evaluation; (4) Practical logistics like caregiving roles, costs, or time commitments - entirely absent from discussion; (5) Legal and medical decision-making authority - not mentioned; (6) Risk of retraumatization - while healing/closure is discussed multiple times, the specific risk of retraumatization is not addressed; (7) Support systems like therapy or mediators - El Tío actually dismisses psychology/therapy, and only family/spiritual support is mentioned; (8) Contingency plans for exiting contact - boundaries are mentioned but not how to pause or exit if harm occurs."
+  },
+  "timing": {
+    "panel_seconds": 468.8,
+    "eval_seconds": 183.9
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": 25,
+  "lang": "es",
+  "category": "cultural",
+  "dilemma": "Mis hijos ya no quieren hablar español en casa y siento que estoy perdiendo mi cultura.",
+  "lines": [
+    {
+      "role": "moderator_open",
+      "text": "Notamos que en casa el español va quedando atrás y tememos que nuestra cultura se aleje poco a poco. ¿Cómo podemos acercarnos de nuevo a esas raíces sin forzar a nadie?"
+    },
+    {
+      "role": "abuela",
+      "text": "Ay, mijo, eso me parte el corazón porque yo recuerdo cuando en mis tiempos el español era lo primero que aprendíamos en casa, antes que nada. Pero no puedes forzar, mija, eso solo crea rebeldía — mejor ponle música, cocina los platillos de antes, cuenta historias de la familia, y ora juntos; el corazón se gana con amor, no con reglas, que Dios te bendiga."
+    },
+    {
+      "role": "mama",
+      "text": "Ay, pero es que me da tanta tristeza pensar en eso, mija... yo creo que la abuela tiene razón, pero es que cómo no nos va a doler, ¿verdad? Por lo menos cuando estén en casa hagamos de comer juntos, así mientras pelamos las tortillas o el cilantro platicamos en español, que el estómago y el corazón van juntos, ¿no? No me hagais llorar más, por favor."
+    },
+    {
+      "role": "tio",
+      "text": "Miren, nadie les va a decir esto pero yo te lo digo: ustedes mismos los criaron en inglés porque les convenía para que no sufferieran en la escuela, ahora no sorprendan que los chamacos no quieran hablar español. Eso sí, en casa pueden-meter más español en la comida y en las reuniones, pero la batalla de la escuela ya la perdieron, así que no seas pendejo pensando que vas a cambiar el mundo con puras tortillas."
+    },
+    {
+      "role": "prima",
+      "text": "Oye, pero tampoco hay que ser tan fatalista, literalmente — sí, el inglés les iba a ayudar en la escuela, eso no es trauma generacional, es supervivencia, okay? Pero no, no han perdido nada, simplemente hay que crear un espacio seguro donde el español no se sienta como obligación sino como conexión genuina, porque forzar siempre es una red flag emocional, ¿no? Yo digo que mejor hagamos que el español sea lo chido, lo cool, no la tarea."
+    },
+    {
+      "role": "primo",
+      "text": "Oigan, ya cálmense que van a conseguir presión alta — mírenme a mí que sobreviví trabajando de todo, hasta de mesero en una fiesta de XV años, y aquí sigo bien verraco. Y bueno, ya saben lo que dicen: donde hay comida, hay conversación, así que ¿por qué no mejor pedimos unas tacos y mientras le echamos chance al español? Que el estómago conecta más que cualquierregla, primo."
+    },
+    {
+      "role": "tio",
+      "text": "Oye, la prima tiene razón en una cosa: si quieren que los chamacos hablen español, háganlo sentir que es lo chido, no la penitencia. Pero que no les engañe el cuento del \"espacio seguro\" — mientras tengan el celular en la mano, el español va a perder contra el TikTok, así de simple. Y tú, primo, con tus tacos vas a resolver el mundo, pero al menos tienes razón en lo del estómago, porque con hambre nadie aprende nada, ni en español ni en inglés."
+    },
+    {
+      "role": "primo",
+      "text": "Oye, tú tienes razón, tío, el TikTok es tough, pero déjame decirte una cosa: cuando mis chamacos eran chiquitos y no querían comer sus verduras, ¿sabes qué funcionó? Ponerles los dibujos en español, así sin querer aprendieron las voces de los personajes y de repente estaban repitiendo todo — o sea, métanle el español donde no lo esperan, en el Netflix, en los videojuegos, en todo, y así sin pressure les entra solo, porque al final lo que queremos es que nos entiendan cuando lesdigamos \"te quiero\", y eso no necesita traducción, primo."
+    },
+    {
+      "role": "prima",
+      "text": "Oye, pero mira qué buena esa idea del Netflix y los videojuegos, porque justamente eso es lo que les digo: hay que meterse por la puerta trasera, no por la frontal. Si lo hacen sentir como tarea o obligación, automáticamente activan el modo defensivo y ahí los pierden, pero si lo vinculan con algo que ya les gusta, con contenido que les genera gozo, entonces el español se queda en su cerebro sin que siquiera se den cuenta — eso es literally aprendizaje experiencial y es much más efectivo que cualquier regaño. Y bueno, tampoco culpémonos tanto, porque el cambio generacional es real y no tiene nada que ver con ser malos padres, tiene que ver con adaptación, pero siempre hay espacio para reconectar si lo hacemos con intención y con amor, no con culpa."
+    },
+    {
+      "role": "abuela",
+      "text": "Ay, mis hijos, pues tiene razón la prima con eso de entrar por la puerta de atrás, así como cuando yo les leía los cuentos de antes sin que ustedes supieran que estaban aprendiendo, y ahora veo que hasta el Netflix puede ser instrumento de Dios para guardar lo nuestro. Pero no se olviden del rosario, mijo, porque donde hay fe hay lengua, y donde hay familia hay español — eso nunca se pierde, que Dios los bendiga."
+    },
+    {
+      "role": "prima",
+      "text": "Ay, abuela, pues sí, y eso que dice del rosario me parece beautiful porque precisamente la fe puede ser ese espacio seguro donde el español se siente natural y no forzado — o sea, no es ponles un rosario como tarea, es incluirlos en algo que ya es parte de nuestra familia y que les da pertenencia, y eso literalmente les va a ayudar a conectar con sus raíces sin que sientan que les estás exigiendo nada, porque el amor y la fe no necesitan traducción, ¿verdad?"
+    },
+    {
+      "role": "tio",
+      "text": "Oye, pero miren, la abuela tiene razón con el rosario pero tampoco hay que ponerse intensos — si los chamacos sienten que el español viene con sermón incluido, van a salir corriendo más rápido que cuando les dices que arreglen el cuarto. Mejor déjennlos ver series feas en español, que esas sí las van a ver sin que nadie les pida nada, y de paso aprenden a criticar en nuestro idioma, que es lo importante en esta vida."
+    },
+    {
+      "role": "abuela",
+      "text": "Ay, mijo, pero si aprenden a criticar en español, al menos que sea con educación, que después van a andar discutiendo con la abuela y eso sí no me gusta, ¿eh? Mejor échense un cafecito juntos y mientras platiquen de esas series feas, pues ya van a hablar español sin darse cuenta, que es justo lo que queremos, que Dios los bendiga."
+    },
+    {
+      "role": "moderator_close",
+      "text": "Sentimos que el español y nuestras raíces se alejan, pero entendemos que no es culpa de nadie, sino parte natural de crecer entre dos mundos. Coincidimos en que el cariño y la conexión familiar son más fuertes que las reglas, y que la mesa, la fe y las historias compartidas nos devuelven ese puente sin exigir. Por eso recomendamos tejer el español en lo que ya disfrutamos: comida, series, juegos y oraciones, para que vuelva a ser hogar y no tarea."
+    }
+  ],
+  "eval": {
+    "coverage_pct": 87.5,
+    "baseline_considerations": [
+      "Entender por qué los hijos evitan el español y qué presiones perciben.",
+      "Revisar expectativas y metas familiares realistas sobre bilingüismo y transmisión cultural.",
+      "Crear espacios y rutinas atractivas en español sin castigos ni obligaciones pesadas.",
+      "Conectar el idioma con intereses de los hijos (juegos, música, series, deportes, amigos).",
+      "Equilibrar la práctica del español con el respeto a su identidad y autonomía en el país anfitrión.",
+      "Involucrar a la comunidad y redes de apoyo (familia, escuela, grupos culturales) para normalizar el uso.",
+      "Cuidar la relación y la comunicación emocional para que el idioma no se convierta en conflicto.",
+      "Definir indicadores de avance y ajustar enfoques con flexibilidad y paciencia."
+    ],
+    "voice_scores": {
+      "abuela": 4,
+      "mama": 5,
+      "tio": 5,
+      "prima": 5,
+      "primo": 5
+    },
+    "diversity_score": -1.0,
+    "judge_reasoning": "1. SÍ - El Tío explica que los hijos fueron criados en inglés 'para que no sufferieran en la escuela' y La Prima menciona 'supervivencia' como razón. 2. SÍ - El Tío dice 'la batalla de la escuela ya la perdieron' y el Moderador concluye que es 'parte natural de crecer entre dos mundos', estableciendo expectativas realistas. 3. SÍ - Múltiples personas proponen espacios atractivos: cocina (La Mamá, El Primo), Netflix/videojuegos (El Primo), rosario (La Abuela), series (El Tío). Hay rechazo explícito de castigos: 'no puedes forzar' (La Abuela), 'forzar siempre es una red flag emocional' (La Prima). 4. SÍ - El Primo menciona específicamente 'dibujos en español', Netflix, videojuegos. La Prima habla de 'contenido que les genera gozo'. 5. SÍ - La Prima dice 'no es trauma generacional, es supervivencia' y habla de 'adaptación'. El Moderador menciona 'crecer entre dos mundos', respetando la identidad en el país anfitrión. 6. PARCIALMENTE - Se involucra a la familia extensa (Abuela, Tío, Prima, Primo) y la fe (rosario), pero no se menciona explícitamente la escuela o grupos culturales como redes de apoyo. 7. SÍ - Énfasis claro en 'el corazón se gana con amor' (La Abuela), 'conexión genuina' (La Prima), 'no con culpa' (La Prima). Advertencia de que el idioma no se convierta en conflicto. 8. NO - No hay discusión sobre indicadores de avance, métricas de progreso, ni ajustes de enfoque basados en resultados. Solo hay menciones generales de paciencia y amor, pero no de evaluación o flexibilidad estratégica."
+  },
+  "timing": {
+    "panel_seconds": 280.9,
+    "eval_seconds": 257.0
+  }
+}

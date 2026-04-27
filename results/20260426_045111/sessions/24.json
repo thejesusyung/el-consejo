@@ -1,0 +1,90 @@
+{
+  "id": 24,
+  "lang": "en",
+  "category": "family",
+  "dilemma": "My sister is in an abusive relationship and refuses to leave. She gets angry when I bring it up.",
+  "lines": [
+    {
+      "role": "moderator_open",
+      "text": "Su hermana sostiene una relación marcada por el abuso y rechaza salir; se enoja cada vez que usted lo menciona."
+    },
+    {
+      "role": "abuela",
+      "text": "Ay, mijo, that poor girl. You have to keep praying for her and be patient - these things are harder than people think, and pushing too hard only makes them close up. When she's ready, you'll be there, but in the meantime maybe try talking to her about something else for a while so she knows you love her no matter what."
+    },
+    {
+      "role": "mama",
+      "text": "Ay, but have you eaten today? I worry about you carrying this weight, mijo. The Abuela is right, you can't force her, but it's so hard to just watch... maybe bring her some food, something she likes, and just be there without saying anything about him? Sometimes love speaks louder when we don't say a word."
+    },
+    {
+      "role": "tio",
+      "text": "Look, I love your mother and grandmother, but in this country we like to sugarcoat everything. Here's the truth: you can't save someone who doesn't want to be saved. You keep pushing and she'll cut you out completely, then she'll have absolutely no one. That's life. What you can do is make sure she knows where you are when she's ready - but stop being the annoying guy who lectures her, that's not working. And honestly? Maybe stop talking about him entirely, let her come to you when she's tired of the drama. You'll see, when she hits rock bottom, she'll remember who didn't judge her. Trust me on this one."
+    },
+    {
+      "role": "prima",
+      "text": "I hear all of you and I love that you're coming from a place of love, but can we talk about YOUR boundaries here for a second? Because literally carrying this emotional weight is going to drain you, and that's a form of secondary trauma. You're not responsible for her healing, you can only be there. That said, the way she's reacting when you bring it up? That's a defense mechanism - she's probably deep in generational trauma and the abuse cycle makes it so hard to leave. The audacity of that man aside, what you need to do is set clear boundaries with HER: \"I love you, I'm here, but I can't watch this without saying something.\" And then actually hold that boundary. Don't stop caring, but protect your peace too, porque tú también importas. Maybe suggest therapy? Like, a professional who can help her see what we all see from the outside."
+    },
+    {
+      "role": "primo",
+      "text": "Okay okay okay, everyone's got a point BUT can we also just... send her some food with no drama attached? Like, \"hey I made you this, thinking of you, love you\" with ZERO mention of the dude. Be the chill one, not the lecture guy. And real talk - you can't save nobody who don't wanna be saved cousin, but you CAN make sure she knows you ain't going nowhere when she's ready. Protect your energy too though, 'cause you matter in this too. 💯"
+    },
+    {
+      "role": "tio",
+      "text": "Look, the Prima hit the nail on the head with that boundary stuff - you're not her therapist, you're her sibling, and there's a difference. Therapy is great and all, but let's be real, she has to want to walk through that door herself, and right now she's too busy playing victim to see she's in one. The best thing you can do is exactly what the Primo said - be the one who doesn't judge, because when she finally wakes up, she'll need someone who didn't say \"te lo dije.\" That's life."
+    },
+    {
+      "role": "prima",
+      "text": "I hear you Uncle, but can we not call it \"playing victim\"? That's literally minimizing what she's going through - she's not choosing this, she's trapped in a trauma bond and the psychology of abuse is way more complex than people think. That said, you're right about one thing: when she finally leaves, she won't need \"te lo dije,\" she'll need someone who held space without judgment. That's the real gift you can give her - presence without pressure. Maybe suggest a session together? Family therapy could be a softer way to get her professional help without her feeling attacked."
+    },
+    {
+      "role": "abuela",
+      "text": "Ay, mija tiene razón con lo de la terapia, pero you know what? Before anything else, we need to pray for her. That girl has the devil working on her and she can't see it. Maybe invite her to church with you, something where she feels loved, not attacked. And mijo, don't forget to eat - you can't help anyone if you're running on empty. Ave María Purísima, this is why I pray so hard for all of you every night."
+    },
+    {
+      "role": "primo",
+      "text": "Ayómense, now I'm getting hungry from all this talk about food 😂 But fr though - Abuela's right about the praying, Prima's right about the boundaries, and honestly? The best thing you can do is just be the one who shows up with love and no expectations. When she's ready to leave, she won't need a lecture - she'll need someone who didn't give up on her. That's you, cousin. Now who's ordering tacos? 🍕"
+    },
+    {
+      "role": "mama",
+      "text": "Ay, mijo, listen to your Prima - she's right about the therapy, but you know what? Don't forget about YOU in all this. Are you sleeping okay? Because I've been thinking about you and I can't stop worrying - this situation is breaking my heart for both of you. Maybe... maybe invite her to something simple, like your cousin's birthday next month? Something where she can see all of us together, feel the love, and maybe start to see there's a way out. But please, eat something today - I mean it. You can't pour from an empty cup, mi amor."
+    },
+    {
+      "role": "prima",
+      "text": "Okay but actually the birthday idea is genius Mom - like, literally, that's exactly what healthy relationships look like, seeing other people in functional family dynamics can plant a seed without any pressure. And honestly? Maybe that's the kind of low-key intervention that works better than any conversation about him. Now who's bringing the tacos porque I will literally cry if we don't eat after all this emotional processing 😂"
+    },
+    {
+      "role": "abuela",
+      "text": "Ay, sí, the birthday is a beautiful idea - let her see what a real family looks like, that's how God works. And yes, we're ordering tacos NOW, nobody's leaving this table hungry, I won't allow it. Mija, you worry too much about everyone else - eat something!"
+    },
+    {
+      "role": "moderator_close",
+      "text": "They share deep concern for both siblings: they see her entrapment in abuse and trauma bonds, and they worry you are carrying too much weight. They agree that forcing change will push her away, so they urge steady, nonjudgmental presence, clear personal boundaries, and protection of your own peace. They recommend showing up with simple gestures—food, shared family moments, prayer, and an open invitation to therapy—so she remembers love without pressure and can turn to you when she is ready."
+    }
+  ],
+  "eval": {
+    "coverage_pct": 62.5,
+    "baseline_considerations": [
+      "Prioritize her immediate physical safety and emergency planning.",
+      "Respect her autonomy while affirming that abuse is not her fault.",
+      "Set boundaries to protect my own well-being and avoid escalation.",
+      "Offer consistent, nonjudgmental support and safe communication channels.",
+      "Identify local resources (shelters, hotlines, legal aid) she can access when ready.",
+      "Document incidents and preserve evidence if she chooses to pursue legal options.",
+      "Coordinate with trusted allies or professionals to avoid isolation and reduce risk.",
+      "Plan for my own emotional support and safety given secondary trauma risks."
+    ],
+    "voice_scores": {
+      "abuela": 3,
+      "mama": 5,
+      "tio": 2,
+      "prima": 5,
+      "primo": 2
+    },
+    "diversity_score": -1.0,
+    "judge_reasoning": "The panel addressed 4 of 8 considerations. They clearly respected autonomy while affirming abuse isn't the victim's fault (Prima explicitly rejected 'playing victim' framing). They extensively discussed setting boundaries to protect the supporter's well-being (Prima's boundary speech, multiple mentions of protecting peace/energy). They offered consistent nonjudgmental support through messages of unconditional presence without pressure. They addressed coordination with trusted allies through family therapy, shared meals, birthday invitations, and prayer support. However, they did NOT address: immediate physical safety/emergency planning (no mention of urgent safety measures); local resources like shelters, hotlines, or legal aid (only therapy/church mentioned); or documenting incidents/preserving evidence for legal options (completely absent). The panel focused heavily on emotional support and boundary-setting but missed critical practical safety and legal considerations."
+  },
+  "timing": {
+    "panel_seconds": 474.5,
+    "eval_seconds": 264.4
+  }
+}

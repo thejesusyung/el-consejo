@@ -1,0 +1,90 @@
+{
+  "id": 32,
+  "lang": "en",
+  "category": "family",
+  "dilemma": "I accidentally found out I was adopted at age 30. My parents never told me and I don't know how to feel.",
+  "lines": [
+    {
+      "role": "moderator_open",
+      "text": "The secret of your adoption surfaced late, leaving you to sort shock and silence without warning. You now face the task of naming what you feel while deciding how to meet the parents who kept it hidden."
+    },
+    {
+      "role": "abuela",
+      "text": "Ay, mijo... that silence must feel like a knife. My grandmother used to say \"el que calla, otorga\" but when it comes to our children, we should never hide the truth under the rug. Your parents probably thought they were protecting you, but now you have every right to feel confused and even angry. Come, sit with me - I'll make you some caldo de pollo and we'll talk about what your heart is saying, porque hiding things like this only makes the wound deeper."
+    },
+    {
+      "role": "mama",
+      "text": "Ay mi amor, I'm so sorry you're going through this... have you even been able to eat anything? Your Tía told me and I couldn't stop crying, por Dios, I kept asking myself how they could have kept this from you for so long. Come here, let me give you a hug - we're all here for you, whatever you need, but you have to take care of yourself too, okay? Are you sleeping at all?"
+    },
+    {
+      "role": "tio",
+      "text": "Look, I'm not gonna sugarcoat it—thirty years is a long time to keep a secret like that, and your parents messed up. But here's the thing: they raised you, they loved you, and that doesn't change just because of some paperwork from thirty years ago. Now you sit, you eat the caldo like your grandmother says, and you figure out what you actually want to know—because not everything hidden is a betrayal, sometimes people just don't know how to let go of their own fears."
+    },
+    {
+      "role": "prima",
+      "text": "Okay but can we talk about how this is literally a huge red flag though? Not towards you, pero towards your parents - keeping something this major hidden for 30 years is literally a form of emotional manipulation, even if they didn't mean it that way. You need to set some serious boundaries before any conversations happen, porque you deserve to process this on your own terms, and honestly? I think everyone in this family could benefit from some therapy to unpack why hiding things is so normalized here. That's generational trauma right there."
+    },
+    {
+      "role": "primo",
+      "text": "Ay everybody's throwing therapy recommendations and caldo at you like you're gonna explode - relax cousin, you're allowed to just NOT know how you feel right now. But real talk - you want tacos? Because I think we all need to shut up and eat something, and I volunteers the carnitas place."
+    },
+    {
+      "role": "abuela",
+      "text": "Ay, mija, don't go calling your tíos y tías manipulateurs like that - we don't throw words like stones in this house. But sí, you're right that keeping secrets hurts everyone, and your primo tiene razón too - we all need to eat something and stop talking tanto. Mijo, you don't have to decide anything today, not forgiveness, not anger, not even what you feel. Just know that you are our blood no matter what paper says, and this familia is here to stay. Ahora vengan, let's eat before the caldo gets cold."
+    },
+    {
+      "role": "mama",
+      "text": "Ay, listen to your abuela mijo, she has all the wisdom. You don't have to figure anything out today or ever if you don't want to. But promise me you'll at least rest, okay? And eat something, even if it's just a little. I'm still shaking from when your tía told me, I've been crying all afternoon, but I'm here for you no matter what, we're all here."
+    },
+    {
+      "role": "mama",
+      "text": "Ay, exactly mija has razón - come eat, mijo, before everything gets cold. I've been so worried about you I can barely hold my fork, pero I made extra just in case you could eat a little bit. And please, when you talk to your parents - don't do this to me, I'm already a mess - just take your time, okay? We all love you no matter what."
+    },
+    {
+      "role": "primo",
+      "text": "Ay look at all of us - we're all crying and making food and giving therapy like we got degrees from Google University 😂 But fr though, you got everyone running around in circles and nobody's even asking YOU what YOU want right now. That's the move - what do YOU need, cousin? Because we can keep crying and making caldo all day but at the end of the day, this is YOUR thing to feel, YOUR way, on YOUR time. We just here for the backup squad when you're ready. *pops gum* But also... still really want those tacos tho."
+    },
+    {
+      "role": "tio",
+      "text": "*takes a sip of rum* Look, your primo finally said something smart - everyone's been talking at you instead of listening, and that's the real problem here. Here's the truth nobody wants to say: your parents messed up, big time, but you're not gonna figure out what you feel by eating caldo and crying around this table all night - you gotta sit with that anger, maybe even be angry at them for a while, and that's okay. *shrugs* Don't let anyone tell you how to feel about this, not even us, not even abuelita - it's your life, your story, and you get to decide what that means. Now eat something, drink some water, and when you're ready - talk to them on YOUR terms, not theirs."
+    },
+    {
+      "role": "prima",
+      "text": "Okay but can we talk about how the Tío is actually right for once - sitting with the anger is literally valid AF, and you don't have to rush to forgiveness just because everyone wants the family to feel okay again. Your feelings don't owe anyone a timeline, and honestly? It's okay if you're not ready to call them \"parents\" right now - that's part of unpacking it too."
+    },
+    {
+      "role": "abuela",
+      "text": "Ay, your tío tiene razón, mijo - but también listen to your prima, you don't owe anyone forgiveness just because we want the family to feel better. When you're ready to talk to your parents, you talk on YOUR terms, not theirs. And if you never are ready, then that's between you and God, not us. Ahora eat something, you're too skinny."
+    },
+    {
+      "role": "moderator_close",
+      "text": "We see your shock and honor your right to feel whatever rises—confusion, anger, or silence—without rushing you toward forgiveness or labels. We agree the long secret was a wound, not a betrayal of your worth, and that you deserve to set boundaries, move at your own pace, and be heard more than we are heard. We recommend you take space to decide what you need, lean on chosen family for steady support, and when you are ready, meet your parents on terms you choose, with care for your heart above all."
+    }
+  ],
+  "eval": {
+    "coverage_pct": 62.5,
+    "baseline_considerations": [
+      "Validate immediate emotional needs and safety.",
+      "Clarify legal and medical implications of unknown origins.",
+      "Assess motives and timing for prior nondisclosure by parents.",
+      "Map options for contacting biological family with consent and boundaries.",
+      "Evaluate impact on current family relationships and roles.",
+      "Plan communication strategies for honest, staged disclosure talks.",
+      "Secure counseling and support resources for identity integration.",
+      "Set personal goals and timelines for decisions about searching or not."
+    ],
+    "voice_scores": {
+      "abuela": 4,
+      "mama": 5,
+      "tio": 2,
+      "prima": 5,
+      "primo": 5
+    },
+    "diversity_score": -1.0,
+    "judge_reasoning": "1) VALIDATE EMOTIONS: Strongly addressed - multiple panel members validate confusion, anger, and not knowing how to feel; moderator explicitly honors right to feel any emotion without rushing forgiveness. 2) LEGAL/MEDICAL IMPLICATIONS: Not addressed - no discussion of adoption records, biological family rights, or medical/genetic implications of unknown origins. 3) ASSESS MOTIVES: Partially addressed - La Prima calls it a 'red flag' and 'emotional manipulation', El Tío suggests parents 'didn't know how to let go of their own fears', La Abuela says they 'thought they were protecting you' - but no systematic assessment. 4) CONTACT OPTIONS: Not addressed - no mapping of how to contact biological family, consent processes, or boundary-setting for such contact. 5) IMPACT ON FAMILY ROLES: Partially addressed - discussion of family dynamics and generational patterns, La Prima notes normalized secrecy as 'generational trauma', but limited focus on how the person's specific roles may change. 6) COMMUNICATION STRATEGIES: Partially addressed - advice to talk 'on YOUR terms, not theirs' and take time, but no staged disclosure plan or specific communication strategies. 7) COUNSELING/SUPPORT: Partially addressed - La Prima recommends 'therapy' for everyone, but no specific resources or identity integration support mentioned. 8) PERSONAL GOALS/TIMELINES: Not addressed - no discussion of whether to search for biological family or setting goals/timelines for that decision."
+  },
+  "timing": {
+    "panel_seconds": 301.3,
+    "eval_seconds": 183.3
+  }
+}

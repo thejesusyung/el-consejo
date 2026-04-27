@@ -1,0 +1,90 @@
+{
+  "id": 21,
+  "lang": "es",
+  "category": "relationship",
+  "dilemma": "Mi esposo pasa más tiempo con sus amigos que conmigo y cuando se lo digo me acusa de controladora.",
+  "lines": [
+    {
+      "role": "moderator_open",
+      "text": "Parece que el tiempo que comparten se ha vuelto escaso y al hablar de ello el diálogo se tensa. Quisiéramos entender qué está pasando entre ustedes sin juzgar a nadie."
+    },
+    {
+      "role": "abuela",
+      "text": "Ay, mija, eso que sientes es muy válido y no te hace controladora ni loca. En mis tiempos, un hombre que respeta a su familia sabe cuándo volver a su hogar, porque de nada sirve el dinero ni los amigos si la casa se queda vacía de amor. Pero acuérdate que el diálogo hay que darlo con calma, no con reproches, porque el hombre se pone a la defensiva y se cierra como almeja. ¿Ya le has dicho con cariño cuánto lo extrañas, sin que suene a reclamo?"
+    },
+    {
+      "role": "mama",
+      "text": "Ay mi amor, entiendo perfectly lo que sientes, porque cuando el hombre no está, la casa se siente vacía y uno se queda pensando cosas... ¿pero sabes qué? Antes de hablarle, come algo rico y descansa, porque con el estómago vacío y cansada todo se siente más grande. Pero tampoco le digas que pasa demasiado tiempo, mejor pregúntale con cariño que te hace falta compartir más con él, así no se siente atacado y quizás te escucha mejor, ¿ya intentaste eso?"
+    },
+    {
+      "role": "tio",
+      "text": "Mira, te lo digo yo: si cada vez que le mencionas el tema te dice que eres controladora, pues ya encontró la fórmula perfecta para que te calles y él siga haciendo lo que le da la gana. No seas pendeja, eso de \"controladora\" es puro cuento para taparte la boca. En este país estamos acostumbrados a que el hombre salga y la mujer se quede callada, pero tú no tienes que aceptar eso. O le dices claramente que necesitas más tiempo juntos o te adaptas a vivir sola aunque tengas marido, y eso a la larga duele más."
+    },
+    {
+      "role": "prima",
+      "text": "O sea, eso de \"controladora\" es literally una red flag, mija. Él está invalidando tus necesidades emocionales para que no puedas poner límites, y eso no es sano. Lo que tú sientes es válido y no te hace nada loca, necesitas decirle claramente que esto no está funcionando, porque si no pone de su parte ahora, va a seguir igualito, y ese patrón es trauma generacional puro."
+    },
+    {
+      "role": "primo",
+      "text": "Oigan, ya todos le dieron su consejito, parece junta de emergencia jajaja. Pero miren, entre bromas y veras: si el chamaquito te dice controladora cada vez que le dices algo, pues ya aprendió el truco de la abuelita de uno para no escuchar. Pero tú tampoco te quedes callá porque te va a doler más después, mija. Y ya que estamos en tanta tensión... ¿pedimos pizza? Así cenan juntos y hablan con el estómago lleno, que todo se ve más bonito con pepperoni, ¿no? 🍕"
+    },
+    {
+      "role": "mama",
+      "text": "Ay por Dios, ya todos hablan y hablan y nadie le ha preguntado a ella cómo se siente realmente, con el corazón, no nada más con la cabeza. Mija, ¿estás durmiendo bien? Porque eso de quedarse sola en la casa pensando y dándole vueltas al asunto te consume el alma, te lo digo por experiencia. Y tú, no te enojes tanto con el muchacho —dice el Tío—, pero sí tienes razón en que no te puede salir con la misma canción cada vez para callarte, porque eso duele, y lo que duele hay que decirlo, pero con amor, porque de nada sirve ganar la discusión si perdemos al otro, ¿me explico?"
+    },
+    {
+      "role": "prima",
+      "text": "Y tiene razón la mamá, porque literalmente el sueño se afecta cuando estás en ese estado de ansiedad constante, y eso te baja el sistema inmunológico, o sea que estás pagando un precio físico por algo emocional. Pero ya saben qué? Creo que lo más importante aquí es que ella se sienta escuchada y validada, no que le den más herramientas para comunicarle mejor a él, porque ella no es el problema, ella tiene necesidades y punto. Yo creo que debería ir a terapia, no porque esté mal, sino porque necesita espacio seguro para procesar todo esto sin que la hagan sentir que está loca."
+    },
+    {
+      "role": "tio",
+      "text": "Oigan, ya hablaron todos y nadie la dejó respirar, pobre女孩. Pero fuera de bromas —y ya me conocen—, te digo: sí, ve a terapia, pero no porque estés loca, sino porque necesitas que alguien que NO sea tu familia te ayude a ver claro sin tanta emoción encima. Y sobre el sueño, claro que no duerme bien, ¿cómo va a dormir si está preocupada en quién sabe qué晚会 con sus amigos? La vida es así, mija, a veces el que te jura amor es el que más te hace sentir sola. Pero ya, no te agotes la cabeza, eso no tiene solución en una noche."
+    },
+    {
+      "role": "mama",
+      "text": "Ay mija, ya todos hablan de terapia y de qué hacer, pero ¿tú cómo estás ahorita? ¿Ya comiste algo? Porque con tanto debate se te olvida hasta comer, y no es bueno que estés sola dándole vueltas a todo con el estómago vacío. Y sobre la terapia, mi amor, está bien si quieres ir, pero no porque estés mal, sino porque a veces necesitamos que alguien externo nos ayude a ver las cosas con claridad, ¿pero tú quieres ir o te están presionando?"
+    },
+    {
+      "role": "abuela",
+      "text": "Ay, mija, ya todos te preguntan y te aconsejan y tú apenas puedes respirar, ¿verdad? Mira, lo que te digo es esto: no te agotes discutiendo con él ahora, porque con el corazón herido no se piensa claro. Descansa, come un caldo de pollo que eso acomoda el alma, y mañana con la mente fría le hablas suave pero firme, porque tú no eres controladora, tú eres su esposa y mereces estar primero. Que Dios te bendiga, mija."
+    },
+    {
+      "role": "prima",
+      "text": "Osea, sí descansa porque literalmente tu salud mental está en juego, pero no esperes a mañana para poner el tema sobre la mesa, porque eso es exactamente lo que siempre hacemos las mujeres: esperar, acomodar, suavizar todo para que no se enoje, y al final quién se queda con el problema? Tú. Y no, no tienes que hablarle \"suave\", tienes que hablarle claro, porque si él realmente te amara, no te haría sentir que expresar lo que necesitas es un crimen."
+    },
+    {
+      "role": "primo",
+      "text": "Oigan, ya la pobre tiene hasta terapia recomendada, psychologist de emergencia y caldo de pollo jajaja. Pero miren, entre tanta recomendación: él también tiene que poner de su parte, mija. No es nada más cuestión de que tú te komuniques mejor, él tiene que entender que estar contigo no es opcional, ¿o qué? Y ya sabes que aquí estamos pa ti, pero el que tiene que cambiar su comportamiento es él, no tú. Prrimero! 💪"
+    },
+    {
+      "role": "moderator_close",
+      "text": "Entiendo que el tiempo y la intimidad se han vuelto esquivos, y que hablar de eso duele porque suele convertirse en un regreso de reproches. Coincidimos en que su necesidad de compañía es legítima y que la etiqueta de “controladora” no hace más que silenciar y desgastar, alejando lo que ambos buscan: cercanía real. Les sugiero que, con el estómago y el ánimo más tranquilos, se sienten a escucharse sin defensas, fijando tiempos compartidos claros; si el diálogo sigue trabado, buscar un espacio seguro con alguien externo puede ayudar a sanar antes que la distancia se vuelva costumbre."
+    }
+  ],
+  "eval": {
+    "coverage_pct": 62.5,
+    "baseline_considerations": [
+      "Clarificar expectativas mutuas sobre tiempo compartido y autonomía",
+      "Distinguir entre autonomía saludable y descuido reiterado de la pareja",
+      "Examinar patrones de comunicación y defensividad ante quejas",
+      "Evaluar impacto emocional y soledad sentida versus necesidad de control",
+      "Revisar acuerdos y límites previos sobre disponibilidad y prioridades",
+      "Considerar equidad: tiempo y calidad con amigos versus con la pareja",
+      "Identificar necesidades no satisfechas y formas de negociarlas sin etiquetas",
+      "Planear acciones concretas y metas revisables para reequilibrar tiempo y conexión"
+    ],
+    "voice_scores": {
+      "abuela": 4,
+      "mama": 5,
+      "tio": 4,
+      "prima": 5,
+      "primo": 3
+    },
+    "diversity_score": -1.0,
+    "judge_reasoning": "1. No se clarifican expectativas mutuas: solo se habla desde la perspectiva de ella. 2. Sí se distingue: la Prima y el Tío indican que la etiqueta de 'controladora' puede ser manipulación, diferenciando descuido de autonomía. 3. Sí se examinan patrones: Abuela, Mamá y Prima discuten la defensividad de él y cómo evitarla. 4. Sí se evalúa el impacto emocional: validan su soledad y distinguen de necesidad de control. 5. No se revisan acuerdos previos: no se menciona si hubo límites establecidos antes. 6. Se considera equidad parcialmente: se menciona que él sale con amigos y ella queda sola, pero sin análisis profundo de equilibrio. 7. Sí se identifican necesidades: Prima dice 'ella tiene necesidades y punto' y se negocian formas de expresarlas. 8. No hay acciones concretas: solo sugerencias generales del moderador, sin metas revisables."
+  },
+  "timing": {
+    "panel_seconds": 487.9,
+    "eval_seconds": 265.5
+  }
+}

@@ -110,7 +110,7 @@ def build_panelist_user(dilemma: str, history: list[Line], cfg: PersonaConfig, l
     if history:
         lines = []
         for ln in history:
-            who = "Moderador" if ln.role == "moderator" else cfg.personas[ln.role].display_name
+            who = "Moderador" if ln.role.startswith("moderator") else cfg.personas[ln.role].display_name
             lines.append(f"{who}: {ln.text}")
         history_str = "\n".join(lines)
     return f"{lead}:\n{dilemma}\n\n{conv}:\n{history_str}\n\n{now}"

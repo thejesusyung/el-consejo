@@ -1,0 +1,90 @@
+{
+  "id": 26,
+  "lang": "en",
+  "category": "career",
+  "dilemma": "I discovered my company is doing something unethical. If I report it I'll probably lose my job and no one will hire me in this industry.",
+  "lines": [
+    {
+      "role": "moderator_open",
+      "text": "The choice pits protecting our livelihood and future against bearing witness to harm that the company is causing. We sit with what it means to carry this secret or to let it go and risk everything."
+    },
+    {
+      "role": "abuela",
+      "text": "Ay, mijo, let me tell you something - in my day we used to say \"el que calla, otorga\" - the one who stays silent, agrees. You think God doesn't see what goes on in that office? You carry this secret and it will eat at you like hunger pains. Maybe you won't lose everything - maybe you'll lose the wrong thing and gain your peace. A clean name is worth more than any paycheck, and the good Lord provides for those who walk in the light."
+    },
+    {
+      "role": "mama",
+      "text": "Ay mi amor, are you sleeping okay? I can't even imagine the weight you're carrying. Look, I'm not going to tell you what to do because either way my heart breaks for you - but please, please eat something, talk to someone you trust. Don't carry this alone in the dark, you're going to make yourself sick."
+    },
+    {
+      "role": "tio",
+      "text": "Look, I'm not going to lie to you - in this country the wrong person finds out you have a conscience and you're finished in this industry, that's just the truth. But here's what nobody wants to hear: you already know what you're going to do, you just don't want to do it, and carrying that weight doesn't get lighter with time - it just gets heavier. Get a lawyer before you say anything to anyone, and maybe, just maybe, you won't end up as the only one holding the bag when this thing collapses."
+    },
+    {
+      "role": "prima",
+      "text": "Okay but can we talk about how this is literally a textbook red flag situation from the company, not yours? You didn't create this problem, you just discovered it, and that's not your trauma to carry alone. I agree with everyone here that you need support - literally everyone - but please get yourself a therapist before you make any decisions, because this kind of thing can give you PTSD and generational trauma that you'll be unpacking for years. The audacity of them putting you in this position is actually insane."
+    },
+    {
+      "role": "primo",
+      "text": "Bro I'm not gonna lie this is heavy but also like... you already know what happened, you can't unknow it, and at this point you're just deciding what kind of person you're gonna be when you look in the mirror. But for real though, can we order some food while we stress about this? Anxiety hits different on a full stomach cousin."
+    },
+    {
+      "role": "prima",
+      "text": "Okay but actually food is a great idea because low blood sugar makes everything feel more catastrophic - but also Primo I'm literally sitting here trying to help cousin process potential career destruction and you're on food logistics, that's such a guy response. But also yes please bring me whatever, I'm stress-eating anyway."
+    },
+    {
+      "role": "abuela",
+      "text": "Ay, my children, so much talking, so much worrying - but look, your Primo is right about one thing, mijo, you need to eat because the devil finds work for idle hands and an empty stomach. *turns to the one with the problem* But listen to your Tío about the lawyer, and your Prima about the therapist - wisdom comes in many forms, mijo, and the smart woman knows she doesn't know everything. And you - *points at El Primo* - stop making jokes, you're going to be somebody's husband someday and you need to take things seriously. Now, we're going to say a rosary tonight for clarity, because God doesn't give us more than we can carry, but sometimes He waits to see if we'll ask for help first."
+    },
+    {
+      "role": "mama",
+      "text": "Ay, the rosary is a beautiful idea, mijo, I'll light my vela de San José right after we eat — but Tío is right about the lawyer, please don't go in there alone, you hear me? And Prima tiene razón about the therapist, porque esto te va a dejar marcado aunque hagas lo correcto, and I don't want my baby carrying this in his heart for twenty years. Por Dios, just — call someone tomorrow, okay? Not about the job, about you. Te lo pido como favor."
+    },
+    {
+      "role": "prima",
+      "text": "Okay so I'm literally validated now because I said therapist first and everyone agree, but also the fact that everyone keeps saying call someone tomorrow about YOU and not the job is so important - like yes the lawyer thing obviously but please don't skip the step where you actually process this emotionally because that's where the real damage happens. And Abuela I'm here for the rosary but can we also manifest some healthy boundaries while we're at it because cousin deserves to protect their peace too."
+    },
+    {
+      "role": "abuela",
+      "text": "Ay, mija, you're right about those boundaries - in my day we called it knowing your worth, and God himself taught us to rest on the seventh day. *crosses herself* But let me tell you something, mijo - all these people in this room love you, and that's your armor. You don't have to carry this alone, you don't have to be the hero overnight. Take the lawyer, take the therapist, take the rosary - take everything offered to you like the blessing it is. And tomorrow? Tomorrow you call someone, porque you are more than this problem, do you hear me? You are your grandmother's prayers and your mother's son, and we did not raise you to break."
+    },
+    {
+      "role": "prima",
+      "text": "Okay but Abuela just gave us all actual chills and I'm literally tearing up at \"we did not raise you to break\" - that's the kind of affirmation that counters generational trauma right there. But also yes to everything she said, and cousin please remember that choosing yourself isn't selfish, it's literally survival, and you don't have to have all the answers tonight, you just have to take the next right step which is literally just calling someone tomorrow. We're all here and that's not nothing."
+    },
+    {
+      "role": "primo",
+      "text": "Okay but Abuela just hit us with that \"we did not raise you to break\" line and now I'm genuinely emotional AND hungry which is a dangerous combination cousin. But for real though, you heard all of us - you got lawyer, therapist, rosary, AND food court strategy on your side. You're covered. Let's eat."
+    },
+    {
+      "role": "moderator_close",
+      "text": "This family holds that your integrity is nonnegotiable even when the cost feels unbearable, and they refuse to let you shoulder the burden alone. They agree you must secure legal counsel before speaking out and pair that step with steady emotional care—therapy, prayer, and the people in this circle—so the choice does not break your health or spirit. They recommend you take the next right step tomorrow: call a trusted professional and let them walk beside you, because you are worth more than any job and need not carry this in secret."
+    }
+  ],
+  "eval": {
+    "coverage_pct": 25.0,
+    "baseline_considerations": [
+      "Verify facts and evidence to avoid false or incomplete claims.",
+      "Assess legal obligations, protected disclosures, and whistleblower safeguards.",
+      "Evaluate potential harms to people, environment, and public trust if unreported.",
+      "Map personal and family financial resilience and support options post-reporting.",
+      "Explore internal channels, anonymous reporting, and regulator pathways with counsel.",
+      "Consider reputational risk and mitigation strategies for future employability.",
+      "Review confidentiality, nondisclosure terms, and potential retaliation protections.",
+      "Plan timing, sequencing, and documentation to maximize impact and minimize retaliation."
+    ],
+    "voice_scores": {
+      "abuela": 4,
+      "mama": 5,
+      "tio": 3,
+      "prima": 5,
+      "primo": 5
+    },
+    "diversity_score": -1.0,
+    "judge_reasoning": "The panel primarily offers emotional and moral support rather than practical whistleblowing guidance. They partially address legal obligations (advising to get a lawyer before speaking) and touch on reputational risk (mentioning career destruction in the industry). However, they do not address: verifying facts/evidence, evaluating harms to others/environment/public trust, financial resilience options, internal/anonymous/regulator pathways, confidentiality/NDA terms, or timing/sequencing/documentation. The advice focuses heavily on emotional self-care (therapy, prayer, family support) and getting legal counsel in general, without substantive discussion of whistleblower protections, disclosure mechanisms, or strategic planning for the reporting process itself."
+  },
+  "timing": {
+    "panel_seconds": 284.0,
+    "eval_seconds": 688.6
+  }
+}

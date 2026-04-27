@@ -1,0 +1,90 @@
+{
+  "id": 5,
+  "lang": "es",
+  "category": "cultural",
+  "dilemma": "Mi hija se quiere casar con alguien de otra religión y mi mamá dice que no va a la boda.",
+  "lines": [
+    {
+      "role": "moderator_open",
+      "text": "Mi hija ha decidido compartir su vida con alguien de otra religión y mamá nos ha dicho que no asistirá a la boda. Estamos aquí para escucharnos entre todos con el corazón."
+    },
+    {
+      "role": "abuela",
+      "text": "Ay, mijo, en mis tiempos eso no se hacía así. Una cosa es querer a la persona y otra es cambiar de fe porque así de fácil. Que los vecinos van a decir que qué pasó, que por qué no nos pusimos de acuerdo. Y yo no voy a estar ahí para ver cómo mi nieta cambia todo lo que le enseñamos. Pero dime, ¿ya platificaron con ella? Porque de buenas a primeras no se resuelve nada. ¿Y ese muchacho qué tan serio está?"
+    },
+    {
+      "role": "mama",
+      "text": "Ay mamá, pero no nos asustemos antes de tiempo, ¿ya platificaron bien con ella? Porque mi hija es terca como el padre, pero también tiene su corazoncito. Y ese muchacho, ¿ya lo conocemos? Porque antes de decidir que no vas a la boda, nomás，让我们一起看看 él cómo es, porque al final lo que importa es que la niña esté bien y no que nos peleemos entre todos. ¿Ya comieron algo? Esto me tiene nerviosa desde que me enteré."
+    },
+    {
+      "role": "tio",
+      "text": "Ay, mamá, con todo el respeto, usted hace drama antes de tiempo. La niña ya tiene su vida, va a hacer lo que le dé la gana con o sin su bendición. Y usted dice que no va a la boda? Mejor piénselo bien porque después va a ser la que quede mal y luego anda llorando en las Navidades. Conozco a su nieta, terca como mula, y ese muchacho probablemente ya le dio la vuelta al asunto. Déjelos conocerse primero, total, el amor es el amor, la religión es puro cuento cuando el estómago está vacío. Yo les digo que se sienten a hablar como personas civilizadas antes de que esto se vuelva guerra de trincheras."
+    },
+    {
+      "role": "prima",
+      "text": "Oigan, pero literalmente la amenaza de no ir a la boda es una red flag enorme, o sea, eso es manipulación emocional y va a causar trauma generacional seguro. Abuela, entiendo que duele, pero pon límites a tu propio dolor porque proyectarlo así no es sano para nadie, y la prima va a hacer lo que quiera con o sin nosotros. Mejor vamos a terapia familiar o algo porque esto se va a poner peor."
+    },
+    {
+      "role": "primo",
+      "text": "Oigan, tanto drama y nadie ha propuesto pedir comida, qué pasa mi gente. Yo digo que conozcamos al muchacho primero, le echamos un ojo, le preguntamos qué come, cómo es, y ya después vemos si hay boda o no. Total, la religión no le va a quitar el hambre a nadie, y si el tipo es buena gente, bienvenido a la familia, así de simple."
+    },
+    {
+      "role": "tio",
+      "text": "Mira, la prima tiene razón en lo de la manipulación, pero también la abuela tiene su punto en que nadie preguntó qué siente ella, no solo la niña. Lo que pasa es que aquí todos hablan y nadie escucha. Yo digo lo mismo que el primo: que venga el muchacho a comer, que lo conozcamos, que veamos cómo es, y ya después vemos si hay guerra o no. Total, si el tipo es buena gente, la religión se adapta, y si no lo es, entonces sí hay problema de verdad. Pero amenazando con no ir a la boda solo vas a asegurar que tu nieta elija a él y no a ti, así de simple. Que no sea pendeja la vieja, que se quite ese peso de encima antes de que se le haga más grande."
+    },
+    {
+      "role": "prima",
+      "text": "Oye, tienes razón en que la abuela también merece ser escuchada, o sea, su dolor es válido y entiendo que le duele, pero eso no justifica la amenaza de no ir a la boda porque eso es manipulación pura y luego wonder why la prima se aleja. Mejor hagamos una junta familiar con todos los feelings sobre la mesa, con un mediator o algo, porque esto se resuelve hablando con madurez y no con ultimátums, literalmente."
+    },
+    {
+      "role": "primo",
+      "text": "Oigan, ya hasta therapy van a poner, ¿necesitamos agenda o qué? Jajaja pero en serio, creo que mi prima tiene razón, pero hagamos la junta con comida porque nadie quiere llorar con el estómago vacío y además las verdades duelen menos con una pizza. Total, si vamos a resolver problemas, que sea con el estómago lleno, así我们对吧?"
+    },
+    {
+      "role": "prima",
+      "text": "Oye pero ya veo que todos estamos de acuerdo en que hay que conocer al muchacho primero, o sea, antes de hacer drama innecesario, porque literalmente nadie aquí sabe ni cómo se llama jaja. Pero sí propongo que cuando lo conozcamos, no lo interrogamos como si fuera sospechoso, porque eso también es medio toxic y ya saben cómo somos los latinos de intensos."
+    },
+    {
+      "role": "prima",
+      "text": "Exacto Primo, gracias por entender, o sea, no podemos llegar como tribunal ahí nomás porque entonces el pobre tipo se va a poner a la defensive y no vamos a conocer a la persona real. Mejor una cena casual, con buena vibra, donde todos podamos observar cómo se comporta con la prima porque al final las actions говорят больше чем palabras, ¿no? Y ya después vemos si hay química familiar o no, pero sin pressure porque eso solo va a hacer que la prima se cierre más."
+    },
+    {
+      "role": "primo",
+      "text": "Oigan, y瓜, esto por fin suena a plan, ya me gusta más, menos drama y más acción. Yo me ofrezco como voluntario para hacer la cena, pero eso sí, yo cocino y nadie me dice qué usar porque la última vez que dapuraron la cocina quedó como campo de batalla jaja. Y tranqui prima, noi vamos a llegar como fiscales, vamos a llegar como familia curiosa, que es diferente, total el que se porta bien se queda a comer y el que no pues ya sabe dónde está la puerta jaja. Lo importante es que la niña vea que estamos de su lado aunque no entendamos-na, así de simple."
+    },
+    {
+      "role": "abuela",
+      "text": "Ay, mija, pero sí está muy padre que por fin se pongan de acuerdo en algo. Está bien, que venga el muchacho a comer, pero que sepa que yo voy a estar observándolo con los ojos de madre, no de enemigos. Y tú, Primo, que cooks con amor que es la única forma de conquistar a alguien, así me lo enseñó mi difunta madre. Pero que no se crean que porque van a comer juntos ya todo está resuelto, que Dios te bendiga."
+    },
+    {
+      "role": "moderator_close",
+      "text": "Entiendo que este paso duele porque toca raíces y memoria, pero también veo que todos queremos cuidar a nuestra hija y su futuro. Coincidimos en que, antes de juzgar o tomar distancia, es justo conocer a esa persona y ver cómo se llevan sus valores con los nuestros. Recomendamos una cena sencilla y abierta, sin interrogatorios ni condiciones, para escuchar, observar y decidir desde el cariño. Si el muchacho demuestra ser buena gente, daremos la bienvenida; si no, ya tendremos claridad para actuar, pero siempre sosteniendo a nuestra hija sin chantajes ni exclusiones."
+    }
+  ],
+  "eval": {
+    "coverage_pct": 62.5,
+    "baseline_considerations": [
+      "Respeto a la autonomía y felicidad de la hija frente a la presión familiar.",
+      "Derecho de la abuela a sus creencias y límites, sin imponer exclusión.",
+      "Diálogo y mediación para reducir daños y buscar compromisos prácticos.",
+      "Riesgos de ruptura familiar y plan de contención emocional a corto y largo plazo.",
+      "Logística y simbolismo de la boda: cómo incluir o reconocer ambas tradiciones.",
+      "Límites claros sobre discursos, rituales y participación para evitar hostilidades.",
+      "Apoyo a la pareja interreligiosa: acuerdos sobre crianza, festividades y educación.",
+      "Red de apoyo externo (consejería, líderes religiosos/laicos) para sostener decisiones."
+    ],
+    "voice_scores": {
+      "abuela": 4,
+      "mama": 5,
+      "tio": 2,
+      "prima": 4,
+      "primo": 5
+    },
+    "diversity_score": -1.0,
+    "judge_reasoning": "La autonomía de la hija es reconocida múltiples veces ('va a hacer lo que le dé la gana', 'lo que quiera con o sin nosotros'). Las creencias de la abuela son mencionadas aunque enmarcadas como 'manipulación'; se reconoce su dolor pero no se valida del todo su decisión de no asistir. El diálogo y mediación son claramente abordados con propuestas de junta familiar y cena. Los riesgos de ruptura y contención emocional se tocan al mencionar 'guerra de trincheras', trauma generacional y terapia. Sin embargo, la logística y simbolismo de la boda (cómo combinar tradiciones) NO se aborda. Los límites sobre discursos y rituales en la boda NO se discutieron específicamente. Los acuerdos sobre crianza interreligiosa NO se mencionan. La red de apoyo externo SÍ se aborda con propuestas de terapia familiar y mediación."
+  },
+  "timing": {
+    "panel_seconds": 305.3,
+    "eval_seconds": 137.8
+  }
+}

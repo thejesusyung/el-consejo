@@ -1,0 +1,90 @@
+{
+  "id": 27,
+  "lang": "es",
+  "category": "parenting",
+  "dilemma": "Mi hijo me confesó que sufre bullying en la escuela pero me pide que no haga nada porque tiene miedo de que empeore.",
+  "lines": [
+    {
+      "role": "moderator_open",
+      "text": "Nuestro hijo nos comparte que enfrenta acoso en la escuela y teme que la situación se agrave si intervenimos. Qué caminos podemos explorar juntos para acompañarlo sin exponerlo más."
+    },
+    {
+      "role": "abuela",
+      "text": "Ay, mijo, pero cómo no vas a hacer nada cuando tu hijo está suffering así. En mis tiempos nos callábamos muchas cosas, pero hoy día eso no se puede dejar pasar. Yo digo que hay que hablar con el niño, con paciencia, y juntos buscar la forma de protegerlo sin que él se sienta expuesto—porque un hijo que no confía en su familia es lo más triste que hay, Dios mío."
+    },
+    {
+      "role": "mama",
+      "text": "Ay Dios mío, es que yo entiendo a mi hijo, pobrecito, pero cómo no voy a hacer nada si mi niño está pasando por eso. Yo creo que primero que nada hay que abrazarlo, preguntarle cómo está, si está comiendo, si puede dormir... porque ese niño necesita sentirse seguro en casa antes de que hagamos cualquier movimiento. No podemos dejarlo solo con ese miedo, pero tampoco ignorarlo, ¿qué tal que le pasa algo peor?"
+    },
+    {
+      "role": "tio",
+      "text": "Mira, entiendo que el niño tenga miedo—pero no hacer nada es también una decisión, y usually la peor. Opciones hay: hablar con el maestro de confianza sin decir de quién viene la denuncia, o simplemente documentar todo por si acaso. Lo que no pueden es quedarse de brazos cruzados porque ese miedo se convierte en algo peor, y ya vieron cómo terminan estos casos en las noticias. En este país la escuela poco hace, así que ustedes tienen que ser los ojos."
+    },
+    {
+      "role": "prima",
+      "text": "Oigan, pero es que ese miedo del niño es super válido, okay, y literalmente no podemos invalidarlo, pero tampoco podemos dejar que el miedo dicte las decisiones porque eso le enseña que no hay salida, ¿no? Yo creo que primero hay que validar su emociones sin prometerle que no vamos a hacer nada—eso es establecer un boundary claro—y luego ya juntos, como equipo, buscar apoyo profesional o hablar con la escuela de manera confidential, porque ese niño necesita saber que puede confiar en ustedes sin sentirse expuesto, pero también que ustedes van a protegerlo, porque ese tipo de trauma si no se atiende ahora se vuelve generacional, literalmente."
+    },
+    {
+      "role": "primo",
+      "text": "Oigan, creo que todos tienen razón—el niño tiene miedo Y necesita que hagamos algo, entonces la cosa es cómo hacer las dos al mismo tiempo. Yo digo que lo sienten, le dicen \"mirá, noi vamos a dejar que esto pase, pero vos vas a estar en cada paso de la decisión\"—así no se siente expuesto sino que se siente parte del equipo, ¿me explico? Y mientras tanto, ¿pedimos pizza o qué? Porque esto se pone serio y necesito energía jajaja."
+    },
+    {
+      "role": "tio",
+      "text": "El Primo tiene razón, pero no se equivoquen—meter al niño en la decisión es lo único sensato, porque si no se siente parte de la solución les va a perder confianza más rápido de lo que creen. Y la pizza después, porque mientras comemos podemos seguir pasando ideas sin que parezca una junta ministerial—así el chamo ve que esto se maneja en familia, no como un julgamento."
+    },
+    {
+      "role": "prima",
+      "text": "Eso que dice el Primo es literally la mejor estrategia, porque incluirlo en la decisión le da agency y eso es clave para su estabilidad emocional—pero igual les recomiendo que busquen apoyo profesional, un psicólogo que pueda mediator la situación sin exponer al niño, porque ya saben que el bullying deja trauma si no se atiende a tiempo y no queremos que eso se quede con él para siempre."
+    },
+    {
+      "role": "primo",
+      "text": "Oye Prima tiene razón con lo del psicólogo—no es lo mismo un familiar que un profesional, a veces el chamo va a decirle cosas a un extraño que a nosotros no nos dice porque nos tiene miedo de preocupar jajaja. Pero ya saben que mientras más manos haya帮他, mejor—y sí, después de esto invito la pizza, lo prometo en serio esta vez 😅"
+    },
+    {
+      "role": "mama",
+      "text": "Ay sí, tiene razón la Prima con lo del psicólogo, porque hay cosas que mijo no me va a decir a mí para no preocuparme, pobrecito, pero un profesional lo puede ayudar sin que se sienta expuesto. Yo creo que lo más importante es que él sienta que no está solo, que esta familia está junta en esto, pero sin presionarlo, porque ese niño ya tiene suficiente miedo. ¿Ya comieron algo, verdad? Porque con el estómago vacío no se piensa bien y vamos a necesitar fuerzas para acompañar a nuestro hijo como se merece."
+    },
+    {
+      "role": "abuela",
+      "text": "Ay, qué bueno que dicen del psicólogo, porque hay cosas que un niño no le dice ni a su madre, y Dios mío, eso es normal. Mijo, lo que proponen está bien: incluir al chamo, no dejarlo solo, pero tampoco hacer drama porque eso lo asusta más. Y tú, mija, no te olvides de给它 un caldo de pollo bien caliente, que con el estómago lleno y un abrazo de su familia, ese niño va a sentir que no está solo en este mundo—que es lo único que importa, porque lo demás ya se arregla con paciencia y con Dios."
+    },
+    {
+      "role": "prima",
+      "text": "Ay abuela, el caldo de pollo y los abrazos son essentials emocionales, okay, pero no podemos quedarnos solo ahí porque eso le enseña que el problema se resuelve con paciencia y ya—necesitamos action plan porque ese niño está esperando que alguien haga algo, y mientras tanto el trauma se queda ahí acumulándose, literal."
+    },
+    {
+      "role": "abuela",
+      "text": "Ay, mija, pero claro que hay que hacer algo—no te estoy diciendo que nos quedamos cruzados de brazos con el caldo nada más. Lo que digo es que ese niño necesita sentirse seguro en casa primero, porque si no tiene ese refugio, nada más que hagamos afuera le va a sonar a nada. Pero tienes razón, hay que buscar ayuda profesional, y eso sí lo vamos a hacer—con la ayuda de Dios y de gente que sabe, mija, que para eso están."
+    },
+    {
+      "role": "moderator_close",
+      "text": "Entendemos que nuestro hijo está cargando con un miedo muy real y que necesita saber que su casa sigue siendo su refugio antes de cualquier otra medida. Coincidimos en que no podemos dejar las cosas en manos del tiempo, pero tampoco podemos avanzar sin él: su voz debe acompañar cada paso para que no se sienta expuesto ni desprotegido. Recomendamos sumar a un profesional que nos ayude a traducir su dolor en estrategias seguras, coordinar con la escuela con discreción y, mientras tanto, sostenerlo con paciencia, comida y abrazos para que recupere la confianza de que no está solo."
+    }
+  ],
+  "eval": {
+    "coverage_pct": 87.5,
+    "baseline_considerations": [
+      "Evaluar riesgo inmediato de daño físico o psicológico grave.",
+      "Validar emociones del menor y reforzar su seguridad y confianza.",
+      "Ponderar beneficios y riesgos de intervenir ahora versus esperar.",
+      "Coordinar con la escuela un plan discreto y de acompañamiento.",
+      "Involucrar al menor en decisiones para preservar su agencia.",
+      "Documentar incidentes, testigos y fechas para seguimiento.",
+      "Proveer apoyo profesional (psicología) y redes de pares seguros.",
+      "Establecer señales de alerta y protocolo de escalada claros."
+    ],
+    "voice_scores": {
+      "abuela": 3,
+      "mama": 5,
+      "tio": 3,
+      "prima": 5,
+      "primo": 3
+    },
+    "diversity_score": -1.0,
+    "judge_reasoning": "1. Se aborda implícitamente al discutir el miedo del niño y el riesgo de que 'le pase algo peor', aunque no hay una evaluación estructurada del nivel de riesgo. 2. Fuertísimamente abordado por múltiples voces: 'ese miedo del niño es super válido', 'hay que validar sus emociones', necesidad de que se sienta seguro, abrazos, etc. 3. Se pondera: 'no hacer nada es también una decisión', 'no podemos dejar las cosas en manos del tiempo' vs 'tampoco podemos avanzar sin él'. 4. Mencionado: 'hablar con el maestro de confianza sin decir de quién viene', 'de manera confidential', y el moderador concluye 'coordinar con la escuela con discreción'. 5. Muy fuertemente abordado: 'vas a estar en cada paso de la decisión', 'meter al niño en la decisión es lo único sensato', 'le da agency', 'su voz debe acompañar cada paso'. 6. Mencionado brevemente por El Tío: 'documentar todo por si acaso', pero no se profundiza en testigos ni fechas. 7. Fuertísimamente abordado: múltiples recomendaciones de buscar 'apoyo profesional', 'un psicólogo que pueda mediator', 'no es lo mismo un familiar que un profesional'. 8. NO se aborda: no se establecen señales de alerta específicas ni protocolo de escalada claro."
+  },
+  "timing": {
+    "panel_seconds": 465.2,
+    "eval_seconds": 302.8
+  }
+}

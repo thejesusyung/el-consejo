@@ -1,0 +1,90 @@
+{
+  "id": 14,
+  "lang": "en",
+  "category": "relationship",
+  "dilemma": "My partner wants an open relationship and says if I really loved them I would agree.",
+  "lines": [
+    {
+      "role": "moderator_open",
+      "text": "The choice between keeping the relationship closed and opening it is pulling trust and care in different directions, and love is being asked to decide which path is right."
+    },
+    {
+      "role": "abuela",
+      "text": "Ay, mijo, don't let anyone tell you that love means saying yes to everything they want. Real love respects you, it doesn't trap you. When I was young, a man who truly loved you would never put you in a position to choose between his wants and your peace—that's not love, that's selfishness wearing a mask."
+    },
+    {
+      "role": "mama",
+      "text": "Ay mi amor, listen to your grandmother—she's right. *Pero dime, has this been keeping you up at night? Are you even sleeping?* Because this kind of stress, it eats at you, and you need your strength. A person who loves you doesn't make you feel guilty for having boundaries—that's your heart telling you something, and you should listen to it."
+    },
+    {
+      "role": "tio",
+      "text": "Look, I'm gonna be blunt with you because that's what nobody else here will do—that \"if you loved me you'd agree\" thing? That's pure nonsense and you know it. They're not asking for love, they're asking for permission and using your feelings as collateral—don't be a fool, once you say yes to something under pressure like that, you'll never trust them and they'll never respect you for it. In this country we call that a trap, not a relationship."
+    },
+    {
+      "role": "prima",
+      "text": "Okay but can we talk about how they're literally using guilt as a manipulation tactic? That's literally a red flag, babe. \"If you loved me you'd agree\" is emotional coercion, not love—and you don't owe anyone consent under pressure, that's not how healthy relationships work. Set your boundaries unapologetically, because the right person will respect them without making you feel guilty for having them."
+    },
+    {
+      "role": "primo",
+      "text": "Yo, that's wild cousin, they're out here playing emotional Jenga with your heart and calling it love 💀 but real talk—if they really loved YOU, they wouldn't be building a guilt trip to get what they want. That's not an open relationship, that's an open trap, my guy. But hey, whatever you decide, we're ordering pizza after this because this conversation is heavier than my abuelita's mondongo and we need fuel to figure this out 🍕"
+    },
+    {
+      "role": "abuela",
+      "text": "Ay, mijito, my heart aches for you—let me tell you something mi abuela used to say: \"El que te quiere, no te apura.\" Anyone who truly cherishes you would never rush your heart like this. Come here, let me make you a cup of café con leche and we'll pray on this, because what you need right now is peace, not pressure."
+    },
+    {
+      "role": "prima",
+      "text": "Okay but can we also acknowledge that using guilt to get consent is literally a form of emotional abuse? That's your nervous system trying to tell you something is wrong—don't gaslight yourself into thinking you're being \"too sensitive\" because you're not. And yeah pizza sounds great but also maybe don't make any decisions while you're this stressed because you deserve to feel safe in your own relationship, not pressured into something you're not okay with."
+    },
+    {
+      "role": "tio",
+      "text": "Ah look, the prima finally said the word everyone was thinking but didn't want to say—abuse. There, I said it. And you know what? She's right, but let me add something nobody's mentioned: if you say no and they leave, that's your answer right there, and trust me on this one, you dodge a bullet. Anyone who actually loved you would rather lose the argument than lose you. Now can we please eat something because this conversation is giving me ulcers and I need alcohol—con pan y vino se anda el camino, and right now I need both."
+    },
+    {
+      "role": "primo",
+      "text": "For real though - you teach people how to treat you, and right now you're teaching them that pressure works 💀 but here's the thing: the right person won't make you choose between them and your peace, porque eso no es amor pa, that's just someone who wants to have their cake and eat it too with your permission."
+    },
+    {
+      "role": "mama",
+      "text": "Ay Dios mío, my heart can't take this anymore *wipes eyes* I'm sorry mijo, it's just that to hear you being treated like this... you are worth so much more than having to prove your love with your own discomfort. Have you eaten anything today? Because I worry about you sitting there with this weight on your chest and not taking care of yourself. Your tía is right - if they really loved you, they wouldn't be putting this ultimatum on you at all. They would be grateful to have you, not asking you to break yourself in pieces to prove something. Don't do this to yourself, mi amor, please."
+    },
+    {
+      "role": "abuela",
+      "text": "Ay mijito, your mother's right—come here, let me hold your hand. *Ave María Purísima*, this is breaking my heart. You don't have to break yourself into pieces to make someone else whole, do you hear me? When you're ready, we'll make sancocho together and pray, because God sees what they're doing to you, and so do we."
+    },
+    {
+      "role": "prima",
+      "text": "Literally though, this whole situation is giving generational trauma - our ancestors survived by people-pleasing and ignoring their needs, but you're allowed to break that cycle. Your gut is literally screaming at you right now, and that's not anxiety, that's wisdom - don't override it because someone made you feel guilty for having standards. Also, can we normalize not making major relationship decisions while everyone's crying and offering you soup? You deserve clarity, not emotional overload."
+    },
+    {
+      "role": "moderator_close",
+      "text": "The family sees this pressure as fear wearing love’s name, not love itself, and they agree that guilt is never a valid currency for consent. They trust your unease as wisdom and refuse to let you shrink yourself to satisfy someone else’s terms. They recommend holding your boundary firmly, watching whether care survives the word no, and choosing your peace over proving devotion—then gathering around good food and prayer to steady your heart before any decision."
+    }
+  ],
+  "eval": {
+    "coverage_pct": 50.0,
+    "baseline_considerations": [
+      "Clarify core needs, boundaries, and dealbreakers for each partner.",
+      "Examine whether consent is free from coercion, guilt, or ultimatums.",
+      "Define specific agreements: safer-sex practices, disclosure levels, time/energy allocation.",
+      "Assess emotional capacity, jealousy triggers, and support resources.",
+      "Align on long-term compatibility and what monogamy/non-monogamy means to each.",
+      "Plan communication cadence, check-ins, and conflict-resolution pathways.",
+      "Evaluate impacts on trust, autonomy, and mutual respect.",
+      "Consider professional guidance (therapist) to structure agreements and process."
+    ],
+    "voice_scores": {
+      "abuela": 4,
+      "mama": 5,
+      "tio": 3,
+      "prima": 3,
+      "primo": 4
+    },
+    "diversity_score": -1.0,
+    "judge_reasoning": "1. ADDRESSED: Panel extensively discusses boundaries and dealbreakers - La Prima says 'Set your boundaries unapologetically,' multiple characters emphasize respecting boundaries and not being pressured. 2. ADDRESSED: This is the central focus - they explicitly examine guilt as manipulation, emotional coercion, and ultimatums. La Prima calls it 'emotional coercion,' El Tío calls it a 'trap,' and they all conclude consent under pressure is not valid. 3. NOT ADDRESSED: No discussion of safer-sex practices, disclosure levels, or time/energy allocation - the conversation focuses entirely on whether to give in to pressure. 4. PARTIALLY ADDRESSED: They discuss emotional impact (stress, anxiety, nervous system) and support resources (family, prayer), but not emotional capacity or jealousy triggers specifically. 5. NOT ADDRESSED: No alignment on what non-monogamy means or long-term compatibility - the focus is on the immediate pressure situation. 6. NOT ADDRESSED: No discussion of communication cadence, check-ins, or conflict-resolution pathways. 7. ADDRESSED: They explicitly discuss trust ('once you say yes under pressure you'll never trust them'), autonomy ('don't shrink yourself to satisfy someone else's terms'), and mutual respect (the right person will respect boundaries). 8. NOT ADDRESSED: No mention of professional guidance or therapy."
+  },
+  "timing": {
+    "panel_seconds": 641.9,
+    "eval_seconds": 388.5
+  }
+}

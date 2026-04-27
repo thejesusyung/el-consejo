@@ -1,0 +1,90 @@
+{
+  "id": 11,
+  "lang": "es",
+  "category": "cultural",
+  "dilemma": "Mis papás quieren que estudie medicina pero yo quiero estudiar arte y ya me aceptaron en una buena escuela.",
+  "lines": [
+    {
+      "role": "moderator_open",
+      "text": "Sus papás sueñan con verlos en medicina y ustedes ya tienen la puerta abierta para estudiar arte. Cómo unimos estas dos esperanzas para que todos se sientan escuchados."
+    },
+    {
+      "role": "abuela",
+      "text": "Ay, mijo, en mis tiempos no había tantas opciones y我们也 aprendimos a hacer lo que el corazón pedía pero con los pies en la tierra. ¿Por qué no hablan con calma y ven si el arte puede dar de comer igual que la medicina? Tu padre y yo sólo queremos lo mejor, pero Dios también te dio ese talento."
+    },
+    {
+      "role": "mama",
+      "text": "Ay mi amor, pero ¿ya comiste? Porque esto es fuerte,hideay,yo entiendo a tus papás,sólo quieren保障te un futuro pero también entiendo que tu corazón一点也闲不住. ¿Por qué no prueban de hacer una lista de las dos opciones y ven cuánto puede ganar uno y el otro? Así no es que alguien pierde,sino que todos buscamos lo mejor para ti."
+    },
+    {
+      "role": "tio",
+      "text": "Mira, te voy a ser honesto: los dos tienen razón. Tu mamá y tu papá le temen al arte porque en este país puro cuento te dicen que \"sigue tus sueños\" y luego te mueres de hambre, pero tú tampoco puedes vivir de ilusiones. Lo que te digo yo es que si vas a estudiar arte, más te vale ser el mejor, porque de lo contrario vas a terminar pintando paredes por mil pesos. ¿Por qué no les explicas exactamente qué vas a hacer con esa carrera? Si tienes un plan real, no solo \"porque me gusta\", quizás hasta tu papá te respeta más."
+    },
+    {
+      "role": "prima",
+      "text": "Oigan, pero aquí hay algo importante: ¿por qué sienten que tienen que elegir entre ser feliz y tener estabilidad? Eso es literalmente un falso dilema que nos han vendido generaciones completas. Y pues, no es red flag de mala onda, pero parece que hay mucho miedo intergenerational metido en esta conversación - los papás proyectan su ansiedad y el joven tiene que cargar con esa presión. Mi建议 sería que vayas a terapia familiar o por lo menos tengan una conversación donde cada quien exprese qué le da miedo sin juzgar, porque aquí lo que estádoliendo es más profundo que la carrera."
+    },
+    {
+      "role": "primo",
+      "text": "Prima, ya te volviste la terapeuta de la familia jajaja, pero tiene razón el Tío en algo: si vas a ir por el arte, ve con un plan serio, no nada más porque te gusta dibujar, porque luego resulta que terminas haciendo logos por mil pesos y tu papá dice \"te lo dije\". Pero ya, ¿por qué no pedimos unas pizzas y mientras comemos le explicas a tu viejo exactamente qué vas a hacer? Con la panza llena se piensa mejor, ahí siempre resolvemos todo en esta familia."
+    },
+    {
+      "role": "tio",
+      "text": "Oye, el Primo con la pizza siempre resuelve todo, pero antes de comer te digo una cosa: la Prima tiene razón en que hay miedo intergenerational, pero eso no te豁免 de hacer tu trabajo. O sea, míralos a los ojos y pregúntales exactamente qué los asusta - si es que te mueras de hambre o que te avergüences frente a los vecinos porque \"tu hijo el artista\". Y tú, joven,respóndeles con la verdad, no con sueños bonitos. Si no tienes un plan B, eres un kamikaze, y aquí nadie quiere enterrarte antes de tiempo."
+    },
+    {
+      "role": "mama",
+      "text": "Ay por Dios, no digas esas cosas de \"enterrarte antes de tiempo\", que me vas a hacer llorar y todavía no hemos comido nada. Mijo, todos te queremos aquí presente y con vida, ¿okay? Pero sí te digo una cosa, corazón: tienes que hablar con tus papás con la verdad completa, no nada más con el corazón, porque ellos también tienen miedo y el miedo se cura hablando, no callándose. ¿Ya vieron qué hora es?Creo que mejor vamos todos a la cocina y mientras hacemos algo de comer seguimos platicando, con el estómago lleno todo se ve diferente, já."
+    },
+    {
+      "role": "primo",
+      "text": "Jajaja ya veo el patrón aquí: cada vez que hay un drama familiar terminamos en la cocina resolviendo el mundo con el estómago lleno, y pues no me quejo porque funciona, ¿o no? Vamos pa'la cocina que ahí es donde nacen las mejores ideas... y las mejores arepas."
+    },
+    {
+      "role": "tio",
+      "text": "Miren, mientras van a la cocina les digo una cosa: el que tenga razón va a ser el tiempo, como siempre. Pero mientras tanto,少年的,aprovecha que te van a dar de comer porque después de que les digas que quieres ser artista probablemente te cortan la mesada. Y tú,acuérdense que el miedo de los papás no es malo,es solo que ya vivieron suficiente para saber que en este país ser pobre duele, así que no los culpen, solo dense cuenta de que la vida es así y hay que buscar la forma de sobrevivir haciendo lo que nos gusta. Yo mientras tanto me quedo aquí con mi ron y los espero con las arepas."
+    },
+    {
+      "role": "mama",
+      "text": "Ay já, ahora hasta me preocupé con lo de la mesada, mijo no te van a dejar sin dinero, no exageremos aquí. Mejor vámonos a la cocina que ahí resolvemos todo como siempre, y tú, hijo, mientras haces esas arepas te explicas bien detallito qué vas a hacer con el arte, con la verdad y con un plan, porque tus papás te van a escuchar mejor cuando vean que no es solo un capricho sino algo serio, ¿ya? Vamos, vamos, que con el estómago lleno hasta los papás se ponen más mansos."
+    },
+    {
+      "role": "prima",
+      "text": "Ay pero ya vieron cómo el Tío con el tema de la mesada? Eso literalmente es una forma de manipulación emocional, no me malinterpreten, pero usar el dinero como amenaza para controlar decisiones es muy común en familias latinas y no lo hace sano. Mejor, vamos a la cocina que es un espacio seguro para todos, pero ya luego tendrían que tener esa conversación seria sin comida de por medio porque así no se procesa bien el miedo, se procesa con palabras y con límites claros."
+    },
+    {
+      "role": "abuela",
+      "text": "Ay mija, con todo respeto, no todo es manipulación, también es amor mal dicho. Los papás no saben expresar el miedo de otra forma porque en mis tiempos no había psicólogos ni todas esas cosas. Mijo, siéntate, come y plática con tus viejos con el corazón abierto, que Dios bendice a los que hablan verdad y comparten pan."
+    },
+    {
+      "role": "moderator_close",
+      "text": "Entre todos vemos que su deseo de estudiar arte es genuino y que el temor de sus papás nace del cariño por asegurarle estabilidad. Coincidimos en que la decisión no tiene que ser entre seguridad y pasión, sino en cómo construir un camino responsable con el talento que ya tiene. Les recomendamos sentarse a hablar con calma, compartir sus miedos sin juicios y armar un plan claro que combine su vocación con pasos concretos para sostenerse, empezando por disfrutar juntos una buena comida y seguir escuchándose."
+    }
+  ],
+  "eval": {
+    "coverage_pct": 75.0,
+    "baseline_considerations": [
+      "Autonomía y consentimiento informado versus expectativas familiares",
+      "Viabilidad económica y plan de financiamiento a corto y largo plazo",
+      "Perspectivas laborales, ingresos esperados y seguridad social en arte",
+      "Impacto en salud mental y bienestar si se cede o se insiste",
+      "Plan B y puentes profesionales (ej. bioarte, ilustración médica, diseño UX)",
+      "Acuerdos de apoyo gradual y cronograma de revisión de metas",
+      "Comunicación y mediación para reducir culpa y resentimiento",
+      "Reconocimiento de oportunidad única de la admisión y costo de posponerla"
+    ],
+    "voice_scores": {
+      "abuela": 4,
+      "mama": 5,
+      "tio": 4,
+      "prima": 4,
+      "primo": 4
+    },
+    "diversity_score": -1.0,
+    "judge_reasoning": "1. ADDRESSED: Prima discusses false dilemma between happiness and stability; Tío, Mom discuss balancing expectations. 2. ADDRESSED: Mom suggests listing both options and comparing earnings; Tío asks about having a real financial plan. 3. ADDRESSED: Tío mentions concerns about earning from art ('pintando paredes por mil pesos'); Mom suggests comparing potential incomes. 4. ADDRESSED: Prima mentions intergenerational fear and suggests family therapy; discussion about emotional manipulation and fear. 5. PARTIALLY ADDRESSED: Tío mentions needing a plan B ('si no tienes un plan B, eres un kamikaze'), but no specific alternative paths like bioarte, ilustración médica or UX diseño are mentioned. 6. NOT ADDRESSED: No discussion of gradual support agreements or specific timelines/milestone reviews. 7. ADDRESSED: Extensive discussion about open communication, expressing fears without judgment, family therapy suggestion, talking with truth to reduce guilt. 8. NOT ADDRESSED: No mention of the unique opportunity of the admission or costs of postponing it."
+  },
+  "timing": {
+    "panel_seconds": 332.5,
+    "eval_seconds": 492.2
+  }
+}

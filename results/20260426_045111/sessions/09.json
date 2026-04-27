@@ -1,0 +1,90 @@
+{
+  "id": 9,
+  "lang": "es",
+  "category": "family",
+  "dilemma": "Mi suegra se quiere mudar a vivir con nosotros y mi esposa dice que no podemos decirle que no.",
+  "lines": [
+    {
+      "role": "moderator_open",
+      "text": "La suegra busca un espacio bajo nuestro techo y tu pareja siente que no podemos negarlo. Cómo vemos este cambio entre todos."
+    },
+    {
+      "role": "abuela",
+      "text": "Ay, mijo, en mis tiempos la familia se vivía junta, no había de otra. Pero también le digo a mi hija: toda casa tiene su límite y si no se ponen de acuerdo ahora, después viene el resentimiento. Ora, pónganse de rodillas los dos y háganle caso a Dios, que Él les va a mostrar el camino, pero mientras tanto, échense un caldo de pollo para pensar con claridad."
+    },
+    {
+      "role": "mama",
+      "text": "Ay mi amor, pero ¿ya comieron? Porque con el estómago vacío no se decide nada, se vuelve todo más difícil. Yo entiendo a tu esposa, no es fácil decir que no a una madre, pero también entiendo que ustedes tienen su privacidad, su espacio... y yo sé lo que es sentirse invade, créeme que lo sé. Por Dios, ojalá encuentren un término medio sin que nadie se sienta rechazado, porque al final la familia es lo que importa y no queremos rupturas."
+    },
+    {
+      "role": "tio",
+      "text": "Mira, te lo digo yo: en este país nos enseñaron que familia es sagrado pero también nos llenan de culpas y al final vives incómodo en tu propia casa. No seas pendejo, si tu esposa no quiere confrontar a su madre que lo haga ella, no tú, porque después te echan la culpa a ti de todo. Puro cuento eso de que \"no se puede decir que no\", sí se puede, lo que pasa es que nadie quiere cargar con el peso. Pero allá ustedes, la vida es así, luego no vengan a llorar."
+    },
+    {
+      "role": "prima",
+      "text": "O sea, literalmente esto es un clásico ejemplo de trauma generacional donde nadie aprende a poner límites saludables y luego wonder why everyone está resentido en la misma casa. No es que no puedan decirle que no, es que nadie les enseñó que saying no es necesario para tener una relación sana. Tu esposa necesita hacer su trabajo emocional y establecer boundaries con su mamá, porque si no lo hace ahora, van a tener problemas literalmente para siempre. Yo digo: terapia de pareja, yesterday."
+    },
+    {
+      "role": "primo",
+      "text": "Oigan, prima, estás bien con tanto \"boundaries\" y \"trabajo emocional\"? Jajaja, parece sesión de terapia y ni siquiera han pedido la cuenta. Pero ya en serio, tiene razón la Prima en lo de los límites, porque miren, yo creo que el problema es que nadie quiere ser el malo de la película. Mejor párenla, pidan unas pizzas y conversen con la suegra tranquilamente, porque si la reciben con tensión desde el inicio, luego sí va a ser un vacilón de diez años. Yo apuesto por la pizza, lo demás se resuelve comiendo, siempre funciona."
+    },
+    {
+      "role": "tio",
+      "text": "Oigan, la prima con su terapia y el primo con la pizza, pero el problema sigue ahí: o le dicen que sí y se mudan, o le dicen que no y ya. No hay tercera, no seas pendejo. Y sí, la Prima tiene razón en que nadie les enseñó a decir que no, pero ya son adultos, ¿cuándo van a aprender? En este país esperamos que el otro adivine lo que sentimos y luego nos sorprendemos cuando todo explota. Háganle caso al Primo en una cosa: conversen, pero antes de la pizza, porque con el estómago lleno nadie piensa con claridad y terminan aceptando lo que no quieren."
+    },
+    {
+      "role": "mama",
+      "text": "Ay sí, tiene razón el Tío en que hay que conversar, pero antes我想 que pensemos en la suegra también, pobrecita, no sabemos qué estará pasando por su mente para querer mudarse, a lo mejor está sola y asustada... Y tú, mijo, no te cargues toda la culpa, no es tu responsabilidad resolver el conflicto de tu esposa con su madre, aunque entiendo que quieras ayudar. Por Dios, ojalá encuentren una solución donde nadie se sienta abandonado, porque al final todas queremos lo mismo: estar juntas y bien, pero sin perdernos a nosotras mismas en el proceso. ¿Ya resolvedor de verdad qué van a hacer?"
+    },
+    {
+      "role": "abuela",
+      "text": "Ay, mis hijos, tantita terapia no les va a hacer daño, pero tampoco les voy a negar que un buen plato de comida ayuda a hablar las cosas. Lo que les digo es esto: si la suegra viene, viene con reglas claras desde el principio, porque aquí no vamos a vivir todos como gallinas en el mismo gallinero sin saber quién manda. Y tú, mijo, acuérdate que el que calla otorga, pero también el que habla a tiempo evita pleitos. Ora sí, háganle caso a la abuela: conversen con calma, sin grossesías, y pónganle a la Virgen una veladora para que les ilumine el camino, que Ella nunca falla."
+    },
+    {
+      "role": "prima",
+      "text": "O sea, la Abuela tiene razón en lo de las reglas claras, pero ahí está el detalle: si no trabajan su dinámica primero con un profesional, esas \"reglas\" se van a convertir en fuente de conflicto porque nadie sabe comunicar lo que siente sin sentirse culpable. Literalmente, la suegra no es el problema, es el síntoma de que hay patrones familiares que no se han procesado. Yo insisto: terapia, y si no quieren, mínimo que aprendan a usar \"yo siento\" en lugar de \"tú siempre\", que eso cambia todo."
+    },
+    {
+      "role": "abuela",
+      "text": "Ay, mija, tantita terapia no está mal si con eso aprenden a hablarse bonito, pero en mis tiempos con un \"mándeme la recámara\" y ya, no había tanto rollo. Ora, háganle caso a la Prima en lo del \"yo siento\", que eso suena muy suavecito y no hiere a nadie, y también háganle caso a la abuela: conversen, pero con respeto y con la Virgen de testigo, que Ella todo lo ve y todo lo arregla."
+    },
+    {
+      "role": "tio",
+      "text": "Mira,介于 la Virgen y el terapeuta, lo que necesitan es sentarlos a los tres en la misma sala y que hablen como adultos, porque si no lo hacen ahora, van a vivir diez años fingiendo que todo está bien hasta que estalle la pandemia en su propia casa. Y sí, therapy ayuda, pero también ayuda decir las cosas de una vez: \"mamá, te queremos, pero no así, no aquí\". Ya,那么简单, dejen de dar vueltas y háganle caso al sentido común que les queda."
+    },
+    {
+      "role": "prima",
+      "text": "O sea, el Tío literally acaba de decir lo que un terapeuta les diría en tres sesiones: comunicación directa y asertiva. Eso de \"mamá, te queremos pero no así\" es exactamente lo que deberían practicar antes de tener esa conversación, porque cuando llegue el momento real, van a sentir culpa y van a reculhar. Háganlo con un profesional primero si pueden, o mínimo, práctica en casa con espejos, pero no lleguen improvisando porque eso es una red flag assurée de que va a salir mal."
+    },
+    {
+      "role": "moderator_close",
+      "text": "Entendemos que la suegra busca cobijo y que la pareja teme fracturar el vínculo, pero también vemos que ceder sin acuerdos puede costar la tranquilidad del hogar. Coincidimos en que urge hablar con claridad y respeto, soltando la culpa y poniendo límites amables pero firmes antes de abrir la puerta. Recomendamos que, ya sea con apoyo terapéutico o en una charla sincera, definan juntos cómo sería la convivencia, qué necesitan cada uno y qué pueden ofrecer, para proteger el amor sin perder la paz."
+    }
+  ],
+  "eval": {
+    "coverage_pct": 50.0,
+    "baseline_considerations": [
+      "Capacidad financiera real y sostenible para sumar un adulto mayor.",
+      "Impacto en espacio, privacidad y dinámica de pareja y de hijos.",
+      "Estado de salud, autonomía y necesidades de cuidado a corto y largo plazo.",
+      "Expectativas claras sobre roles, tareas, horarios y convivencia.",
+      "Alternativas viables (adaptación en su casa, cuidado parcial, residencia).",
+      "Límites y plan de salida o revisión si la convivencia no funciona.",
+      "Acuerdos legales, patrimoniales y de seguros para proteger a todos.",
+      "Plan de apoyo emocional y comunicación para evitar resentimientos."
+    ],
+    "voice_scores": {
+      "abuela": 4,
+      "mama": 5,
+      "tio": 4,
+      "prima": 5,
+      "primo": 4
+    },
+    "diversity_score": -1.0,
+    "judge_reasoning": "1. NO se aborda: no hay mención de finanzas, costos o sostenibilidad económica. 2. SÍ se aborda parcialmente: la Mamá menciona 'privacidad, su espacio' y 'sentirse invade', el Tío menciona 'vives incómodo en tu propia casa', la Prima menciona resentimiento en la casa. 3. NO se aborda: no se discute el estado de salud, autonomía o necesidades de cuidado de la suegra. 4. SÍ se aborda parcialmente: la Abuela menciona 'reglas claras desde el principio' y 'saber quién manda', hay discusión sobre comunicación de expectativas. 5. NO se aborda: no se mencionan alternativas como adaptación en su casa, cuidado parcial o residencia. 6. SÍ se aborda parcialmente: se discute establecer límites ('límites amables pero firmes'), pero no hay plan de salida o revisión concreto. 7. NO se aborda: no hay mención de acuerdos legales, patrimoniales o de seguros. 8. SÍ se aborda: la Prima enfatiza 'trabajo emocional' y 'límites saludables', múltiples participantes discuten comunicación, terapia y evitar resentimientos."
+  },
+  "timing": {
+    "panel_seconds": 285.5,
+    "eval_seconds": 232.8
+  }
+}

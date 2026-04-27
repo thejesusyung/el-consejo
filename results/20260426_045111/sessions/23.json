@@ -1,0 +1,90 @@
+{
+  "id": 23,
+  "lang": "es",
+  "category": "money",
+  "dilemma": "Mi papá gastó todo su ahorro en un negocio que fracasó y ahora espera que yo lo mantenga.",
+  "lines": [
+    {
+      "role": "moderator_open",
+      "text": "Papá puso todo su ahorro en un negocio que no funcionó y ahora cuenta con tu sostén. Nos toca ver cómo acompañarlos sin perder el rumbo de cada quien."
+    },
+    {
+      "role": "abuela",
+      "text": "Ay, mijo, eso es muy difícil. En mis tiempos un padre no le pedía eso a sus hijos, pero también sé que cuando la sangre llama, uno responde. Lo que te digo es: ayúdalo con lo que puedas, pero no te destruyas tú mismo, que para mantener a otro primero tienes que estar parado. Ora mucho y busca cómo salir adelante entre los dos, que Dios no pone pruebas que no podamos cargar."
+    },
+    {
+      "role": "mama",
+      "text": "Ay mi amor, ¿pero cómo estás tú? Porque imagínate la preocupación que debes tener, y ahora ¿ya comiste? Porque con el estrés se nos olvida hasta respirar. Tu padre está en un momento muy difícil sí, pero tú no te puedes cargar todo el peso, corazón, primero respira y luego ve cómo le haces, pero no te destruyas por nadie, ¿me oíste?"
+    },
+    {
+      "role": "tio",
+      "text": "Mira, te voy a ser honesto: tu viejo metió la pata hasta el fondo y ahora te quiere hacer pagar el pato, eso es puro cuento de sua generación que cree que los hijos somos banco. Pero acá está la cosa: lo ayudás si podés, pero no te convertís en su muleta, porque si te caés vos, ¿quién lo levanta a él? En este país nous enseñan a sacrificar ourselves por la familia y terminamos todos hundidos. Dale una mano, pero con límites claros, porque si no te va a tragar vivo."
+    },
+    {
+      "role": "prima",
+      "text": "O sea, entiendo que es tu papá y el amor familiar es real, pero eso de gastarse todo y luego esperar que tú resuelvas su vida es literalmente una red flag enorme, ¿no? Creo que lo que todos están diciendo tiene sentido: ayúdalo sí, pero con límites muy claros, porque si no te vas a convertir en su therapist y en su banco al mismo tiempo y eso no es sano para ninguno de los dos. Además, eso de que los hijos somos responsables de los errores de los padres es puro trauma generacional que necesitamos romper, ¿sabes? Primero estás tú, literalmente."
+    },
+    {
+      "role": "primo",
+      "text": "Oye ya todos están muy serios, ¿sabés qué necesita esta familia? Ordenar pizza y hablar de otra cosa un rato jaja. Pero ya en serio, primo: yo te conozco, vos sos de los que se preocupan por todos antes que por uno mismo, y eso está bien pero mirá, mi abuela tiene razón, si vos te caés no lo levantás a nadie. Dale una mano a tu viejo porque es tu padre, pero no te metas en el papel de papá de tu papá, ¿me entendés? Vos primero, siempre."
+    },
+    {
+      "role": "prima",
+      "text": "El Primo literally salvó la conversación con eso de \"no ser papá de tu papá\", porque eso es exactamente lo que pasa cuando no ponés límites claros, terminás haciendo el trabajo emocional de toda la familia y te quedás vacío. Y sí, entiendo que parezca cold hacer pizzas y cambiar de tema cuando la situación está heavy, pero también creo que a veces el humor es una forma de procesar el trauma, así que estoy aquí por la pizza jaja, pero en serio: vos primero, siempre."
+    },
+    {
+      "role": "primo",
+      "text": "Oye prima, vos siempre tan wise jaja, pero mirá, entre pizza y trauma familiar yo elijo pizza, total el trauma sigue ahí mañana, pero la pizza se enfría jaja. En serio ahora: vos primero, siempre, y si tu viejo quiere ayuda que busque cómo pararse también, porque vos no naciste para cargar a nadie, primito."
+    },
+    {
+      "role": "prima",
+      "text": "Jaja ok pero en serio, lo del \"vos primero\" es literalmente la única forma sana de manejar esto, porque si te convertís en el salvador de tu papá vas a terminar resentido y él sigue sin aprender a pararse solo. Así que sí, pizza primero, pero mañana poné esos límites, porque ayudarte no significa sacrificarte, ¿me entendés?"
+    },
+    {
+      "role": "abuela",
+      "text": "Ay mijita tienes toda la razón, con el pizza y todo pero no se te olvide lo importante: ayuda a tu padre porque es tu deber, pero no te aveugues en su problema, que cuando uno se hunde arrastrando a otros entonces sí que los vecinitos tienen de qué parler, y eso no lo queremos. Dios te bendiga mijo, ora y actúa con cabeza."
+    },
+    {
+      "role": "prima",
+      "text": "Exacto, y además hay que normalizar que los padres también cometan errores sin que nosotros tengamos que pagar las consecuencias, porque si no repetimos el ciclo de siempre: los hijos cuidando a padres que no supieron cuidarse a sí mismos. Pero sí, después de esta conversación tan heavy necesito pizza literalmente urgentemente jaja."
+    },
+    {
+      "role": "mama",
+      "text": "Ay mi amor, pero qué difícil todo esto, por Dios. Primero que nada: ¿ya comiste? y ¿estás durmiendo bien? Porque mira, entiendo que quieres ayudar a tu padre, pero no te cargues el mundo entero, mijo, que para cuidar a los demás primero tienes que estar bien tú, ¿me oíste? No me hagas esto de olvidarte de ti mismo, que ya bastante tienes con lo de tu papá."
+    },
+    {
+      "role": "tio",
+      "text": "Mirá, ya todos te dijeron lo mismo: vos primero, límites, no seas mártir. Y tienen razón, pero te lo resumo yo porque veo que necesitás que alguien te lo diga claro: tu viejo metió la pata, no es tu responsabilidad arreglarle la vida. Dale una mano si podés, pero que no te cueste la tuya, porque al final cuando vos estés en la calle nobody te va a ayudar, ni él. En este país aprendemos a sufrir por la familia y terminamos todos pobres y resentidos."
+    },
+    {
+      "role": "moderator_close",
+      "text": "Entendemos que el papá enfrenta una caída dolorosa y busca apoyo, pero también vemos que cada quien carga con su propia responsabilidad. Coincidimos en que el vínculo se sostiene con afecto y límites claros, sin que nadie tenga que hipotecar su bienestar para tapar el error del otro. Recomendamos acompañarlo con gestos concretos y cuidando primero la estabilidad de quien ayuda, para que la familia salga adelante unida, sin sacrificios que terminen hundiéndolos a todos."
+    }
+  ],
+  "eval": {
+    "coverage_pct": 50.0,
+    "baseline_considerations": [
+      "Clarify legal and filial obligations versus voluntary support.",
+      "Assess current household budget, debts, and emergency reserves.",
+      "Distinguish essential needs from discretionary lifestyle expenses.",
+      "Set boundaries, timelines, and conditions for any financial help.",
+      "Explore income, expense cuts, debt restructuring, or public benefits.",
+      "Require transparency: budgets, statements, and recovery plan.",
+      "Address emotional fallout, communication norms, and conflict safeguards.",
+      "Plan contingencies if support strains my own stability or goals."
+    ],
+    "voice_scores": {
+      "abuela": 3,
+      "mama": 5,
+      "tio": 4,
+      "prima": 5,
+      "primo": 3
+    },
+    "diversity_score": -1.0,
+    "judge_reasoning": "The panel addressed: (1) legal/filial vs voluntary - they distinguish between duty and choice, with Tío saying 'no es tu responsabilidad' and Prima calling it 'trauma generacional'; (4) boundaries/timelines/conditions - extensively covered with repeated references to 'límites claros,' 'no ser papá de tu papá,' and 'vos primero'; (7) emotional fallout - discussed stress, self-care, processing trauma, and communication; (8) contingencies for personal stability - multiple warnings about not sacrificing one's own wellbeing. NOT addressed: (2) current budget/debts/reserves - no specific financial assessment; (3) essential vs discretionary expenses - no distinction made; (5) income/expense cuts/debt restructuring/public benefits - no concrete financial strategies discussed; (6) transparency requirements - no mention of requiring budgets, statements, or recovery plans from the father."
+  },
+  "timing": {
+    "panel_seconds": 467.9,
+    "eval_seconds": 361.1
+  }
+}

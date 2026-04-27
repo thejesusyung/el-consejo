@@ -1,0 +1,90 @@
+{
+  "id": 13,
+  "lang": "es",
+  "category": "money",
+  "dilemma": "Heredamos una casa de mi abuela y mis tres hermanos quieren venderla pero yo quiero conservarla.",
+  "lines": [
+    {
+      "role": "moderator_open",
+      "text": "La casa de la abuela nos reúne con su memoria y hoy aparece la duda entre conservarla o venderla entre nosotros. ¿Cómo sentimos cada uno el peso y el valor de este legado familiar?"
+    },
+    {
+      "role": "abuela",
+      "text": "Ay, mis hijos, en mis tiempos una casa no se vendía así no más, se conservaba para los que vienen detrás. La abuela tejió sus manos en cada cuarto de esa casa, ¿y ahora la vamos a soltar por dinero? Que digan los vecinos...Además, donde vais a ir cuando tengan problemas, ¿al hotel? Hay que ponernos de rodillas y pedirle a Dios que nos ilumine, pero vender el legado de la abuela, eso no se hace, mijo."
+    },
+    {
+      "role": "mama",
+      "text": "Ay, mamá, no me haga llorar, usted sabe que yo no puedo con estas cosas... Por Dios, es que la abuela tiene razón, esa casa tiene nuestros recuerdos, las Navidades, los domingos de comida, ¿cómo vamos a vender eso? Pero tampoco quiero que mis hermanos se peleen por mi culpa, ay mi amor, ¿no podemos simplemente sentarnos todos juntos y hablar con calma? No me gusta ver a la familia dividida así."
+    },
+    {
+      "role": "tio",
+      "text": "Mira, la abuela tiene razón en lo de los recuerdos, pero la mamá también tiene razón en que no nos pelemos. Lo que nadie dice es que esa casa en este barrio vale una fortuna y和维护la sale caro, eh. Pero miren, yo les voy a decir algo: vendan la mitad o no la vendan, total siempre vamos a encontrar la manera de echarnos la culpa mutuamente, eso es lo que sabemos hacer en esta familia."
+    },
+    {
+      "role": "prima",
+      "text": "Oigan, pero literally el Tío acaba de decir lo que es una red flag clásica de nuestra familia: proyectar el conflicto en lugar de resolverlo. Esto es exactamente trauma generacional en acción, gente. No es sano que automáticamente asumamos que nos vamos a echar la culpa, eso es lo que nos ha mantenido funcionando en modo disfuncional toda la vida. Necesitamos poner límites claros, hablar con un mediator o algo, porque esto no se resuelve con buenas intenciones, se resuelve con comunicación consciente."
+    },
+    {
+      "role": "primo",
+      "text": "Oigan, yaargh, llevamos una hora hablando de la casa y nadie ha propuesto pedir comida, eso sí que es trauma generacional jajaja. Pero ya en serio primos, el Tío tiene razón en una cosa: siempre encontramos la manera de echarnos la culpa, pero esta vez no tiene que ser así. Yo propongo que pidamos unas pizzas, nos sentemos tranquilamente y cada uno diga lo que realmente siente sin que la abuela nos mire con esa carita de decepción, porque esa mirada me da más miedo que el banco jajaja."
+    },
+    {
+      "role": "mama",
+      "text": "Ay mi amor, el Primo tiene razón en lo de la pizza, porque con el estómago vacío no se resuelve nada y además lleva una hora hablando la familia sin probar bocado, eso no es sano mijito. Pero prima tienes razón también en lo de comunicarnos mejor, es que siempre hemos sido así, callando cosas y luego explotando, y yo soy la primera que evita los problemas para que no haya pleitos... pero maybe sí necesitamos hablar con el corazón открытый, no? Ay, es que apenas mencionan la casa de la abuela y ya se me hace un nudo en la garganta, cómo no querer conservarla si ahí crecieron todos mis hijos..."
+    },
+    {
+      "role": "prima",
+      "text": "Oye Primo, pero literalmente tu propuesta de la pizza es lo más sano que hemos propuesto en toda la noche, porque crear un espacio cómodo y sin presión es exactamente como se hace terapia familiar, okay. Pero ya en serio, lo que dijiste de que cada uno diga lo que realmente siente sin miedo al juicio es exactamente lo que necesitamos, porque la abuela tiene sus razones, el tío tiene las suyas, y nosotros también, y si no expresamos lo que necesitamos vamos a seguir en el mismo ciclo de siempre. Yo propongo que pidamos la pizza pero con una regla: nada de interrumpir a nadie cuando hable, eso es lo mínimo que podemos hacer para respetarnos."
+    },
+    {
+      "role": "tio",
+      "text": "Miren, la prima tiene razón en lo de no interrumpir, pero también les digo: la pizza no va a resolver nada, lo que va a resolver es que tengamos el estómago lleno mientras nos echamos la culpa igual jajaja. Pero está bien, al menos comemos bien, porque en este país sabemos hacer dos cosas: comer y pelearnos, eso sí lo tenemos claro. Yo me quedo con mi ron y escucho, pero que sepán que vender o no vender, el que se quede con la casa va a terminar pagando los impuestos, el mantenimiento y las visitas de todos los domingos como si fuera gratis, y eso sí nadie lo dice pero es la verdad."
+    },
+    {
+      "role": "prima",
+      "text": "Oye Tío, literally gracias por decir lo que nadie quiere decir, porque eso de que el que se quede con la casa paga todo es exatamente lo que nadie menciona y es una conversación incómoda que tenemos que tener sí o sí, porque si no lo hablamos ahora va a generar resentimiento después y eso no es sano para nadie."
+    },
+    {
+      "role": "abuela",
+      "text": "Ay, gracias a Dios que por fin alguien dice las cosas como son, porque en esta familia nos gusta mucho hablar pero pocas veces decimos la verdad completa. El Tío tiene razón, mijo, mantener una casa sale caro y el que se quede ahí va a cargar con todo, pero precisamente por eso hay que sentarse con calma, comer algo que ya veo que van a pedir pizza aunque sea tarde, y hablar con el corazón abierto como dice la Prima. Que la abuela nos mira desde arriba y no quiere vernos peleando por un techo que ella nos dejó con tanto amor, que Dios la tenga en su gloria."
+    },
+    {
+      "role": "mama",
+      "text": "Ay, pero si la abuela tiene razón, mija, por fin hablamos con el corazón abierto y sin guardarnos cosas, eso es lo que siempre he querido pero nunca me he atrevido a pedir... ¿ya encargaron la pizza? Es que con el estómago vacío es peor, siempre lo digo, y además el Tío tiene toda la razón en lo de los gastos, nadie quiere verlo pero es la verdad, ay mi amor, es que esto de la herencia de la abuela me tiene tan sensible que cualquier cosa me hace llorar..."
+    },
+    {
+      "role": "abuela",
+      "text": "Ay, mija, tienes razón en todo lo que dices, pero también el Tío tiene razón en lo de los gastos, y por eso hay que ser honestos: si alguien se queda con la casa que no sea por obligación sino por amor, porque si no después viene el resentimiento y eso es peor que venderla, mijito. La abuela no quería que nos peláramos por un techo, ella quería que nos sentáramos debajo de él juntos, como siempre."
+    },
+    {
+      "role": "moderator_close",
+      "text": "Sentimos que esta casa guarda la identidad y el afecto de varias generaciones, pero también reconocemos el esfuerzo y el costo que implica sostenerla hoy. Coincidimos en que merecemos escucharnos con honestidad, sin interrumpir, y que cualquier decisión necesita transparencia sobre gastos y responsabilidades para no sembrar resentimiento. Recomendamos compartir una comida que nos relaje, hablar desde el corazón y, si alguien decide conservarla, que sea por amor y con acuerdos claros; de lo contrario, considerar juntos opciones que honren el legado sin desgastarnos."
+    }
+  ],
+  "eval": {
+    "coverage_pct": 37.5,
+    "baseline_considerations": [
+      "Valoración justa y tasación independiente de la propiedad y sus cargas.",
+      "Impacto fiscal y gastos recurrentes (impuestos, mantenimiento, seguros).",
+      "Acuerdo vinculante de partición: opción de compra, alquiler o venta con derecho de retracto.",
+      "Uso, apego y valor sentimental documentado con propuestas de preservación.",
+      "Plan de liquidez y reparto de ingresos/costos si se conserva o se vende.",
+      "Alternativas de compensación económica para quien cede su parte.",
+      "Riesgos legales, deudas ocultas y estado físico de la vivienda.",
+      "Plazos, mediación profesional y mecanismo de decisión mayoritaria o unánime."
+    ],
+    "voice_scores": {
+      "abuela": 5,
+      "mama": 4,
+      "tio": 4,
+      "prima": 5,
+      "primo": 5
+    },
+    "diversity_score": -1.0,
+    "judge_reasoning": "1. NO se mencionó valoración independiente ni tasación formal - solo se dijo que 'vale una fortuna' sin datos objetivos. 2. SÍ se abordó: el Tío mencionó explícitamente impuestos, mantenimiento y costos. 3. NO hubo discusión sobre acuerdos vinculantes, opciones de compra, alquiler o derecho de retracto. 4. SÍ se abordó extensamente el apego emocional, los recuerdos, el valor sentimental y la preservación del legado. 5. NO se discutió un plan de liquidez ni reparto de ingresos/gastos específico - solo se mencionaron costos generales. 6. NO se propusieron alternativas de compensación económica para quien ceda su parte. 7. NO se abordaron riesgos legales, deudas ocultas ni estado físico de la vivienda. 8. SÍ se mencionó la necesidad de mediación ('mediator'), comunicación sin interrumpir, y tomar decisiones con honestidad y acuerdos claros."
+  },
+  "timing": {
+    "panel_seconds": 344.2,
+    "eval_seconds": 159.1
+  }
+}

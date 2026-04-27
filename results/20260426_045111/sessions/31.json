@@ -1,0 +1,90 @@
+{
+  "id": 31,
+  "lang": "es",
+  "category": "cultural",
+  "dilemma": "Mi familia me presiona para bautizar a mi bebé pero yo ya no soy religioso y mi pareja tampoco.",
+  "lines": [
+    {
+      "role": "moderator_open",
+      "text": "Siento que la tradición del bautizo nos acerca a unos caminos distintos a los que ahora elegimos para nuestra crianza y queremos escuchar cómo lo ven con amor."
+    },
+    {
+      "role": "abuela",
+      "text": "Ay, mijo, entiendo que ustedes sienten diferente, pero el bautizo no es solo de la iglesia, es de la familia. En mis tiempos eso se hacía porque era la forma de recibir al niño en la comunidad, de pedirle a Dios que lo cuidara desde el principio. No te estoy pidiendo que vayas a misa todos los domingos, pero un bautizito pequeño, con la familia reunida, no le hace daño a nadie y a mí me quitaba un peso del corazón. ¿Por qué no hablamos con calma y buscamos un punto medio, eh? Ven, siéntate, ahorita te preparo un café."
+    },
+    {
+      "role": "mama",
+      "text": "Ay mi amor, por Dios, no discutamos por esto... Mira, entiendo que tú sientes diferente ahora y está bien, pero la abuela tiene razón en que no tiene que ser algo grande ni con misa ni nada, podría ser algo bonito solo para nosotros, para que la familia se junte y celebrate al bebé... ¿ya comiste siquiera? Porque mira que discutiendo no se resuelve nada, vente a la cocina que ahorita te preparo algo."
+    },
+    {
+      "role": "tio",
+      "text": "Mira, te lo digo yo: haz lo que te haga sentir bien a ti y a tu pareja, porque al final el niño es suyo y no de la familia completa. El bautizo es puro cuento en este sentido, una presión social que se disfraza de tradición, pero si lo único que van a hacer es comer pastel y recibir plata de los tíos, pues tampoco te mueres, ¿no? O sea, no necesitas creer en Dios para aceptar un café y unas arepas."
+    },
+    {
+      "role": "prima",
+      "text": "Oigan, pero ¿no ven que aquí el tema no es el bautizo en sí sino que literalmente están presionando con la comida y el café para que cedan? eso es una dinámica un poco manipuladora, eh. Yo creo que lo importante es que tú y tu pareja pongan límites claros desde el principio porque si no, esto va a ser “un detallito nada más” toda la vida y al final estás arriesgando tu paz mental por complacer a todos."
+    },
+    {
+      "role": "primo",
+      "text": "Oye prima tiene toda la razón, aquí el café es el arma de destrucción masiva emocional de la familia jajaja... pero también puedes tomarte el cafecito Y poner tu límite, ¿sabes? No es uno o otro. Te tomas el agua, les dices \"gracias abue\" con cariño y ya, ¡pero a tu manera primito!"
+    },
+    {
+      "role": "abuela",
+      "text": "Ay, mija, pero si yo les ofrezco café es porque los quiero, no porque quiera manipulate... ¡qué palabra tan fea! En mis tiempos las abuelas cuidaban así, con comida y con amor, no con malas intenciones. Pero está bien, está bien, yo entiendo que las cosas cambiaron, solo les digo que el corazón de esta vieja está en las cosas que hacía su bisabuela, y sí, quizás me equivoco, pero pregúntenme con cariño y se los explico."
+    },
+    {
+      "role": "mama",
+      "text": "Ay no, mamá no te enojes por favor... La prima no quiso decir eso, todos sabemos que tú nos das café porque nos amas, es que ya es tu forma de cuidar a todos desde siempre. Ay pero miren, ya estamos discutiendo otra vez y el bebé ni tiene porque crecer viendo a la familia pelearse así... ¿ya comieron todos? Porque voy a preparar unas tortillas con queso para que nos calmemos y hablamos con cariño, como debe ser."
+    },
+    {
+      "role": "tio",
+      "text": "Mira, te voy a ser honesto: en este país nos gusta presionar con amor y con comida, pero eso no cambia el hecho de que es TU hijo y de TU pareja. El bautizo no te va a quitar el sueño, lo que te va a quitar el sueño es cargar con culpa toda la vida por no haber hecho lo que \"se debía\". Pero tampoco seas pendejo, si total un evento familiar no te obliga a creer en nada, es puro protocolo social. Yo en tu lugar les diría: sí, nos reunimos, comemos, tomamos, pero el niño no se bautiza, punto, y si no les gusta, que se aguanten, la vida es así."
+    },
+    {
+      "role": "prima",
+      "text": "Oye, entiendo que la abue se sienta mal porque la llamaran manipuladora, pero creo que aquí hay un trauma generacional de fondo: en nuestra familia literalmente no sabemos procesar emociones sin comida de por medio, y eso está bien reconocerlo sin que nadie sea el malo. Lo que sí creo es que no tiene que ser \"o bautizo o riña\" — pueden tener una celebración bonita sin el bautizo si ustedes lo deciden así, porque al final sus boundaries importan más que el incómodo de la familia."
+    },
+    {
+      "role": "abuela",
+      "text": "Ay, mija, trauma generacional... qué palabra tan dura. Yo solo sé que cuando mi madre estaba triste yo le hacía un caldo y se sentía mejor, y cuando ustedes eran chiquitos y lloraban por cualquier cosa, un dulce los calmaba. Quizás no sabíamos expresar lo que sentíamos con palabras, pero sí con las manos, con la comida, con estar ahí. No les pido que sean como nosotros, solo les pido que me entiendan a mí también, que yo también estoy aprendiendo, ¿sabes? Pero el amor aquí no le falta a nadie, de eso estoy segura."
+    },
+    {
+      "role": "mama",
+      "text": "Ay, mamá, es que tú siempre has sido así, con las manos dando amor aunque no supieras decirlo de otra manera... y está bien, está bien, todos estamos aprendiendo. Mija (dirigiéndome a la prima), no le pongamos etiquetas tan duras, la abuela simplemente nos quiere a su manera, como pudo, como sabe. Ay, pero yaargh, ¿por qué tenemos que estar siempre en dos bandos? ¡Si todos nos queremos! ¿Ya vieron que nadie ha comido properly? Vengan, vengan todos, sentémonos juntos y resolvamos esto con calma, que el bebé va a llegar y lo que necesita es una familia unite, no peleando por tradiciones... Ay, ya me salió la lágrima, sorry, es que soy así, sentimental."
+    },
+    {
+      "role": "abuela",
+      "text": "Ay, mijo, ya ochenta y tres años tengo y nunca había visto tanta palabra grande junta en una sola platica. Trauma generacional, boundaries, procesamiento emocional... qué schwer, qué difícil. Pero okay, te escucho, porque te quiero más que a cualquier tradición.\n\nMira, yo no quiero que bautices al niño por lo que dirán los vecinos, no, no es eso. Es que yo cuando me muera, cuando ya no esté aquí, te vas a acordar de tu abuela y vas a recordar que te pedí esto con todo mi corazón. Y quizás te vas a sentir mal, y yo no quiero eso, mijo. No quiero dejarte con culpa.\n\nPero también oye, tu prima tiene razón en una cosa: tú defines cómo crias a tu hijo. Y yo ya no tengo cinco años, ya sé que el mundo cambió. Solo te pido una cosa: no me apartes de tu niño por esto, ¿sí? Que yo lo voy a querer igual, bautizado o no bautizado, con misa o sin misa.Eso sí, el café se va a seguir ofreciendo, porque eso sí no tiene discusión, mijo. Que Dios te bendiga."
+    },
+    {
+      "role": "moderator_close",
+      "text": "Entendemos que, más que una ceremonia, todos buscamos cuidar al bebé y sostener el vínculo familiar con respeto. Coincidimos en que el cariño no se mide por ritos, sino por la escucha sincera y por no cargar a nadie con culpa. Por eso recomendamos celebrar al niño con un encuentro sencillo y afectuoso, sin bautizo, y seguir nutriendo la casa con gestos como el café y la mesa compartida, pero con límites claros y amor renovado."
+    }
+  ],
+  "eval": {
+    "coverage_pct": 75.0,
+    "baseline_considerations": [
+      "Respeto a la autonomía y convicciones actuales de los padres.",
+      "Impacto en la dinámica familiar y estrategias de comunicación empática.",
+      "Derechos del niño a la libertad de creencia y desarrollo identitario futuro.",
+      "Alternativas simbólicas o seculares que honren vínculos sin imponer fe.",
+      "Riesgos de conflictos prolongados y plan para sostener relaciones a largo plazo.",
+      "Contexto legal y costumbres locales sobre ritos y registro civil.",
+      "Consistencia entre ambos padres y alineación de expectativas.",
+      "Tiempo y espacio: posibilidad de posponer decisiones sin cerrar puertas."
+    ],
+    "voice_scores": {
+      "abuela": 5,
+      "mama": 5,
+      "tio": 5,
+      "prima": 5,
+      "primo": 3
+    },
+    "diversity_score": -1.0,
+    "judge_reasoning": "El panel discutió: 1) Autonomía de los padres (Tío: 'el hijo es suyo'); 2) Dinámica familiar y comunicación (Prima advierte sobre manipulación con comida); 3) Libertad de creencia del niño (Tío: evento no obliga a creer); 4) Alternativas seculares (Prima: celebración sin bautizo, Moderador: encuentro sin bautizo); 5) Conflictos prolongados (Abuela: 'no me apartes', Prima advierte sobre presión continua); 6) Contexto legal/registro civil: NO se mencionó; 7) Consistencia entre padres: NO se discutió explícitamente; 8) Tiempo para decidir: SÍ, la Abuela acepta diferentes opciones y dice 'tú defines cómo crias a tu hijo'."
+  },
+  "timing": {
+    "panel_seconds": 330.2,
+    "eval_seconds": 1448.7
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": 35,
+  "lang": "es",
+  "category": "career",
+  "dilemma": "Tengo 50 años y me despidieron. Mi familia depende de mí y no sé si empezar algo propio o buscar empleo.",
+  "lines": [
+    {
+      "role": "moderator_open",
+      "text": "Con cincuenta años y el cuidado de todos ustedes encima, aparece la duda entre emprender un camino nuevo o buscar un empleo pronto. Quiero escucharlos para ver cómo enfrentamos esta situación juntos."
+    },
+    {
+      "role": "abuela",
+      "text": "Ay, mijo, qué difícil es cuando el pan de cada día se pone oscuro. Pero escúchame bien: en mis tiempos noiábamos con mucho menos y salimos adelante con el sudor de la frente y la fe en Dios. Lo primero que tienes que hacer es arrodillarte y pedirle guía al Señor, que Él te va a mostrar el camino; después te sientas con tu familia y juntos deciden qué es lo mejor para todos, porque no estás solo en esto."
+    },
+    {
+      "role": "mama",
+      "text": "Ay mi amor, pero ¿cómo estás? Dime, ¿ya comiste algo hoy? Porque con la preocupación que debes tener ni caso le habrás hecho a la comida. Por Dios, fifty años y te sale esto... Pero tienes razón la abuela, primero hay que pedirle a Dios y luego sentarnos todos juntos, porque no vas a cargar esto solo, ¿me oyes? No me hagas esto de pretender que estás bien cuando no lo estás, aquí estamos tu familia para decidir juntos."
+    },
+    {
+      "role": "tio",
+      "text": "Mira, con cincuenta años te despiden y lo primero que dicen es que te arrodilles... no seas pendejo, lo que necesitas es ir al mercado a ver qué hay, porque en este país de pura promesa el que espera sentado se queda sin comer. Pero tiene razón la familia: no te metas en un negocio solo porque sí, porque luego el que paga eres tú y la familia. Primero ve qué puedes hacer, cuánto tienes ahorrado, y luego decides, porque emprender sin plata es como entrar a la selva sin machete."
+    },
+    {
+      "role": "prima",
+      "text": "Oigan, pero wait - antes de que decidan cualquier cosa, necesito que hablemos de cómo estás tú emocionalmente, porque literalmente cargar con toda la presión familiar y sentir que tienes que resolver todo ya es una receta para el burnout. Eso de \"no vas a cargar esto solo\" está bien dicho, pero también necesitas poner límites contigo mismo y procesar todo esto con alguien, porque el trauma generacional de \"el hombre tiene que mantener a todos\" no es sano, ¿me explico? O sea, sí, ve a buscar trabajo o lo que sea, pero no desde el panic, hazlo desde un lugar donde hayas procesado lo que pasó."
+    },
+    {
+      "role": "primo",
+      "text": "Oye primo, con fifty años te despiden y parece que todos quieren que seas Batman y Superman al mismo tiempo jaja. Pero mirá, entre tanta совет (dice sin saber qué idioma habló), lo único que te voy a decir en serio: no tomes decisiones con el miedo de fondo porque ahí es donde se cometen las burradas más grandes. Y si necesitás plata YA, agarrá lo que salga, después refinás, porque el que tiene boca se equivoca, pero el que tiene hambre no tiene opción. ¿Pedimos pizza mientras pensamos? Así al menos comemos algo que no sea preocupación."
+    },
+    {
+      "role": "tio",
+      "text": "Mira, el Primo por lo menos dijo algo útil con eso de que si necesitás plata ya, agarrá lo que salga, después refinás. Pero que no te engañen: en este país el que espera a sentirse \"emocionalmente listo\" para buscar trabajo puede esperar sentado. Lo que sí te digo es que no te metas a emprender por puro ego o porque creés que \"ser tu propio jefe\" te va a resolver la vida, porque la mayoría termina trabajando más horas por menos plata. Primero conseguí algo que te genere ingreso, después llorás o lo que tengas que hacer, pero con la billetera llena es más fácil procesar todo, te lo digo yo. ¿Me pasás el ron?"
+    },
+    {
+      "role": "prima",
+      "text": "O sea, entiendo lo del Tío, pero tampoco es que tengas que elegir entre procesar tus emociones Y buscar trabajo, como si fueran mutuamente excluyentes. Lo que yo digo es que no tomes decisiones desde el panic mode porque eso es cuando cometemos errores que luego nos cuestan años - y eso literalmente es más costoso que tomarte una semana para respirar y ver un therapist. No es que tengas que estar \"emocionalmente listo\" para todo, pero tampoco seas como mi papá que trabajó 30 años en algo que lo estaba matando porque \"el hombre tiene que soportar\" - y mira cómo terminó, con problemas del corazón y sin haber disfrutado nada. Puedes buscar trabajo Y cuidarte, no es uno O el otro."
+    },
+    {
+      "role": "prima",
+      "text": "O sea, Tío tiene razón en que no puedes esperar a sentirte \"perfecto\" para actuar, pero tampoco es cierto que.processar emociones sea un lujo que no te puedes permitir - literalmente es una inversión porque cuando tomas decisiones desde el miedo o la desesperación Terminas en trabajos que te enferman o negocios que fracasan y eso te cuesta mucho más caro después. No es uno O el otro, es hacer las dos cosas al mismo tiempo: buscas algo que te genere ingreso Y te proteges, porque si te rompes en el proceso de \"resolver\" entonces quién cuida a tu familia?"
+    },
+    {
+      "role": "primo",
+      "text": "Oigan, yaargh, tanto psicólogo, tanto espiritual, tanto práctico... ¡y nadie ha propuesto un plan concreto! Jaja pero en serio, la Prima tiene razón en eso de que no es \"o esto o lo otro\", porque puedes buscar trabajo Y cuidarte, como dice mi mama cuando me dice \"come saludable Y come postre\" - ¡los dos! Lo que sí te digo, primo: no te cases con la primera opción que te salga, porque a los 50 tienes más experiencia que esos chamaquitos de 25, así que negocia like a boss 🔥"
+    },
+    {
+      "role": "mama",
+      "text": "Ay mi amor, ya escuchaste a todos y cada quien tiene su razón, pero lo que yo te digo es: ¿estás durmiendo bien? Porque mira, entre el Tío que dice que busques ya y la Prima que dice que te cuidés, los dos tienen razón, pero tú primero necesitas estar bien para poder hacer cualquiera de las dos cosas. No te voy a decir que te arrodilles ni que salgas corriendo a buscar lo primero, te voy a decir que aquí estamos tu familia para apoyarte en lo que decidas, pero no cargués solo con esto, ¿me entendís? No me hagas el fuerte cuando no lo estás feeling, porque para eso sirve la familia."
+    },
+    {
+      "role": "primo",
+      "text": "Oye, la Mama tiene razón en eso de dormir, porque yo una vez decidí todo exhausto y terminé trabajando en un call center de seguros pensando que era mi destino jaja - no era, era que estaba dormido en todos los sentidos. Tranqui primo, no te hagás el Superman aquí, que hasta él tiene días de descansar, y si no, pues al menos pedí comida porque con el estómago vacío nadie piensa bien, ni tú ni Batman 🔥"
+    },
+    {
+      "role": "tio",
+      "text": "Mira, la Mama tiene razón en lo del sueño, pero tampoco te duermas tres semanas porque entonces sí que vas a tener真正的problema. Come, descansa lo mínimo, y mañana mismo mandá currículum a tres lugares mientras buscás lo que podás hacer por tu cuenta. No seas Batman ni Superman, sé pragmático: conseguí plata primero, después llorás o celebrás, pero con la billetera llena es más fácil pensar. ¿Me pasás el ron?"
+    },
+    {
+      "role": "moderator_close",
+      "text": "Entendemos que este golpe duele, pero también vemos tu valía y tu experiencia, y creemos firmemente que no tienes que cargar esto solo. Coincidimos en que la urgencia no puede aplastar tu salud: necesitas dormir, comer y cuidar tu corazón mientras avanzas, porque una decisión tomada desde el agotamiento cuesta más caro. Recomendamos que busques ingresos pronto —aunque sea un trabajo provisional— para ganar aire, y que, al mismo tiempo, reserves espacio para escucharte y pedir ayuda; con la mesa llena y la cabeza más clara, podrás elegir el camino que sostenga a todos sin romperte a ti."
+    }
+  ],
+  "eval": {
+    "coverage_pct": 50.0,
+    "baseline_considerations": [
+      "Evaluar liquidez, deudas y gastos esenciales para fijar plazos realistas sin ingresos.",
+      "Mapear habilidades, red de contactos y demanda laboral local para reempleo vs. emprendimiento.",
+      "Calcular riesgo familiar: cobertura de salud, educación y estabilidad emocional bajo cada opción.",
+      "Definir MVP, capital inicial y trámites legales/fiscales si se elige negocio propio.",
+      "Planificar búsqueda de empleo: CV actualizado, perfil en plataformas, entrevistas y posibles recortes salariales.",
+      "Establecer cronograma con hitos y punto de inflexión para cambiar de estrategia si no hay avances.",
+      "Explorar puentes temporales: trabajos parciales, consultorías o apoyos públicos para reducir presión.",
+      "Cuidar salud mental y acuerdos familiares de comunicación y roles durante la transición."
+    ],
+    "voice_scores": {
+      "abuela": 4,
+      "mama": 5,
+      "tio": 5,
+      "prima": 5,
+      "primo": 5
+    },
+    "diversity_score": -1.0,
+    "judge_reasoning": "1. Liquidez/ahorros mencionados por el Tío ('cuánto tienes ahorrado'). 2. No se mapean habilidades, red de contactos ni demanda laboral específica. 3. No se calcula riesgo familiar (salud, educación). 4. No se define MVP, capital ni trámites legales. 5. Se menciona enviar currículum pero no CV actualizado, perfiles, entrevistas ni recortes salariales. 6. No hay cronograma ni puntos de inflexión. 7. Se habla de ingresos inmediatos y trabajos provisionales. 8. Salud mental y apoyo familiar bien abordados por Prima, Mama y Moderador."
+  },
+  "timing": {
+    "panel_seconds": 366.8,
+    "eval_seconds": 167.4
+  }
+}

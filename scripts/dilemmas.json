@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "lang": "es",
+    "category": "relationship",
+    "dilemma": "Mi novio no quiere conocer a mi familia y llevamos dos años juntos."
+  },
+  {
+    "id": 2,
+    "lang": "es",
+    "category": "money",
+    "dilemma": "Mi hermano me pide prestados $5,000 dólares pero nunca me ha pagado lo que le presté antes."
+  },
+  {
+    "id": 3,
+    "lang": "es",
+    "category": "career",
+    "dilemma": "Me ofrecieron un trabajo con el doble de sueldo pero tendría que mudarme a otro país y dejar a mi familia."
+  },
+  {
+    "id": 4,
+    "lang": "es",
+    "category": "parenting",
+    "dilemma": "Mi hijo de 16 años quiere dejar la escuela para ser influencer de tiempo completo."
+  },
+  {
+    "id": 5,
+    "lang": "es",
+    "category": "cultural",
+    "dilemma": "Mi hija se quiere casar con alguien de otra religión y mi mamá dice que no va a la boda."
+  },
+  {
+    "id": 6,
+    "lang": "en",
+    "category": "relationship",
+    "dilemma": "I found out my best friend of 15 years has been talking behind my back to my coworkers."
+  },
+  {
+    "id": 7,
+    "lang": "en",
+    "category": "money",
+    "dilemma": "My parents want me to co-sign their mortgage but they have bad credit and I just bought my first house."
+  },
+  {
+    "id": 8,
+    "lang": "es",
+    "category": "parenting",
+    "dilemma": "Descubrí que mi hija de 14 años tiene novio a escondidas y le mintió a su mamá."
+  },
+  {
+    "id": 9,
+    "lang": "es",
+    "category": "family",
+    "dilemma": "Mi suegra se quiere mudar a vivir con nosotros y mi esposa dice que no podemos decirle que no."
+  },
+  {
+    "id": 10,
+    "lang": "en",
+    "category": "career",
+    "dilemma": "I want to quit my stable corporate job to open a restaurant but my wife is pregnant with our first child."
+  },
+  {
+    "id": 11,
+    "lang": "es",
+    "category": "cultural",
+    "dilemma": "Mis papás quieren que estudie medicina pero yo quiero estudiar arte y ya me aceptaron en una buena escuela."
+  },
+  {
+    "id": 12,
+    "lang": "en",
+    "category": "family",
+    "dilemma": "My father was absent my whole childhood and now that he's sick he wants to reconnect. My mother says I shouldn't."
+  },
+  {
+    "id": 13,
+    "lang": "es",
+    "category": "money",
+    "dilemma": "Heredamos una casa de mi abuela y mis tres hermanos quieren venderla pero yo quiero conservarla."
+  },
+  {
+    "id": 14,
+    "lang": "en",
+    "category": "relationship",
+    "dilemma": "My partner wants an open relationship and says if I really loved them I would agree."
+  },
+  {
+    "id": 15,
+    "lang": "es",
+    "category": "parenting",
+    "dilemma": "Mi hijo adulto de 28 años no quiere trabajar, vive en mi casa y se enoja cuando le pido que contribuya."
+  },
+  {
+    "id": 16,
+    "lang": "en",
+    "category": "cultural",
+    "dilemma": "I'm first-generation American and my parents want me to move back to their home country to take care of them."
+  },
+  {
+    "id": 17,
+    "lang": "es",
+    "category": "family",
+    "dilemma": "Mi hermana le contó a toda la familia que soy gay antes de que yo estuviera listo para decirlo."
+  },
+  {
+    "id": 18,
+    "lang": "en",
+    "category": "money",
+    "dilemma": "My spouse secretly accumulated $40,000 in credit card debt and I just found out."
+  },
+  {
+    "id": 19,
+    "lang": "es",
+    "category": "relationship",
+    "dilemma": "Mi ex quiere volver conmigo después de haberme sido infiel, y dice que ha cambiado."
+  },
+  {
+    "id": 20,
+    "lang": "en",
+    "category": "career",
+    "dilemma": "I got promoted to manage my team, but now my former peers resent me and are undermining my authority."
+  },
+  {
+    "id": 21,
+    "lang": "es",
+    "category": "relationship",
+    "dilemma": "Mi esposo pasa más tiempo con sus amigos que conmigo y cuando se lo digo me acusa de controladora."
+  },
+  {
+    "id": 22,
+    "lang": "en",
+    "category": "parenting",
+    "dilemma": "My 12-year-old wants to live with their other parent after our divorce and it's breaking my heart."
+  },
+  {
+    "id": 23,
+    "lang": "es",
+    "category": "money",
+    "dilemma": "Mi papá gastó todo su ahorro en un negocio que fracasó y ahora espera que yo lo mantenga."
+  },
+  {
+    "id": 24,
+    "lang": "en",
+    "category": "family",
+    "dilemma": "My sister is in an abusive relationship and refuses to leave. She gets angry when I bring it up."
+  },
+  {
+    "id": 25,
+    "lang": "es",
+    "category": "cultural",
+    "dilemma": "Mis hijos ya no quieren hablar español en casa y siento que estoy perdiendo mi cultura."
+  },
+  {
+    "id": 26,
+    "lang": "en",
+    "category": "career",
+    "dilemma": "I discovered my company is doing something unethical. If I report it I'll probably lose my job and no one will hire me in this industry."
+  },
+  {
+    "id": 27,
+    "lang": "es",
+    "category": "parenting",
+    "dilemma": "Mi hijo me confesó que sufre bullying en la escuela pero me pide que no haga nada porque tiene miedo de que empeore."
+  },
+  {
+    "id": 28,
+    "lang": "en",
+    "category": "relationship",
+    "dilemma": "My fiancée wants to elope but my family expects a big traditional wedding and they're already planning it."
+  },
+  {
+    "id": 29,
+    "lang": "es",
+    "category": "family",
+    "dilemma": "Mi mamá tiene Alzheimer y mis hermanos no quieren ayudar con su cuidado. Todo recae sobre mí."
+  },
+  {
+    "id": 30,
+    "lang": "en",
+    "category": "money",
+    "dilemma": "My adult daughter keeps asking for money for rent and groceries but I see her posting vacation photos on social media."
+  },
+  {
+    "id": 31,
+    "lang": "es",
+    "category": "cultural",
+    "dilemma": "Mi familia me presiona para bautizar a mi bebé pero yo ya no soy religioso y mi pareja tampoco."
+  },
+  {
+    "id": 32,
+    "lang": "en",
+    "category": "family",
+    "dilemma": "I accidentally found out I was adopted at age 30. My parents never told me and I don't know how to feel."
+  },
+  {
+    "id": 33,
+    "lang": "es",
+    "category": "relationship",
+    "dilemma": "Llevo 20 años de matrimonio y ya no siento amor por mi pareja pero tenemos tres hijos juntos."
+  },
+  {
+    "id": 34,
+    "lang": "en",
+    "category": "parenting",
+    "dilemma": "My teenager came out as transgender and my spouse refuses to accept it. It's tearing our family apart."
+  },
+  {
+    "id": 35,
+    "lang": "es",
+    "category": "career",
+    "dilemma": "Tengo 50 años y me despidieron. Mi familia depende de mí y no sé si empezar algo propio o buscar empleo."
+  },
+  {
+    "id": 36,
+    "lang": "en",
+    "category": "money",
+    "dilemma": "My brother wants to start a business together but every partnership he's had before ended in disaster."
+  },
+  {
+    "id": 37,
+    "lang": "es",
+    "category": "family",
+    "dilemma": "Mi papá tiene una segunda familia que nadie conocía y ahora quiere que los aceptemos como hermanos."
+  },
+  {
+    "id": 38,
+    "lang": "en",
+    "category": "cultural",
+    "dilemma": "My family disowned me for marrying outside our ethnicity. Now they want back in my life because I had a baby."
+  },
+  {
+    "id": 39,
+    "lang": "es",
+    "category": "relationship",
+    "dilemma": "Mi mejor amiga está saliendo con mi ex y me dice que no debería importarme porque ya terminamos."
+  },
+  {
+    "id": 40,
+    "lang": "en",
+    "category": "parenting",
+    "dilemma": "My child's teacher says they might have ADHD but my spouse thinks it's just bad parenting and refuses to get them evaluated."
+  }
+]

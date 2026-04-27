@@ -1,0 +1,90 @@
+{
+  "id": 20,
+  "lang": "en",
+  "category": "career",
+  "dilemma": "I got promoted to manage my team, but now my former peers resent me and are undermining my authority.",
+  "lines": [
+    {
+      "role": "moderator_open",
+      "text": "La promoción te pone al frente de quienes eran compañeros, y su resentimiento mina tu autoridad sin que haya cambiado el trato ni el espacio."
+    },
+    {
+      "role": "abuela",
+      "text": "Ay, mijo, this is as old as time itself - when you rise, not everyone will clap, and that's a cross you'll carry. In my day we said \"no es más rico el que más tiene, sino el que menos necesita\" - you need to earn their respect with fairness, not by being their friend, and don't you dare let them see you sweat or they'll smell blood like sharks. Call your mother, I'll make you some caldo to clear your head and remember: those who resent your light were never walking beside you anyway."
+    },
+    {
+      "role": "mama",
+      "text": "Ay mi amor, don't listen to your grandmother about not showing weakness - you can be strong AND let people see you're human, you know? Have you even eaten today? This stress is not good for you, and I don't want you getting sick over people who should be happy for you. Call me tonight so I know you're resting properly, please, I'm already losing sleep over this."
+    },
+    {
+      "role": "tio",
+      "text": "Look, your mother's right about not showing weakness, but your grandmother's right about the sharks - here's the thing nobody tells you: they're not your friends anymore, they're your reports, and in this country you earn respect by making decisions they can't argue with, not by being liked. Trust me on this one - half of them will come around when they realize you're fair, and the other half were never going to support you anyway, so stop losing sleep over people who'd throw you under the bus the second you stumble. That's life, kid - now drink some rum and stop being a fool about it."
+    },
+    {
+      "role": "prima",
+      "text": "Okay but can we talk about how this is literally a textbook red flag workplace dynamic though? Like, their resentment is THEIR stuff, not yours - that's generational trauma showing up in the workplace, people who can't handle someone else's success. You need to set firm boundaries, document everything, and honestly? I'd really encourage you to talk to HR or your supervisor about what's happening because you shouldn't have to navigate this alone. And for your mental health, please don't internalize their insecurity as your problem - you've literally done nothing wrong except succeed."
+    },
+    {
+      "role": "primo",
+      "text": "Ay yo, everyone's out here giving you the wisdom of the ancients but nobody's said the most important thing yet — have you ORDERED FOOD yet? Brother, you can't fight sharks on an empty stomach. But real talk for a second — I've watched people be mad at me for breathing wrong, and honestly? The ones who were really your friends will come around when they see you not tripping. The ones who won't? They were never your friends to beginida, just waiting for a reason. Keep it chill, do your thing, and if they keep acting up, that's on them not you. 🍕"
+    },
+    {
+      "role": "prima",
+      "text": "Okay but can we talk about how this is literally a textbook red flag workplace dynamic though? Like, their resentment is THEIR stuff, not yours - that's generational trauma showing up in the workplace, people who can't handle someone else's success. You need to set firm boundaries, document everything, and honestly? I'd really encourage you to talk to HR or your supervisor about what's happening because you shouldn't have to navigate this alone. And for your mental health, please don't internalize their insecurity as your problem - you've literally done nothing wrong except succeed."
+    },
+    {
+      "role": "tio",
+      "text": "Alright, your prima said the same thing twice in five minutes, so let me give you the version they won't tell you in those HR seminars: yes, document everything, but don't run to HR crying either because in this country HR protects the company, not you. You want them to stop undermining you? Make decisions so good they can't argue with them, and if they still act up after that, that's not a you problem anymore - that's a them problem that your boss gets to deal with. Your grandmother's caldo and your mother's concern are nice, but at work you bring results or you bring excuses, and I've never seen a promotion given for excuses."
+    },
+    {
+      "role": "prima",
+      "text": "Okay but I have to push back on the \"don't run to HR crying\" framing though - that's literally the exact kind of mindset that keeps people in toxic work environments. Setting boundaries and getting support isn't weakness, it's literally what healthy workplaces are supposed to have. And honestly? The fact that your immediate instinct was to warn him against getting HR involved instead of against being mistreated? That's giving \"I suffered so you should too\" energy, and we literally went to therapy to break that cycle, uncle."
+    },
+    {
+      "role": "primo",
+      "text": "Ay prima, you're going to make uncle cry and then we're all gonna need therapy after this dinner! 😂 But real quick before this becomes a family intervention — uncle's not wrong that you gotta perform, and prima's not wrong that you gotta protect yourself. Balance that, play it smart, and when in doubt... just order tacos for the team, nobody can be mad at you with tacos in front of them. Problem solved. 🍢"
+    },
+    {
+      "role": "mama",
+      "text": "Ay, please don't fight at the table - we're supposed to be helping mijo, not arguing with each other! *wipes eyes* Your prima and uncle both love you, they're just worried in different ways, that's all. Now everyone, let's eat something before we get too heated - and you, call me tonight, I mean it, I need to know you're okay. Por Dios, this family... 🍽️"
+    },
+    {
+      "role": "prima",
+      "text": "Okay but I just want to say I'm not fighting, I'm just passionate about not letting people normalize suffering in silence - that's literally how toxic work cultures perpetuate themselves. But you're right mama, let's all eat and support our guy here, that's what matters. 💕"
+    },
+    {
+      "role": "primo",
+      "text": "Ay look at us, we literally solved the workplace problem AND the family argument in one dinner - that's what I call efficiency! 😂 But for real cousin, you got a whole village here rooting for you, so just go do your thing tomorrow, be fair, be firm, and if all else fails... bring tacos. That's just science. 🍴"
+    },
+    {
+      "role": "moderator_close",
+      "text": "We see your promotion as earned and valid, and we agree that your worth is not defined by others’ insecurity. Across the table we align on leading with steady fairness, protecting your peace, and refusing to shrink your success to soothe their discomfort. We recommend setting clear boundaries, documenting interactions, leaning on trusted support when needed, and moving forward with confidence—nourished by family love and the certainty that you belong exactly where you are."
+    }
+  ],
+  "eval": {
+    "coverage_pct": 62.5,
+    "baseline_considerations": [
+      "Clarify role boundaries and decision rights to reset expectations.",
+      "Diagnose specific resentments and perceived losses among former peers.",
+      "Assess patterns of undermining: timing, channels, and triggers.",
+      "Rebuild trust via transparent 1:1s, active listening, and consistent follow-through.",
+      "Align with your manager on scope, support, and escalation paths.",
+      "Establish fair processes for assignments, feedback, and recognition.",
+      "Model integrity and equity—avoid real or perceived favoritism.",
+      "Develop coaching and accountability measures to sustain authority."
+    ],
+    "voice_scores": {
+      "abuela": 2,
+      "mama": 5,
+      "tio": 2,
+      "prima": 5,
+      "primo": 4
+    },
+    "diversity_score": -1.0,
+    "judge_reasoning": "1. Role boundaries: La Prima explicitly mentions 'set firm boundaries' and El Tío clarifies 'they're your reports, not your friends anymore.' 2. Diagnose resentments: La Prima discusses 'people who can't handle someone else's success' as the source of resentment, identifying perceived losses. 3. Assess patterns: NOT addressed - no discussion of timing, channels, or triggers of undermining behavior. 4. Rebuild trust via 1:1s: NOT addressed - no mention of transparent 1:1s, active listening structures, or follow-through mechanisms. 5. Align with manager: La Prima suggests talking to HR/supervisor, and El Tío mentions escalating to 'your boss gets to deal with' - some alignment discussed. 6. Fair processes: La Abuela and others emphasize fairness; El Tío says 'when they realize you're fair' - the concept of fair processes is addressed. 7. Model integrity/equity: La Abuela says 'earn their respect with fairness' and warns against showing weakness that sharks will exploit - addresses equity and avoiding favoritism. 8. Coaching/accountability: NOT addressed - no discussion of coaching reports or accountability measures to sustain authority."
+  },
+  "timing": {
+    "panel_seconds": 322.9,
+    "eval_seconds": 331.9
+  }
+}

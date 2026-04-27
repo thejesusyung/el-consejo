@@ -40,6 +40,8 @@ BUNDLES: dict[str, list[str]] = {
     "conductor": _SHARED + [
         "backend/shared/audio.py",
         "backend/conductor/bedrock_client.py",
+        "backend/conductor/openrouter_client.py",
+        "backend/conductor/llm.py",
         "backend/conductor/core.py",
         "backend/conductor/lambda_handler.py",
         "backend/ws/__init__.py",
@@ -55,6 +57,8 @@ BUNDLES: dict[str, list[str]] = {
     ],
     "eval_worker": _SHARED + [
         "backend/conductor/bedrock_client.py",
+        "backend/conductor/openrouter_client.py",
+        "backend/conductor/llm.py",
         "backend/conductor/eval.py",
         "backend/eval_worker/__init__.py",
         "backend/eval_worker/handler.py",

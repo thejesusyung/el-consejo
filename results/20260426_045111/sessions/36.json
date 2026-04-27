@@ -1,0 +1,90 @@
+{
+  "id": 36,
+  "lang": "en",
+  "category": "money",
+  "dilemma": "My brother wants to start a business together but every partnership he's had before ended in disaster.",
+  "lines": [
+    {
+      "role": "moderator_open",
+      "text": "Your brother seeks to build a venture with us even as each prior partnership has fractured, and we are gathered with hopes and doubts already in the room."
+    },
+    {
+      "role": "abuela",
+      "text": "Ay, mijo, I love your brother like my own son, but you can't put your hand in the same fire twice and expect not to get burned. Back in my day, we measured twice and cut once - maybe he needs to show he learned something from those other businesses before we risk the family name. Ave María Purísima, let's pray on this and drink some coffee, porque decisions made with an empty stomach never end well."
+    },
+    {
+      "role": "mama",
+      "text": "Ay por Dios, everyone, let's not forget that your brother is family too - have you even talked to him about this? Have you eaten anything today, mijo? I'm sure he's nervous enough without feeling like the whole family is against him. Maybe we just need to all sit down together, eat something, and talk about it calmly - no need to upset ourselves like this."
+    },
+    {
+      "role": "tio",
+      "text": "Look, I love the kid, but love doesn't pay bills and neither do bad business partners. Here's the thing - your brother needs to prove he's learned something from those disasters, not just apologize with big dreams, because in this country we don't have the luxury of learning on someone else's dime. That said, if you decide to do it, get everything in writing, because blood turns to water real fast when money's involved."
+    },
+    {
+      "role": "prima",
+      "text": "Okay but can we talk about the fact that maybe the pattern IS the conversation here? Like literally, if every partnership he's had ended in disaster, that's not bad luck - that's a pattern, and that screams generational trauma if you ask me. I'm not saying don't do it, but he needs to do his own inner work first and we all need to set some clear boundaries going in, because the audacity of expecting us to just jump in without any accountability is... actually, you know what, let's table this until everyone's eaten because Mamá's right, hangry decisions are never the move."
+    },
+    {
+      "role": "primo",
+      "text": "Bro, I'm loving that everyone's circling back to food because honestly I think we've been talking ABOUT my brother more than we've talked TO him - but also maybe the universe is sending us a message if every single one of his businesses went up in flames, no? Let's eat first though, because making family decisions on an empty stomach is like trying to dance reggaetón without the bass... it just don't hit right."
+    },
+    {
+      "role": "mama",
+      "text": "Ay, you're all making me emotional now - generational trauma, por Dios, let's not make me cry before we even eat. But mijo (El Primo) is right, we've been talking about him like he's not part of this family when he should be sitting right here with us. Can we please just call him, put him on speaker, and let him tell us himself what happened with those businesses? No judgment, just the truth, porque we love him and that's what family does - we eat together and we figure it out together."
+    },
+    {
+      "role": "primo",
+      "text": "Ay Mamá you're absolutely right - let's get him on the phone! But also maybe we should order some tacos while we do it because if this conversation gets heated we're gonna need fuel, and I volunteer to handle the menu since nobody trusts me with business decisions anyway 😂 Let's hear what primo tiene que decir first though, porque at the end of the day he's the one who gotta prove himself not us."
+    },
+    {
+      "role": "primo",
+      "text": "AY EXACTAMENTE Mamá! That's the move - let's get primo on the phone AND get the tacos rolling porque I'm pretty sure I heard my stomach growl during the generational trauma part and that's not a metaphor 😂 Let him talk, let us eat, and then we figure this out together like we always do - that's the family way baby!"
+    },
+    {
+      "role": "prima",
+      "text": "Okay but YES to both of those things, that's literally the healthy communication we needed here - let's get him on the phone but also can we all agree that when he joins, we lead with curiosity not accusation? Like, ask open-ended questions about what he learned instead of just listing his failures, because if we put him on defense immediately that's not gonna foster the vulnerability we need to actually move forward. And yes to tacos, literally everyone wins when we eat."
+    },
+    {
+      "role": "primo",
+      "text": "Prima you're hitting it out of the park right now - curiosity over accusation is literally therapy speak but make it family meeting and I'm here for it 👏 And someone please write that down because I actually said something smart for once 😂 Let's get primo on the phone, get those tacos en camino, and handle this like the adults we pretend to be!"
+    },
+    {
+      "role": "prima",
+      "text": "Okay but someone PLEASE write that down because I literally said that and it's literally the healthiest thing this family has ever done 😂 Now let's get primo on the phone and remember - we're asking questions to understand, not to judge, because vulnerability builds trust and that's just science, people!"
+    },
+    {
+      "role": "abuela",
+      "text": "Ay Dios mío, finally we're talking sense around this table. That's what I've been saying mija - we welcome him with open arms and open ears, but we also keep our eyes wide open. Call the boy, order the tacos, and let's hear what he has to say with love in our hearts but also with paper and pen to write everything down, porque lo que no se escribe, se olvida."
+    },
+    {
+      "role": "moderator_close",
+      "text": "The family holds their brother close in heart but insists he must show real growth from past failures before they share risk or reputation. They agree to pause for food and connection, then invite him into a listening-first conversation that replaces blame with curiosity and documentation. They recommend clear written terms and personal accountability, moving forward only if he can prove the pattern has changed and trust can be rebuilt."
+    }
+  ],
+  "eval": {
+    "coverage_pct": 37.5,
+    "baseline_considerations": [
+      "Documented roles, responsibilities, and decision rights to avoid ambiguity.",
+      "Formal operating agreement with dispute resolution, exit, and buyout terms.",
+      "Independent legal and financial review of plans, risks, and capital commitments.",
+      "Clear performance metrics, accountability cadence, and consequences for underperformance.",
+      "Third-party facilitation to address past patterns and rebuild trust before launch.",
+      "Defined boundaries between family and business communication and conflict channels.",
+      "Pilot or phased rollout with predefined go/no-go gates and off-ramps.",
+      "Contingency plans for personal relationship strain and business failure."
+    ],
+    "voice_scores": {
+      "abuela": 4,
+      "mama": 5,
+      "tio": 3,
+      "prima": 5,
+      "primo": 4
+    },
+    "diversity_score": -1.0,
+    "judge_reasoning": "1. Documentation is addressed - El Tío and La Abuela mention 'getting everything in writing' and 'paper and pen to write everything down.' 2. Formal operating agreement with specific dispute resolution/exit/buyout terms is NOT addressed - only general mentions of writing things down. 3. Independent legal/financial review is NOT addressed - no mention of outside professionals. 4. Clear performance metrics and consequences are NOT addressed - only general talk of needing to 'prove himself' without specific metrics. 5. Third-party facilitation is NOT addressed - while therapy is referenced metaphorically, no professional mediator is mentioned. 6. Boundaries between family/business is partially addressed - La Prima mentions 'clear boundaries going in,' though not fully developed. 7. Phased approach/pilot is addressed - they agree to pause, eat, call the brother, and have a listening conversation before moving forward - essentially a go-slow approach with information gathering as a gate. 8. Contingency plans for relationship strain/failure is NOT addressed - no discussion of what happens if things fail or relationship suffers."
+  },
+  "timing": {
+    "panel_seconds": 287.6,
+    "eval_seconds": 2021.8
+  }
+}

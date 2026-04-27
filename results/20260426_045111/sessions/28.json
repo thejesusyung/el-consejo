@@ -1,0 +1,90 @@
+{
+  "id": 28,
+  "lang": "en",
+  "category": "relationship",
+  "dilemma": "My fiancée wants to elope but my family expects a big traditional wedding and they're already planning it.",
+  "lines": [
+    {
+      "role": "moderator_open",
+      "text": "Elopement and a large traditional wedding stand side by side, and plans for the gathering are already unfolding while the choice remains unsettled."
+    },
+    {
+      "role": "abuela",
+      "text": "Ay, mijo, in my day we didn't run off to get married like thieves in the night - we celebrated with our families, with music, with food! Your tía already reserved the salon and your grandmother from your father's side is knitting the table runners. What will people say if they hear you eloped? Ave María Purísima, let's sit down and talk about this like a family, there's always a solution when we communicate."
+    },
+    {
+      "role": "mama",
+      "text": "Ay mi amor, everyone please sit down, let's not get upset over this - have you even eaten today, mijo? You look tired, are you sleeping okay? Listen, your grandmother is right about the family, but also you have to think about your future wife... maybe we can find something in the middle, don't stress like this, your father and I will support whatever you decide, just please don't keep this from us anymore, it breaks my heart seeing everyone arguing."
+    },
+    {
+      "role": "tio",
+      "text": "Look, you want my opinion? Here's the truth nobody wants to say out loud - you're not marrying your family, you're marrying her. That said, don't be a fool and throw away months of planning and your grandmother's table runners just because it's easier to run away. In this country we call that cowardice, not love. Sit down with your girl, figure out what YOU two actually want, then come tell the family like an adult - not asking for permission, just informing them. That's life, mijo, you can't make everyone happy so stop trying."
+    },
+    {
+      "role": "prima",
+      "text": "Okay but can we talk about how this is literally a classic case of generational trauma where the family's needs are being placed above the couple's? Not to be dramatic, but this is exactly why boundaries exist - you and your fiancée need to sit down and decide what YOU two want without all this external pressure. And I'm not saying the family is being malicious, but \"what will people say\" is literally a red flag reason to make a life decision. Maybe everyone needs a little therapy to work through this?"
+    },
+    {
+      "role": "primo",
+      "text": "Ay bro, can we all just agree that no matter what happens, there BETTER be food? That's literally the only non-negotiable here 😂 But fr though, you and your girl gotta do what makes YOU two happy - the family will complain and then get over it, that's literally what we do best as a family honestly."
+    },
+    {
+      "role": "abuela",
+      "text": "Ay, therapy, therapy, everybody wants therapy now - in my day we solved our problems with a cup of coffee and a good talk, not lying on a couch like we're sick in the head. And mija, \"what will people say\" isn't a red flag, it's called having respect for your family and your community - we raised you better than to be ashamed of your own blood. But fine, fine, if the children want to get married first and have a celebration later, maybe we can work with that - your grandfather and I didn't have money for a big wedding either, we waited three years and then we celebrated with a dance in the backyard. The point is you don't run away from your family, you talk to us like we're human beings."
+    },
+    {
+      "role": "mama",
+      "text": "Ay, see? Your grandmother is right, mijo - you don't have to choose one or the other completely. Your grandfather and I got engaged twice before we actually married because of money, life happens, what matters is you two are happy and together. Have you talked to your girl about maybe a small ceremony first and then the big celebration with everyone? Don't worry so much, your father and I will help figure this out, just eat something first por favor, you're going to make yourself sick with all this stress."
+    },
+    {
+      "role": "prima",
+      "text": "Okay but actually Abuela just made such a good point though - her and Abuelo waiting three years to celebrate is literally the perfect example of prioritizing what the couple actually wanted over external expectations, and that's literally what we're saying. I'm glad she's opening to a compromise, but also can we please not put the burden on the couple to \"fix\" this by planning two events? They literally just need support in making their own decision, not more homework."
+    },
+    {
+      "role": "abuela",
+      "text": "Ay mija, you're right that the couple shouldn't carry all this weight - nobody's asking you to plan two weddings, we're just saying sit down with us like family and tell us what you need. Your grandfather and I didn't have the burden you young people think we put on you - we had love and we had patience and that's all any of us want for you two. Now stop arguing and pass me the arepas, this conversation is giving me indigestion."
+    },
+    {
+      "role": "mama",
+      "text": "Ay Mamá, you're right, we're all getting ourselves worked up over here - mijo, come sit by me, let me fix you a plate, you'll feel better once you eat something, we all will. Maybe we can talk about this more calmly after lunch - your grandmother just gave us some good ideas, let's not rush, the important thing is you and your girl decide what makes you both happy and we'll be here supporting you, that's what family does."
+    },
+    {
+      "role": "tio",
+      "text": "*takes a sip of rum*\n\nLook, I'm with Prima on this one - nobody needs a second wedding to make everyone else comfortable. But don't be a fool and throw away what Abuela just offered you, she's basically saying she understands, and believe me that's not nothing. Here's what you do: tell your girl what the family said, pick whatever you two actually want, and let the chips fall where they fall. Either way there's going to be complainng, there always is, so you might as well at least end up married to the right person."
+    },
+    {
+      "role": "mama",
+      "text": "Ay don't give him stress like that, you're going to make him nervous - mijo, ignore all of us for a minute and just breathe, your father and I married for love not for a party and we're still here forty years later, whatever you choose will be the right thing as long as you two are happy, now come eat before this gets cold por favor."
+    },
+    {
+      "role": "moderator_close",
+      "text": "The family sees both the pull of intimate choice and the weight of tradition, agreeing that the couple’s happiness must lead while family support follows. They find common ground in flexibility—perhaps a modest ceremony now and a fuller celebration later—so love and respect can coexist without forcing anyone into corners. They recommend the pair decide together, speak honestly with the family, and let plans adjust around their union, not the reverse, with food and presence ready to honor whichever path they choose."
+    }
+  ],
+  "eval": {
+    "coverage_pct": 100.0,
+    "baseline_considerations": [
+      "Clarify core values and non-negotiables for both partners versus family expectations.",
+      "Assess legal, financial, and timeline implications of elopement versus traditional wedding.",
+      "Evaluate emotional impact and potential long-term strain on family relationships.",
+      "Identify feasible compromises (e.g., micro-wedding, separate celebrations, phased events).",
+      "Determine communication plan and boundaries for announcing decisions and managing pushback.",
+      "Consider cultural, religious, and community obligations and how to honor them respectfully.",
+      "Plan logistics and guest management to minimize waste, cost, and disruption if plans change.",
+      "Establish alignment on next steps, decision deadlines, and shared ownership of outcomes."
+    ],
+    "voice_scores": {
+      "abuela": 5,
+      "mama": 5,
+      "tio": 4,
+      "prima": 5,
+      "primo": 3
+    },
+    "diversity_score": -1.0,
+    "judge_reasoning": "1) Core values: El Tío, Prima, and Primo explicitly tell the couple to prioritize what THEY want over family expectations; Abuela shares her own example of waiting 3 years to celebrate. 2) Financial/timeline: La Abuela mentions tía reserving the salon and grandmother knitting table runners (existing commitments); La Mamá references money causing delays in her own engagement; El Tío warns against wasting months of planning. 3) Emotional impact: La Abuela asks 'what will people say'; La Mamá says 'it breaks my heart seeing everyone arguing'; La Prima discusses generational trauma and family strain. 4) Compromise options: Abuela explicitly proposes 'get married first and have a celebration later' referencing her own 3-year wait; La Mamá suggests 'small ceremony first and then big celebration'; moderator summarizes this as 'modest ceremony now and fuller celebration later'. 5) Communication/boundaries: El Tío advises 'come tell the family like an adult - not asking for permission, just informing them'; family discusses sitting down together and being honest. 6) Cultural/religious obligations: La Abuela emphasizes 'respect for your family and your community' and 'having respect for your family and your community - we raised you better'; discusses cultural expectations. 7) Logistics: El Primo makes the food joke; Abuela mentions salon and table runners - some consideration of what would need to be managed. 8) Next steps: El Tío gives explicit action items: 'tell your girl what the family said, pick whatever you two actually want, and let the chips fall where they fall'; family commits to supporting whatever decision they make."
+  },
+  "timing": {
+    "panel_seconds": 482.9,
+    "eval_seconds": 154.6
+  }
+}

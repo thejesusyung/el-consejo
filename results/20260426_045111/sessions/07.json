@@ -1,0 +1,90 @@
+{
+  "id": 7,
+  "lang": "en",
+  "category": "money",
+  "dilemma": "My parents want me to co-sign their mortgage but they have bad credit and I just bought my first house.",
+  "lines": [
+    {
+      "role": "moderator_open",
+      "text": "You face a request to co-sign your parents’ mortgage despite their credit history and your recent home purchase. The choice weighs their need for support against the obligations and risks for your new stability."
+    },
+    {
+      "role": "abuela",
+      "text": "Ay, mijo, I understand wanting to help your parents - that's what family is for, para lo que estamos - but co-signing when they already have bad credit and you just bought your first house? That's like building your house on sand, mijo. Back in my day we didn't mix these things or we'd lose both the family and the house. Have you prayed on this? Maybe your parents need to find another way, because if something goes wrong, you lose everything and then what will the neighbors say?"
+    },
+    {
+      "role": "mama",
+      "text": "Ay mi amor, please tell me you've eaten something today because I can barely breathe thinking about this stress. I understand your parents need help - pobrecitos, it must be hard to ask - but hijito, La Abuela tiene razón, you just got your first house, you need to protect that, and if something happens you'd lose everything. Maybe there's another way to help them without putting your own home at risk? Don't do this to me, I'm already getting teary just thinking about everyone suffering."
+    },
+    {
+      "role": "tio",
+      "text": "Look, I love your parents like I love my liver - necessary but sometimes a problem. Don't be a fool, if they couldn't get approved on their own that's the universe telling you something. You co-sign this and you're not just risking your house, you're risking your credit, your peace, and every holiday dinner for the next twenty years when they can't pay. In this country we don't mix family with bank paperwork - that's how you end up not speaking to your own mother at Christmas. Tell them you love them and go get a second job like the rest of us, but don't sign nothing."
+    },
+    {
+      "role": "prima",
+      "text": "Okay but can we talk about how this is literally a huge red flag? Like, I love your parents, pero co-signing when they already have bad credit history and you just bought your first house? That's not helping them, that's enabling financial dysfunction. You need to set boundaries here because this is exactly how generational trauma keeps repeating itself - you deserve to protect your peace and your credit score. Maybe instead of co-signing, you could help them find a financial advisor or look at other options that don't put your entire future at risk? Your mental health matters too, and stress from this could literally affect your health."
+    },
+    {
+      "role": "primo",
+      "text": "Ay bro I'm not gonna lie the whole room gottenseee just now 😂 but for real though, everyone here just gave you the map - don't sign nothing, that's your house not theirs, and if you wanna help maybe just help them find a cheaper apartment or sum, but don't tank your credit for nobody's drama. Also can we get some tacos while we figure this out because this conversation is giving me stress hunger frfr 💀"
+    },
+    {
+      "role": "mama",
+      "text": "Ay thank God everyone is seeing reason here porque I was losing sleep over this. Mijo, I love your parents dearly pero you cannot sink your own ship to save theirs - that's not helping anyone, that's just having two families drowning instead of one. Have you talked to them about maybe renting something smaller or finding a program for first-time buyers? There are other ways to help that don't involve you losing everything, please eat something and get some rest, I'm worried sick about all of you."
+    },
+    {
+      "role": "abuela",
+      "text": "Ay, así es, mija tiene toda la razón - you can't pour from an empty cup, mijo. Your parents' problems are not your cross to carry especially when you're still building your own altar. Have you talked to them face to face? Maybe if they understand your situation they'll find another way - and if they truly love you, they won't want to put their child in the street. I'll light a candle for wisdom tonight, now eat something before you worry yourself sick."
+    },
+    {
+      "role": "prima",
+      "text": "Okay but can we talk about how saying no is actually an act of self-love? Like, you're not abandoning them by setting a boundary - you're protecting your ability to help them in other ways long-term. And honestly? If they truly want what's best for you, they'll respect your decision, and if they don't, that's their issue to work through in therapy."
+    },
+    {
+      "role": "abuela",
+      "text": "Ay, mija tiene razón, that's what true love does - it respects, it doesn't demand you burn yourself to keep others warm. Your parents raised you better than to ask you to sacrifice everything, and if they can't see that now, then maybe they need to sit with that and pray too. Now come here, let's get you some caldo, porque stress without food is no good for nobody, and I'll add an extra candle for your parents' wisdom tonight."
+    },
+    {
+      "role": "tio",
+      "text": "Alright, alright, everyone finally said what I was gonna say so I'll just add this: don't be a fool and think you're helping them by destroying yourself - that's not love, that's just stupidity with extra steps. Tell them no, help them find a cheaper place like El Primo said, and if they love you they'll understand, and if they don't? Well, that's their problem to deal with, not yours. Trust me on this one, I've seen families break up over less and it ain't pretty - now pass the ron."
+    },
+    {
+      "role": "mama",
+      "text": "Ay bendito, I'm just so glad everyone is looking out for this muchacho porque I was losing sleep over here pobrecito. Mijo, tell your parents you love them, help them find another way, but protect your house first - you can't help anyone if you end up on the street too. Ahora venga, let's all eat something and stop stressing, I'll make us some té to calm the nerves."
+    },
+    {
+      "role": "abuela",
+      "text": "Ay sí, mija tiene razón - let's eat, porque with an empty stomach we can't think straight or hear what God is trying to tell us. Mijo, I'll light two candles tonight: one for your wisdom to say no with love, and one for your parents' hearts to understand. Now come eat before the food gets cold, and remember - the right answer sometimes tastes bitter at first but saves you from much worse later."
+    },
+    {
+      "role": "moderator_close",
+      "text": "The family sees this request as a genuine plea but a risky move that could jeopardize your new home and credit. They agree that love must include clear boundaries, and that mixing family with major financial obligations often hurts everyone. They recommend you kindly decline co-signing, instead helping your parents explore smaller rentals, first-time-buyer programs, or financial counseling, and invite them to share meals and prayers while you protect your stability."
+    }
+  ],
+  "eval": {
+    "coverage_pct": 62.5,
+    "baseline_considerations": [
+      "Impact on my debt-to-income ratio and mortgage approval/terms for my new home.",
+      "Risk to my credit score and future borrowing capacity if they miss payments.",
+      "Legal liability and potential collection or wage garnishment if they default.",
+      "Clarity of repayment expectations, emergency reserves, and written agreement terms.",
+      "Effect on my ability to refinance, relocate, or handle my own financial shocks.",
+      "Alternatives to co-signing (down-gift, smaller loan, credit repair, guarantor limits).",
+      "Family dynamics and contingency plan if relationship sours or obligations conflict.",
+      "Exit strategy: release provisions, refinance timeline, and defined end of obligation."
+    ],
+    "voice_scores": {
+      "abuela": 5,
+      "mama": 5,
+      "tio": 3,
+      "prima": 4,
+      "primo": 4
+    },
+    "diversity_score": -1.0,
+    "judge_reasoning": "The panel addressed most major considerations: debt-to-income/mortgage impact (discussed as losing house, jeopardizing new home); credit score risk (explicitly mentioned multiple times); ability to handle financial shocks (mentioned being on the street, not being able to help); alternatives (cheaper apartment, first-time buyer programs, financial advisor/counseling); and family dynamics/relationship risks (mentioned holiday dinners, not speaking to family, generational trauma). However, they did NOT address: legal liability/collections/wage garnishment; repayment terms/emergency reserves/written agreement details; or exit strategies/release provisions/refinance timelines. The panel's stance was uniformly against co-signing, so they focused on why to decline rather than the mechanics of how to do it safely."
+  },
+  "timing": {
+    "panel_seconds": 159.6,
+    "eval_seconds": 253.1
+  }
+}

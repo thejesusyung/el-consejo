@@ -1,0 +1,90 @@
+{
+  "id": 17,
+  "lang": "es",
+  "category": "family",
+  "dilemma": "Mi hermana le contó a toda la familia que soy gay antes de que yo estuviera listo para decirlo.",
+  "lines": [
+    {
+      "role": "moderator_open",
+      "text": "Parece que el momento que imaginabas para compartir algo tan personal se ha adelantado por la preocupación de tu hermana. Ahora que todos lo saben, ¿cómo te sientes al estar aquí con nosotros?"
+    },
+    {
+      "role": "abuela",
+      "text": "Ay, mijo, qué difícil debe ser para ti estar sentado ahí con todos los ojos encima. En mis tiempos eso no se decía así, pero Dios mío, tú sigues siendo mi nieto y te quiero igual. Mira, ya pasó lo que pasó, ahora lo que necesitamos es unidad, no que los vecinos vean nuestra familia dividida. ¿Quieres que te prepare un caldo de pollo? Eso te va a calmar los nervios."
+    },
+    {
+      "role": "mama",
+      "text": "Ay, mijo, ¿pero cómo te sientes? Necesito saber si estás bien, porque yo desde que me enteré no he podido dormir. Y tu hermana... hijita, no debió hacer eso, pero ya está hecho. Lo importante eres tú ahora. ¿Ya comiste algo? Dime la verdad porque si no voy a preparar algo."
+    },
+    {
+      "role": "tio",
+      "text": "Mirá, te lo digo yo: tu hermana se equivocó, eso está claro, pero ahora sentarte a sufrir no te va a cambiar lo que ya pasó. En este país uno aprende rápido que o defendés lo que sos o los demás van a decidir por vos, así que respirá profundo yandá con la frente en alto, que no has hecho nada malo."
+    },
+    {
+      "role": "prima",
+      "text": "Oigan, pero es que lo que hizo la hermana es literalmente una violación de límites muy grande, eso no se hace, independientemente de las buenas intenciones. Y tú —mirándote— tienes todo el derecho de sentirte traicionado y furioso, no te tienes que sentir obligado a \"andar con la frente en alto\" porque te estén presionando a perdonar rápido, eso no es sano. Primero procesa tu emociones con el tiempo que necesites, y sí, quizás terapia para manejar todo este trauma generacional que estamos cargando."
+    },
+    {
+      "role": "primo",
+      "text": "Oye primo, te voy a decir algo: la prima tiene razón, no te dejen presionar a perdonar rápido porque la familia quiere \"unidad\" — la unidad está sobrevalorada cuando te acaban de quitar algo que era tuyo, que era TU momento. Pero ya estás aquí, no te escondiste, y eso es más valiente que lo que cualquiera de nosotros haya hecho. ¿Quieres que pidamos pizza? Porque con caldo de pollo no va nadie, abuela."
+    },
+    {
+      "role": "tio",
+      "text": "Mira, tu prima tiene razón en lo del perdón acelerado, no seas pendejo dejando que te metan prisa pa' algo que te dolió. Pero tampoco te vas a pasar la vida enfadado, porque al final la familia es como el clima en este país: cambia pero siempre vuelve la misma mugre. Lo que sí te digo: procesá tu rabia, pero no le permitas a nadie que te diga cómo tenés que sentirla, ni siquiera a mí."
+    },
+    {
+      "role": "prima",
+      "text": "O sea, tiene razón el tío en que no te puedes quedar atascado en la rabia forever, pero tampoco te apresuren a hacer ese trabajo emocional antes de tiempo, ¿ok? Lo que sí es importante es que identifiques qué necesitás vos para sanar, porque a veces la familia confunde \"unidad\" con \"silenciar tu dolor\", y eso es una dinámica muy tóxica que necesitamos deconstructar."
+    },
+    {
+      "role": "primo",
+      "text": "Primo, lo que hizo tu hermana fue como spoilear una película que nadie pidió ver — eso no se hace, bro. Y ahorita no te deben presión de nadie pa' perdonar, tú procesa eso a tu ritmo, que el tiempo es lo único que no se puede comprar ni que la abuela te lo exija con caldo de pollo. Cuando quieras hablar, aquí estamos, y si no quieres hablar, también — pero pizza sí vamos a pedir, eso no se discute."
+    },
+    {
+      "role": "mama",
+      "text": "Ay pero délcarate que sí, mijo, la pizza tiene razón — el caldo de pollo es mi manera de decir que me preocupo, pero entiendo que ahorita no es momento de comida, es momento de que tú hables y nosotros escuchemos. Yo también estoy muy mal, believe me, no he dormido pensando en todo esto, en ti y también en tu hermana porque imagínate cómo está ella ahorita knowing que hizo algo que no debía... pero no, no te voy a presionar a perdonar, mijo, tú sanar a tu tiempo y cuando estés listo, aquí estaré yo con un plato de algo, lo que sea, hasta pizza si quieres."
+    },
+    {
+      "role": "prima",
+      "text": "Ay, pero eso que dice la mamá de \"estar ahí cuando estés listo\" está bien, pero también necesito que tú definas qué significa eso para ti, o sea, qué tipo de apoyo necesitas y cuáles son tus límites ahora porque la confianza se rompió y no se arregla con buenas intenciones, se trabaja. Y ojalá tu hermana entienda que pedir perdón no es suficiente, literalmente tiene que hacer el trabajo de entender por qué eso estuvo mal."
+    },
+    {
+      "role": "prima",
+      "text": "O sea, me gusta que la mamá diga que va a estar ahí, pero necesito que reflexionemos en que \"estar ahí\" no puede ser solo被动, ¿sí? Porque a veces las familias confunden presencia con apoyo real, y eso no es suficiente. Y lo que dijo la prima anterior sobre la hermana está perfecto: pedir perdón sin hacer el trabajo interno de entender por qué lo hizo es literalmente performativo, no es sanación. Tú —dirigiéndote al afectado— tienes todo el derecho de ponerles un alto a todas estas conversaciones hasta que tú te sientas listo, y eso es un límite sano, no es ser dramático."
+    },
+    {
+      "role": "tio",
+      "text": "Mira, la prima tiene razón: \"estar ahí\" no vale nada si no伴随着 hechos. Pero también te digo a ti, sobrino: no te quedes esperando que todos entiendan, porque a veces la familia es como el gobierno de este país — prometemos cambia y luego puro cuento. Lo que necesitás es tiempo y que te respeten, y si no lo hacen, entonces las distancias se ponen solas. Ahora come algo, aunque sea unnachito, que con el estómago vacío la rabia duele más."
+    },
+    {
+      "role": "moderator_close",
+      "text": "Entiendo que este adelanto forzado de tu verdad te dejó expuesto y con el corazón encogido, y valoro mucho que hayas decidido sostener la mirada en lugar de esconderte. Coincidimos en que tu hermana cruzó un límite serio y que el perdón no puede ser un apuro para contentar a la familia, sino un proceso tuyo y a tu tiempo. Recomendamos que definas con claridad qué cuidados y distancias necesitás hoy, que rodearte de personas que respeten esos límites y que, mientras tanto, nos ocupemos de sostener tu dignidad sin exigirte cicatrizar."
+    }
+  ],
+  "eval": {
+    "coverage_pct": 62.5,
+    "baseline_considerations": [
+      "Respetar mi autonomía y ritmo para decidir cuándo y cómo compartir mi identidad.",
+      "Evaluar el impacto inmediato: seguridad, vivienda, finanzas y salud mental.",
+      "Clarificar intenciones de mi hermana versus consecuencias reales y reparaciones posibles.",
+      "Establecer límites y acuerdos familiares sobre confidencialidad y divulgación futura.",
+      "Planificar comunicación y apoyo: quién, cómo y cuándo hablar con cada miembro.",
+      "Considerar recursos externos (terapia, grupos LGBT+, mediación) para sostén emocional.",
+      "Definir consecuencias y reparaciones concretas si se vulneró mi privacidad.",
+      "Preparar escenarios de reacción familiar (rechazo, aceptación parcial, apoyo) y redes de respaldo."
+    ],
+    "voice_scores": {
+      "abuela": 4,
+      "mama": 5,
+      "tio": 4,
+      "prima": 5,
+      "primo": 4
+    },
+    "diversity_score": -1.0,
+    "judge_reasoning": "1. Autonomía y ritmo: ABIERTO - La Prima dice 'procesa tu emociones con el tiempo que necesites' y el Primo enfatiza 'tú procesa eso a tu ritmo, que el tiempo es lo único que no se puede comprar.'\n2. Impacto inmediato (seguridad, vivienda, finanzas): NO ABIERTO - Solo se aborda salud mental/emocional (ansiedad, sueño). No se menciona seguridad, vivienda ni finanzas.\n3. Intenciones vs consecuencias de la hermana: ABIERTO - La Prima enfatiza que 'pedir perdón sin hacer el trabajo interno de entender por qué lo hizo es literalmente performativo' y que la hermana debe 'hacer el trabajo de entender por qué eso estuvo mal.'\n4. Límites y acuerdos familiares sobre confidencialidad: PARCIALMENTE ABIERTO - Se habla de 'definir qué cuidados y distancias necesitás' y 'ponerles un alto,' pero no hay acuerdos concretos sobre confidencialidad futura.\n5. Planificar comunicación con cada miembro: NO ABIERTO - No se discute quién, cómo ni cuándo hablar con cada familiar específicamente.\n6. Recursos externos (terapia, grupos LGBT+, mediación): NO ABIERTO - La Prima menciona 'terapia para manejar todo este trauma generacional' pero no se profundiza en recursos externos específicos.\n7. Consecuencias y reparaciones concretas: ABIERTO - Se aborda que el perdón no es suficiente, que la hermana debe hacer trabajo interno, y que 'estar ahí' requiere hechos, no solo palabras.\n8. Escenarios de reacción familiar y redes de respaldo: ABIERTO - Se anticipan presiones para 'unidad' y perdón acelerado, y se ofrece respaldo: 'cuando quieras hablar, aquí estamos, y si no quieres hablar, también.'"
+  },
+  "timing": {
+    "panel_seconds": 388.0,
+    "eval_seconds": 272.6
+  }
+}

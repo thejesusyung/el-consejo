@@ -1,0 +1,90 @@
+{
+  "id": 6,
+  "lang": "en",
+  "category": "relationship",
+  "dilemma": "I found out my best friend of 15 years has been talking behind my back to my coworkers.",
+  "lines": [
+    {
+      "role": "moderator_open",
+      "text": "A 15-year friendship now carries the weight of words shared at work, and trust between you and your friend meets the expectations of family and colleagues. We gather to hear where the lines of loyalty and communication sit for each of you."
+    },
+    {
+      "role": "abuela",
+      "text": "Ay, mijo, fifteen years and they do this to you? Dios mío, when I was young, a friend was like family, you didn't wash your dirty laundry in front of strangers. What will people say, what will they think of both of you? Come here, let me make you some caldo, you'll feel better - and then we'll pray, because that friend needs God's help to find their way back to being decent."
+    },
+    {
+      "role": "mama",
+      "text": "Ay mi amor, fifteen years... *touches your face* Have you even eaten today? I bet you haven't. And are you sleeping okay? I can only imagine how hurt you are, por Dios. But wait - did you talk to them? Maybe there's something you didn't hear, maybe they didn't mean it like that. Don't do this to me, having to choose sides... You know I hate when people fight. Maybe you should sit down together and talk, porque fifteen years is not nothing, mijo."
+    },
+    {
+      "role": "tio",
+      "text": "Fifteen years? That's life, kid - people change, or maybe you just never really knew them. Don't be a fool thinking this is some misunderstanding, if they're talking to your coworkers about you, that's not an accident. In this country we call that a snake, not a friend. Now, you want my advice? Get the facts first, confront them directly, and then decide if this friendship is worth saving or if you're just holding onto a memory. The ron helps either way."
+    },
+    {
+      "role": "prima",
+      "text": "Okay but can we talk about how this is literally a huge red flag? Fifteen years and they're discussing you with coworkers? That's not friendship, that's emotional betrayal, and I'm sorry but you need to set boundaries ASAP because that behavior is toxic. And abuelita, with all due respect, praying is great but also maybe your friend needs to do some serious self-reflection because this is exactly the kind of thing that comes from unhealed generational trauma."
+    },
+    {
+      "role": "primo",
+      "text": "Ay everybody relax, relax - primo's got the emotional damage, let him breathe and maybe get some tacos first because nobody makes good decisions on an empty stomach, that's just science.\n\nBut for real though, fifteen years and you don't even get a conversation before we burn the friendship at the stake? That's wild. I'd want to know - like what exactly they said, you know? Was it \"he eats lunch weird\" or actually messed up stuff? Either way you deserve answers cousin, not a trial by familia."
+    },
+    {
+      "role": "prima",
+      "text": "Okay but Primo actually has a point though - you DO deserve to know exactly what was said, because context matters and that's just basic due process. BUT also like... the fact that they're talking about you to coworkers AT ALL, regardless of what they said, that's already a violation of your trust and you get to feel betrayed by that, you know? Literally both things can be true - you can want answers AND also set a boundary that says this behavior is not okay. You're not asking for too much by wanting a friend who doesn't discuss your business with people you work with, that's like the bare minimum."
+    },
+    {
+      "role": "primo",
+      "text": "Prima's got a point too though - yeah you want answers pero also you don't need a reason to be like \"hey don't talk about my business\" that's like friend 101 you know? But for real cousin, you can want answers AND also just be done with the behavior, that's not being dramatic that's just knowing what you deserve. Now can we PLEASE order something because I'm starving and emotional processing goes better with empanadas that's just science."
+    },
+    {
+      "role": "tio",
+      "text": "Look, the kids are actually saying something smart for once - both things are true, you can want answers AND also just say \"that's not okay, period.\" But here's the thing nobody wants to hear: after fifteen years, you already know who this person is. The real question isn't what they said - it's whether you're going to pretend you didn't learn something about them tonight. Trust me on this one, the ron helps you accept what you already know in your gut."
+    },
+    {
+      "role": "mama",
+      "text": "Ay, todos tienen razón pero nadie me pregunta cómo estoy en el medio de esto... *wipes eyes* I'm just saying, mijo, I'm worried about YOU, and I haven't seen you eat anything all day, and now we're all here fighting about what you should do and nobody's asking if you're okay. Por favor, let's get you some food first, and then whatever you decide, I'll support you - even if it breaks my heart to think about losing a friend of fifteen years, porque yo sé lo que es invertir tanto tiempo en alguien... *sighs* Just promise me you'll take care of yourself, that's all I ask."
+    },
+    {
+      "role": "abuela",
+      "text": "Ay, my babies are saying such wise things, and you're making your abuelita proud - both wanting answers AND setting boundaries is what a person with dignity does, that's not being dramatic that's being grown. Mijo, your mamá is right too - eat something, rest, and then when you're ready, follow your heart but also listen to that little voice God gave you because He doesn't lie. Whatever you decide, I'll be here praying for clarity and for that friend to find their conscience."
+    },
+    {
+      "role": "prima",
+      "text": "Okay but Mamá I hear you and I love you, literally your feelings matter too in this - it's valid to be overwhelmed watching your kid hurt like this. But also can we just acknowledge that YOU deserve support right now? Like, you're sitting here worried sick and nobody's asking how YOU'RE holding up. This is literally a whole family dynamic happening and your emotions are allowed to be part of the conversation, not just the caregiver mode. Maybe we ALL need some food and a therapy session after this honestly."
+    },
+    {
+      "role": "mama",
+      "text": "Ay, mija, you don't know how much it means to me that you said that... *starts crying* It's just that I'm so used to taking care of everyone that sometimes I forget I have feelings too, and now I'm worried about mijo and also about what happens next, and I just... *wipes tears* Let's order something please, I'm a mess, and nobody should make big decisions on an empty stomach, that's all I'm saying."
+    },
+    {
+      "role": "moderator_close",
+      "text": "We feel for you—fifteen years of trust bruised by careless words, and the family aches to see you hurting and hungry for answers. We all agree that loyalty should not leak into the workplace, that you deserve clarity about what was said, and that you must protect your peace with firm, loving boundaries. We recommend pausing to nourish yourself, then asking for a direct conversation to hear the truth, decide what this friendship is worth, and choose dignity over denial while we stand by you with food, prayer, and steady love."
+    }
+  ],
+  "eval": {
+    "coverage_pct": 87.5,
+    "baseline_considerations": [
+      "Assess the content, frequency, and intent of the remarks to gauge severity.",
+      "Verify facts and context to avoid misinterpreting hearsay or partial information.",
+      "Consider impacts on workplace trust, team dynamics, and professional reputation.",
+      "Evaluate the 15-year friendship’s value, patterns of trust, and history of conflict.",
+      "Clarify personal boundaries and non-negotiables for privacy and respect.",
+      "Plan a private, calm conversation with clear goals and desired outcomes.",
+      "Explore repair options (apology, mediation, boundaries) versus distance or ending the friendship.",
+      "Mitigate workplace fallout discreetly and document if escalation is needed."
+    ],
+    "voice_scores": {
+      "abuela": 4,
+      "mama": 5,
+      "tio": 3,
+      "prima": 5,
+      "primo": 4
+    },
+    "diversity_score": -1.0,
+    "judge_reasoning": "The panel addressed 7 of 8 considerations. They discussed assessing content/frequency (El Primo/Prima asking what was said), verifying facts/context (La Mamá and El Tío emphasizing getting full picture), workplace impacts (Moderador noting 'loyalty should not leak into the workplace'), the 15-year friendship's value (multiple personas), personal boundaries (La Prima/Primo on setting boundaries), planning a direct conversation (Moderador and La Mamá), and exploring repair vs. ending (El Tío and Moderator on deciding friendship's worth). However, they did NOT address mitigating workplace fallout discreetly or documenting for escalation - the focus remained on personal/relationship dynamics rather than professional documentation or escalation strategies."
+  },
+  "timing": {
+    "panel_seconds": 262.9,
+    "eval_seconds": 241.0
+  }
+}

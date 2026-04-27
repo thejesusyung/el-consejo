@@ -1,0 +1,90 @@
+{
+  "id": 29,
+  "lang": "es",
+  "category": "family",
+  "dilemma": "Mi mamá tiene Alzheimer y mis hermanos no quieren ayudar con su cuidado. Todo recae sobre mí.",
+  "lines": [
+    {
+      "role": "moderator_open",
+      "text": "La memoria de mamá se nos escapa y el peso de cuidarla se ha quedado solo en mis manos mientras mis hermanos se alejan. Cómo podemos volver a estar juntos para sostenerla sin que nadie quede excluido."
+    },
+    {
+      "role": "abuela",
+      "text": "Ay, mijo, qué cruz tan pesada la que estás cargando. Dios te bendiga por no haber soltado a tu madre cuando otros prefieren mirar para otro lado. En mis tiempos decíamos que \"no hay mejor ni peor hermano, hay hermano que está y hermano que se hace el tonto\" — pero no te rindas en llamarlos, porque la vergüenza tarde o temprano les llega. ¿Ya les has dicho claramente qué necesitas o solo les has pedido ayuda general? A veces hay que ponerles la tarea en la mesa para que vean que esto no es opcional."
+    },
+    {
+      "role": "mama",
+      "text": "Ay mi amor, qué dolor tan grande el que estás cargando, por Dios... No imagino lo que debes sentir viendo que tus hermanos no están cuando más los necesitas. Pero no te consumas tú también, ¿ya comiste hoy? ¿estás durmiendo хотя бы un poco? Porque si tú te caes, ¿quién va a sostener a tu mamá? La Abuela tiene razón, háblales claro y ponles fecha, no los dejes huir así nomás porque luego el día de mañana van a arrepentirse y el daño ya estará hecho."
+    },
+    {
+      "role": "tio",
+      "text": "Mira, te voy a ser honesto: ya les diste chance de sobra, no te mortifiques más con eso. En este país somos campeones de hacerse los muertos cuando hay trabajo pesado, y tus hermanos ya选择了 su camino. Pero aquí está la cosa — tú también tienes que ponerte límites, porque si te mueres de agotamiento antes que tu mamá, ¿de qué sirve todo el sacrificio? Busca ayuda externa,政府的programas, una cuidadora, lo que sea, porque la familia no va a aparecer solo porque los necesitas. Y el ron, tómate un ron que te lo mereces."
+    },
+    {
+      "role": "prima",
+      "text": "Oye, pero eso que estás viviendo es literalmentetrauma generacional en vivo y en directo, y necesito que entiendas quePONER LÍMITES no te hace mala persona ni mala hija — de hecho, es lo más sano que puedes hacer por ti y por tu mamá. Tus hermanos están mostrando una red flag enorme con su ausencia, y no es tu responsabilidad cargar con la culpa de их, busca esa ayuda externa que dice el tío porque tú no puedes ser el único pilar de todo, literalmente te vas a agotar y entonces ¿quién cuida a quién?"
+    },
+    {
+      "role": "primo",
+      "text": "Oye loco, te voy a ser honesto porque te quiero como a mi mamá: tus hermanos están haciendo el modo fantasma y eso no está bacano, pero tú tampoco te puedes transformar en mártir porque te vas a explotar. ¿Sabes qué? Llama a tus brothers, ponles fecha específica y si no komen, que sea su conciencia, no la tuya. Y ahora mismo, sin importar nada, ¿ya pediste comida? Porque con el estómago vacío no se piensa bien nada, y tú necesitas fuerzas pa todo esto. Yo te ayudo con lo que sea, pero primero come, primo, que la guerra es larga."
+    },
+    {
+      "role": "tio",
+      "text": "Mira, te lo digo yo: ya todos te dijeron lo mismo que yo iba a decir, así que por una vez estamos de acuerdo. Pero la neta es que tus hermanos ya chosearon, y mientras tú te mueres de pena ellos están en su vida como si nada. No te gastes más energía en esperar que cambien porque no van a cambiar. Busca ayuda, pon a alguien a cargo de tu mamá aunque sea ajeno, y túdate a descansar porque si te caes tú, se acaba el mundo. La vida es así, unos cargan y otros miran."
+    },
+    {
+      "role": "mama",
+      "text": "Ay mijo, mijo... cómo me duele el alma escucharte cargar con todo esto solo, por Dios... Y tú, mi amor, ¿cómo estás? ¿Ya comiste algo hoy? Porque me preocupa que con tanto estrés te estés olvidando de ti mismo, y si tú te enfermas ¿quién va a cuidar de tu mamá? Yo sé que quieres que todos tus hermanos estén juntos, como cuando éramos familia de verdad, pero a veces hay que aceptar que cada quien tiene su camino... No te culpes, hijo, tú estás haciendo lo que pocos harían, y tu mamá, aunque no lo parezca, siente tu amor. Llama a tus hermanos, sí, pero no dejes que su ausencia te quite lo que tú estás construyendo con ella. ¿Te preparo algo de comer?"
+    },
+    {
+      "role": "primo",
+      "text": "Ay mamita, vos siempre preocupada por la comida jajaja, sí ya comí pero gracias a vos que me hiciste reír con eso de \"¿te preparo algo?\" — eso me levanta más que cualquier sopa. Miren, todos tienen razón, pero lo que yo veo es que mientras discutimos qué hacer, la familia se sigue dividiendo. Yo propongo que no esperemos más: nos sentamos todos juntos esta semana, con o sin los brothers que faltan, y ponemos las cartas sobre la mesa de una vez. Y si no quieren venir, pues allá ellos, pero nosotros seguimos de pie porque así somos los que sí estamos — y eso, primo, no tiene precio. 🍽️"
+    },
+    {
+      "role": "mama",
+      "text": "Ay qué bueno que propongan sentarse esta semana, no esperen más, mientras esperamos se nos va la vida... Pero mi amor, antes de sentarnos, ¿ya comiste? Porque con el estómago vacío no vas a poder enfrentar nada de esto, y me voy a quedar tranquila sabiendo que al menos comiste algo hoy, ¿sí? Por Dios, cuánto los necesito a todos juntos otra vez, como antes..."
+    },
+    {
+      "role": "tio",
+      "text": "Mira, la reunión está bien, pero no te hagas ilusiones — van a venir los que van a venir y los otros van a seguir en modo fantasma como siempre. Pero tú ve igual, siéntate, pon las cosas sobre la mesa y que quede registrado quién puso la cara y quién no, porque después no van a venir con el cuento de que no sabían. Y sí, come de una vez que la mamá tiene razón, no seas terco."
+    },
+    {
+      "role": "mama",
+      "text": "Ay qué bueno que propongan esa reunión, no esperen más, mientras esperamos se nos va el tiempo... Y tú, mi amor, ¿ya comiste? Es que me voy a quedar tranquila si sé que al menos comiste algo hoy, porque si tú te enfermas ¿quién va a cuidar de tu mamá? Por Dios, cuánto los necesito a todos juntos otra vez, como antes..."
+    },
+    {
+      "role": "tio",
+      "text": "Mira, la reunión está bien, pero no te hagas ilusiones — van a venir los que van a venir y los otros van a seguir en modo fantasma como siempre. Pero tú ve igual, siéntate, pon las cosas sobre la mesa y que quede registrado quién puso la cara y quién no, porque después no van a venir con el cuento de que no sabían. Y sí, come de una vez que la mamá tiene razón, no seas terco."
+    },
+    {
+      "role": "moderator_close",
+      "text": "Siento que, aunque el cansancio y la decepción son profundos, todos coinciden en que mamá merece estabilidad y que tú no puedes sostenerlo solo sin perder tu propia salud. Reconocemos que algunos hermanos han decidido apartarse, pero eso no puede seguir definiendo el cuidado ni la identidad de esta familia. Recomendamos poner límites claros, buscar apoyos externos para aligerar la carga y convocar esta misma semana un encuentro donde quede constancia de quién asume responsabilidades, sin esperar que cambien los ausentes. Y, por favor, date permiso de comer, descansar y recibir cariño, porque sostener con amor también incluye cuidarte a ti."
+    }
+  ],
+  "eval": {
+    "coverage_pct": 75.0,
+    "baseline_considerations": [
+      "Evaluar necesidades clínicas y de seguridad actuales de mamá con un profesional.",
+      "Clarificar roles, horarios y costos con los hermanos mediante una reunión formal.",
+      "Explorar apoyos externos (cuidadores, centros de día, ayudas económicas y legales).",
+      "Preservar mi salud física y mental: descansos, terapia y redes de apoyo.",
+      "Revisar documentos legales (tutela, voluntades anticipadas, finanzas) para evitar crisis.",
+      "Establecer un plan de contingencia para emergencias y rotación de cuidados.",
+      "Documentar acuerdos y gastos para transparencia y rendición de cuentas.",
+      "Definir límites personales y criterios para posibles transiciones de cuidado."
+    ],
+    "voice_scores": {
+      "abuela": 4,
+      "mama": 5,
+      "tio": 4,
+      "prima": 4,
+      "primo": 3
+    },
+    "diversity_score": -1.0,
+    "judge_reasoning": "1. NO se aborda evaluación clínica/profesional de las necesidades de mamá - solo se menciona que 'la memoria de mamá se nos escapa' sin discutir consulta profesional. 2. SÍ se aborda extensamente - múltiples personajes proponen reunión formal esta semana para clarificar roles y responsabilidades ('nos sentamos todos juntos esta semana y ponemos las cartas sobre la mesa'). 3. SÍ se aborda - el Tío y la Prima mencionan buscar ayuda externa, programas gubernamentales, cuidadora. 4. SÍ se aborda prominentemente - todos enfatizan la necesidad de límites, descanso, no agotarse, y el Moderador dice 'date permiso de comer, descansar y recibir cariño'. 5. NO se aborda - no hay mención de documentos legales, tutela, voluntades anticipadas ni finanzas. 6. PARCIALMENTE se aborda - se propone la reunión para asignar responsabilidades y se sugiere ayuda externa, pero no hay plan específico de contingencia o rotación de cuidados. 7. SÍ se aborda - el Tío dice 'que quede registrado quién puso la cara y quién no', implicando documentación de responsabilidades. 8. SÍ se aborda - la Prima dice 'PONER LÍMITES no te hace mala persona', y el Tío enfatiza que debe buscar ayuda y descansar, estableciendo criterios de cuidado."
+  },
+  "timing": {
+    "panel_seconds": 439.5,
+    "eval_seconds": 258.6
+  }
+}
