@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { AUDIO_OUT_URL, PERSONAS } from "./config";
-import { presign, uploadAudio, sendFeedback, submitText } from "./api";
+import { sendFeedback, submitText } from "./api";
 import { useSession } from "./useSession";
 import { PersonaCard } from "./components/PersonaCard";
 import { StatusBar } from "./components/StatusBar";
@@ -12,19 +12,6 @@ export default function App() {
   const [textInput, setTextInput] = useState("");
   const [submitting, setSubmitting] = useState(false);
   const { state, connect, reset } = useSession(AUDIO_OUT_URL);
-
-  const onRecorded = async (blob: Blob) => {
-    try {
-      const { session_id, put_url, content_type } = await presign("webm");
-      setSessionId(session_id);
-      setVoteSent(false);
-      reset();
-      connect(session_id);
-      await uploadAudio(put_url, blob, content_type);
-    } catch (e) {
-      console.error(e);
-    }
-  };
 
   const [submitError, setSubmitError] = useState<string | null>(null);
 
