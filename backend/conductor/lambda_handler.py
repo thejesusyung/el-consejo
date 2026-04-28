@@ -42,23 +42,45 @@ def _sqs():
     return boto3.client("sqs", region_name=cfg.REGION)
 
 
+_MODERATOR_TTS_DESCRIPTION = (
+    "Warm, calm bilingual moderator with a Latin accent, measured and clear pace"
+    " speaking to a family member"
+)
+
+
+def _synthesize(text: str, voice_description: str, bucket: str, key: str, lang: str) -> None:
+    """Dispatch TTS to OpenRouter or Polly depending on TTS_BACKEND env var."""
+    if cfg.TTS_BACKEND == "openrouter":
+        audio.synthesize_with_openrouter(
+            text=text,
+            voice_description=voice_description,
+            bucket=bucket,
+            key=key,
+        )
+    else:
+        audio.synthesize_to_s3(
+            text=text,
+            voice_id=voice_description,  # polly path: description IS the voice_id
+            bucket=bucket,
+            key=key,
+            lang_code=audio.polly_lang_code(lang),
+        )
+
+
 def _build_line_callback(session_id: str, lang: str, personas):
     """Returns an on_line callback that persists each line + its TTS audio."""
-    lang_code = audio.polly_lang_code(lang)
 
     def on_line(line: Line, idx: int) -> None:
         if line.role == "moderator_close":
             audio_key = f"sessions/{session_id}/verdict.mp3"
+            verdict_voice = (
+                _MODERATOR_TTS_DESCRIPTION if cfg.TTS_BACKEND == "openrouter"
+                else _moderator_polly_voice(lang)
+            )
             try:
-                audio.synthesize_to_s3(
-                    text=line.text,
-                    voice_id=_moderator_voice(lang),
-                    bucket=cfg.BUCKET_AUDIO_OUT,
-                    key=audio_key,
-                    lang_code=lang_code,
-                )
+                _synthesize(line.text, verdict_voice, cfg.BUCKET_AUDIO_OUT, audio_key, lang)
             except Exception:
-                log.exception("polly failed for verdict")
+                log.exception("tts failed for verdict")
                 audio_key = ""
             storage.set_verdict(session_id, line.text, audio_s3_key=audio_key)
             ws_broadcast(session_id, {
@@ -69,21 +91,20 @@ def _build_line_callback(session_id: str, lang: str, personas):
             return
 
         if line.role == "moderator_open":
-            voice_id = _moderator_voice(lang)
+            voice = (
+                _MODERATOR_TTS_DESCRIPTION if cfg.TTS_BACKEND == "openrouter"
+                else _moderator_polly_voice(lang)
+            )
+        elif cfg.TTS_BACKEND == "openrouter":
+            voice = personas.personas[line.role].tts_voice_prompt()
         else:
-            voice_id = personas.personas[line.role].polly_voice_for(lang)
+            voice = personas.personas[line.role].polly_voice_for(lang)
 
         audio_key = f"sessions/{session_id}/line_{idx:03d}.mp3"
         try:
-            audio.synthesize_to_s3(
-                text=line.text,
-                voice_id=voice_id,
-                bucket=cfg.BUCKET_AUDIO_OUT,
-                key=audio_key,
-                lang_code=lang_code,
-            )
+            _synthesize(line.text, voice, cfg.BUCKET_AUDIO_OUT, audio_key, lang)
         except Exception:
-            log.exception("polly failed for line %s", idx)
+            log.exception("tts failed for line %s", idx)
             audio_key = ""
         storage.append_line(
             session_id=session_id,
@@ -103,8 +124,7 @@ def _build_line_callback(session_id: str, lang: str, personas):
     return on_line
 
 
-def _moderator_voice(lang: str) -> str:
-    # A single warm neutral voice for the moderator; not a persona.
+def _moderator_polly_voice(lang: str) -> str:
     return "Pedro" if lang == "es" else "Stephen"
 
 

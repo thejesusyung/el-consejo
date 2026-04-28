@@ -9,7 +9,8 @@
       "signature_phrases_es": ["mijo", "mija", "Dios mío", "Ave María", "en mis tiempos", "que Dios te bendiga"],
       "signature_phrases_en": ["mijo", "mija", "Dios mío", "Ave María Purísima", "back in my day", "may God bless you"],
       "polly_voice_es": "Lupe",
-      "polly_voice_en": "Ruth"
+      "polly_voice_en": "Ruth",
+      "tts_voice_description": "Warm, elderly woman, wise tone, slight Spanish accent, speaking slowly with care and affection"
     },
     "mama": {
       "name": "Mamá",
@@ -18,7 +19,8 @@
       "signature_phrases_es": ["¿ya comiste?", "por Dios", "ay mi amor", "¿estás durmiendo bien?", "no me hagas esto"],
       "signature_phrases_en": ["have you eaten?", "por Dios", "ay mi amor", "are you sleeping okay?", "don't do this to me"],
       "polly_voice_es": "Lucia",
-      "polly_voice_en": "Joanna"
+      "polly_voice_en": "Joanna",
+      "tts_voice_description": "Middle-aged woman, nurturing but practical, confident maternal tone, slightly faster pace"
     },
     "tio": {
       "name": "Tío",
@@ -27,7 +29,8 @@
       "signature_phrases_es": ["la vida es así", "no seas pendejo", "te lo digo yo", "en este país", "puro cuento"],
       "signature_phrases_en": ["that's life", "don't be a fool", "trust me on this one", "in this country", "pure nonsense"],
       "polly_voice_es": "Pedro",
-      "polly_voice_en": "Matthew"
+      "polly_voice_en": "Matthew",
+      "tts_voice_description": "Middle-aged man, friendly and humorous, warm casual tone, conversational speed"
     },
     "prima": {
       "name": "Prima",
@@ -36,7 +39,8 @@
       "signature_phrases_es": ["literalmente", "eso es una red flag", "trauma generacional", "pon límites", "eso no es sano"],
       "signature_phrases_en": ["literally", "that's a red flag", "generational trauma", "set boundaries", "the audacity"],
       "polly_voice_es": "Mia",
-      "polly_voice_en": "Danielle"
+      "polly_voice_en": "Danielle",
+      "tts_voice_description": "Young woman, modern energetic tone, relatable, upbeat, quick-paced speech"
     },
     "primo": {
       "name": "Primo",
@@ -45,7 +49,8 @@
       "signature_phrases_es": ["qué pasa mi gente", "tranqui", "eso es un vacilón", "relájate primo", "yo soy un tipo serio"],
       "signature_phrases_en": ["what's good fam", "chill", "that's wild", "relax cousin", "keeping it real"],
       "polly_voice_es": "Andres",
-      "polly_voice_en": "Stephen"
+      "polly_voice_en": "Stephen",
+      "tts_voice_description": "Young man, laid-back friendly tone, cool vibe, natural conversational pace"
     }
   },
   "reactivity": {

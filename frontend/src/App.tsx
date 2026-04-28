@@ -2,7 +2,6 @@ import { useState } from "react";
 import { AUDIO_OUT_URL, PERSONAS } from "./config";
 import { presign, uploadAudio, sendFeedback, submitText } from "./api";
 import { useSession } from "./useSession";
-import { Recorder } from "./components/Recorder";
 import { PersonaCard } from "./components/PersonaCard";
 import { StatusBar } from "./components/StatusBar";
 import { Transcript } from "./components/Transcript";
@@ -10,7 +9,6 @@ import { Transcript } from "./components/Transcript";
 export default function App() {
   const [sessionId, setSessionId] = useState<string | null>(null);
   const [voteSent, setVoteSent] = useState(false);
-  const [inputMode, setInputMode] = useState<"text" | "audio">("text");
   const [textInput, setTextInput] = useState("");
   const [submitting, setSubmitting] = useState(false);
   const { state, connect, reset } = useSession(AUDIO_OUT_URL);
@@ -28,19 +26,23 @@ export default function App() {
     }
   };
 
+  const [submitError, setSubmitError] = useState<string | null>(null);
+
   const onTextSubmit = async () => {
     const text = textInput.trim();
     if (!text || submitting) return;
     try {
       setSubmitting(true);
+      setSubmitError(null);
       setVoteSent(false);
       reset();
       const { session_id } = await submitText(text);
       setSessionId(session_id);
       connect(session_id);
       setTextInput("");
-    } catch (e) {
+    } catch (e: any) {
       console.error(e);
+      setSubmitError(e.message || "No se pudo conectar con el servidor.");
     } finally {
       setSubmitting(false);
     }
@@ -62,34 +64,21 @@ export default function App() {
       </header>
 
       <section className="family">
-        {PERSONAS.map((p) => (
+        {PERSONAS.map((p, i) => (
           <PersonaCard
             key={p.key}
             personaKey={p.key}
             name={p.name}
             active={state.activeRole === p.key}
+            index={i}
           />
         ))}
       </section>
 
       <section className="controls">
-        <div className="input-tabs">
-          <button
-            className={inputMode === "text" ? "tab active" : "tab"}
-            onClick={() => setInputMode("text")}
-          >
-            ✍️ Escribir
-          </button>
-          <button
-            className={inputMode === "audio" ? "tab active" : "tab"}
-            onClick={() => setInputMode("audio")}
-          >
-            🎙️ Grabar
-          </button>
-        </div>
 
-        {inputMode === "text" ? (
-          <div className="text-input">
+
+        <div className="text-input">
             <textarea
               placeholder="Cuéntame tu problema… (español o inglés)"
               value={textInput}
@@ -104,10 +93,6 @@ export default function App() {
               {submitting ? "Enviando…" : "Consultar al Consejo"}
             </button>
           </div>
-        ) : (
-          <Recorder onRecorded={onRecorded} disabled={state.status === "running"} />
-        )}
-
         <StatusBar status={state.status} />
       </section>
 
@@ -125,9 +110,6 @@ export default function App() {
         <section className="verdict">
           <h2>Veredicto de la familia</h2>
           <p>{state.verdict.text}</p>
-          {state.verdict.audio_url && (
-            <audio controls preload="none" src={state.verdict.audio_url} />
-          )}
           {done && (
             <div className="feedback">
               {voteSent ? (
@@ -144,6 +126,7 @@ export default function App() {
       )}
 
       {state.error && <div className="error">⚠️ {state.error}</div>}
+      {submitError && <div className="error">⚠️ {submitError}</div>}
     </div>
   );
 }

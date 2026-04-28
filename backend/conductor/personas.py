@@ -28,12 +28,17 @@ class Persona:
     signature_phrases_en: list[str]
     polly_voice_es: str
     polly_voice_en: str
+    tts_voice_description: str = ""
 
     def signature_for(self, lang: str) -> list[str]:
         return self.signature_phrases_es if lang.startswith("es") else self.signature_phrases_en
 
     def polly_voice_for(self, lang: str) -> str:
         return self.polly_voice_es if lang.startswith("es") else self.polly_voice_en
+
+    def tts_voice_prompt(self) -> str:
+        """Voice style string passed to OpenRouter TTS as the voice parameter."""
+        return f"{self.tts_voice_description} speaking to a family member"
 
 
 @dataclass

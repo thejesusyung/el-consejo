@@ -22,6 +22,11 @@ BUCKET_TRANSCRIPTS = os.getenv("ELCONSEJO_BUCKET_TRANSCRIPTS", "elconsejo-transc
 SQS_CONDUCTOR_URL = os.getenv("ELCONSEJO_SQS_CONDUCTOR_URL", "")
 SQS_EVAL_URL = os.getenv("ELCONSEJO_SQS_EVAL_URL", "")
 
+# Set TTS_BACKEND=openrouter to use OpenRouter Gemini TTS instead of Polly.
+TTS_BACKEND = os.getenv("TTS_BACKEND", "polly")
+OPENROUTER_TTS_MODEL = os.getenv("OPENROUTER_TTS_MODEL", "google/gemini-2.5-flash-preview-tts")
+OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY", "")
+
 NOVA_CANVAS_MODEL_ID = os.getenv("BEDROCK_NOVA_CANVAS_MODEL_ID", "amazon.nova-canvas-v1:0")
 
 

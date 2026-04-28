@@ -1,13 +1,16 @@
-"""Transcribe (voice note → text + language) and Polly (persona line → MP3).
+"""Transcribe (voice note → text + language), Polly and OpenRouter TTS (persona line → MP3).
 
 Transcribe is used once per session with automatic language identification
-(Spanish vs English). Polly is used once per persona line to synthesize the
-panel's spoken audio to S3.
+(Spanish vs English). TTS is used once per persona line to synthesize the
+panel's spoken audio to S3. Set TTS_BACKEND=openrouter to use OpenRouter
+Gemini TTS with persona voice descriptions instead of Polly.
 """
 from __future__ import annotations
 
 import json
 import time
+import urllib.error
+import urllib.request
 import uuid
 from functools import lru_cache
 
@@ -109,3 +112,62 @@ def synthesize_to_s3(
 
 def polly_lang_code(lang: str) -> str:
     return "es-US" if lang.startswith("es") else "en-US"
+
+
+# ---------- OpenRouter TTS ----------
+
+_OPENROUTER_TTS_URL = "https://openrouter.ai/api/v1/audio/speech"
+
+_MAX_RETRIES = 4
+_BASE_DELAY = 2.0
+
+
+def synthesize_with_openrouter(
+    text: str,
+    voice_description: str,
+    bucket: str,
+    key: str,
+    model: str | None = None,
+    api_key: str | None = None,
+) -> None:
+    """Synthesize `text` via OpenRouter TTS, upload MP3 to s3://bucket/key.
+
+    `voice_description` is passed as the `voice` parameter and should be a
+    natural-language style description, e.g.
+    "Warm, elderly woman, wise tone, slight Spanish accent speaking to a family member".
+    """
+    resolved_model = model or cfg.OPENROUTER_TTS_MODEL
+    resolved_key = api_key or cfg.OPENROUTER_API_KEY
+    if not resolved_key:
+        raise RuntimeError("OPENROUTER_API_KEY is not set")
+
+    body = json.dumps({
+        "model": resolved_model,
+        "input": text,
+        "voice": voice_description,
+    }).encode()
+
+    audio_bytes: bytes | None = None
+    for attempt in range(_MAX_RETRIES):
+        req = urllib.request.Request(
+            _OPENROUTER_TTS_URL,
+            data=body,
+            headers={
+                "Authorization": f"Bearer {resolved_key}",
+                "Content-Type": "application/json",
+            },
+        )
+        try:
+            with urllib.request.urlopen(req, timeout=60) as resp:
+                audio_bytes = resp.read()
+            break
+        except urllib.error.HTTPError as e:
+            if e.code == 429 and attempt < _MAX_RETRIES - 1:
+                time.sleep(_BASE_DELAY * (2 ** attempt))
+                continue
+            raise
+
+    if audio_bytes is None:
+        raise RuntimeError("OpenRouter TTS returned no audio")
+
+    _s3().put_object(Bucket=bucket, Key=key, Body=audio_bytes, ContentType="audio/mpeg")
